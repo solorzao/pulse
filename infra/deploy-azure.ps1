@@ -23,19 +23,19 @@ $LogFile = Cfg "PULSE_DEPLOY_LOG" (Join-Path $PSScriptRoot "..\deploy.log")
 function Log($msg) { $line = "`n==> $msg"; Write-Host $line -ForegroundColor Cyan; Add-Content -Path $LogFile -Value $line }
 
 # Run az, stream output to console + log, fail on non-zero exit.
-function Az {
-  $out = & az @args 2>&1
+function Invoke-AzCli {
+  $out = & az.cmd @args 2>&1
   $code = $LASTEXITCODE
   $out | ForEach-Object { $s = "$_"; Write-Host $s; Add-Content -Path $LogFile -Value $s }
   if ($code -ne 0) { throw "az $($args -join ' ') failed with exit code $code" }
   return ($out | Where-Object { $_ -isnot [System.Management.Automation.ErrorRecord] } | ForEach-Object { "$_" }) -join "`n"
 }
 # Query az quietly; returns trimmed string or "" on failure (used for existence checks).
-function AzQ { $out = & az @args 2>$null; if ($LASTEXITCODE -ne 0) { return "" } ; return (($out | ForEach-Object { "$_" }) -join "`n").Trim() }
+function Get-AzValue { $out = & az.cmd @args 2>$null; if ($LASTEXITCODE -ne 0) { return "" } ; return (($out | ForEach-Object { "$_" }) -join "`n").Trim() }
 
 Set-Content -Path $LogFile -Value "Pulse deploy started $(Get-Date -Format o)"
 try {
-  $SUB_ID = AzQ account show --query id -o tsv
+  $SUB_ID = Get-AzValue account show --query id -o tsv
   if (-not $SUB_ID) { throw "Not logged in to Azure. Run 'az login' first." }
   $ACR_NAME = Cfg "ACR_NAME" ("pulseacr" + ($SUB_ID -replace "-", "").Substring(0, 8))
   $REPO_ROOT = (Resolve-Path (Join-Path $PSScriptRoot "..")).Path
@@ -46,29 +46,29 @@ try {
   Log "Subscription $SUB_ID | RG $RG | $LOCATION | ACR $ACR_NAME | tag $TAG"
 
   Log "Ensuring containerapp CLI extension + resource providers"
-  Az extension add --name containerapp --upgrade --only-show-errors -y | Out-Null
+  Invoke-AzCli extension add --name containerapp --upgrade --only-show-errors -y | Out-Null
   foreach ($ns in "Microsoft.App", "Microsoft.OperationalInsights", "Microsoft.ContainerRegistry") {
-    $state = AzQ provider show -n $ns --query registrationState -o tsv
-    if ($state -ne "Registered") { Log "Registering $ns"; Az provider register -n $ns --wait | Out-Null }
+    $state = Get-AzValue provider show -n $ns --query registrationState -o tsv
+    if ($state -ne "Registered") { Log "Registering $ns"; Invoke-AzCli provider register -n $ns --wait | Out-Null }
   }
 
   Log "Resource group"
-  Az group create -n $RG -l $LOCATION -o none | Out-Null
+  Invoke-AzCli group create -n $RG -l $LOCATION -o none | Out-Null
 
   Log "Container registry (Basic, admin disabled)"
-  if (-not (AzQ acr show -n $ACR_NAME -g $RG --query id -o tsv)) {
-    Az acr create -n $ACR_NAME -g $RG -l $LOCATION --sku Basic --admin-enabled false -o none | Out-Null
+  if (-not (Get-AzValue acr show -n $ACR_NAME -g $RG --query id -o tsv)) {
+    Invoke-AzCli acr create -n $ACR_NAME -g $RG -l $LOCATION --sku Basic --admin-enabled false -o none | Out-Null
   }
-  $ACR_ID = AzQ acr show -n $ACR_NAME -g $RG --query id -o tsv
-  $ACR_SERVER = AzQ acr show -n $ACR_NAME -g $RG --query loginServer -o tsv
+  $ACR_ID = Get-AzValue acr show -n $ACR_NAME -g $RG --query id -o tsv
+  $ACR_SERVER = Get-AzValue acr show -n $ACR_NAME -g $RG --query loginServer -o tsv
 
   Log "User-assigned identity with AcrPull"
-  Az identity create -n $IDENTITY -g $RG -l $LOCATION -o none | Out-Null
-  $UAI_ID = AzQ identity show -n $IDENTITY -g $RG --query id -o tsv
-  $UAI_PRINCIPAL = AzQ identity show -n $IDENTITY -g $RG --query principalId -o tsv
-  $existing = AzQ role assignment list --assignee $UAI_PRINCIPAL --scope $ACR_ID --role AcrPull --query "length(@)" -o tsv
+  Invoke-AzCli identity create -n $IDENTITY -g $RG -l $LOCATION -o none | Out-Null
+  $UAI_ID = Get-AzValue identity show -n $IDENTITY -g $RG --query id -o tsv
+  $UAI_PRINCIPAL = Get-AzValue identity show -n $IDENTITY -g $RG --query principalId -o tsv
+  $existing = Get-AzValue role assignment list --assignee $UAI_PRINCIPAL --scope $ACR_ID --role AcrPull --query "length(@)" -o tsv
   if ($existing -ne "1" -and $existing -notmatch "^[1-9]") {
-    Az role assignment create --assignee-object-id $UAI_PRINCIPAL --assignee-principal-type ServicePrincipal --role AcrPull --scope $ACR_ID -o none | Out-Null
+    Invoke-AzCli role assignment create --assignee-object-id $UAI_PRINCIPAL --assignee-principal-type ServicePrincipal --role AcrPull --scope $ACR_ID -o none | Out-Null
     Log "Waiting 45s for the role assignment to propagate"
     Start-Sleep -Seconds 45
   }
@@ -76,15 +76,15 @@ try {
   Log "Building image in ACR from repo root (api/Dockerfile) - this takes a few minutes"
   $IMAGE = "$ACR_SERVER/${IMAGE_REPO}:$TAG"
   Push-Location $REPO_ROOT
-  try { Az acr build -r $ACR_NAME -f api/Dockerfile -t "${IMAGE_REPO}:$TAG" -t "${IMAGE_REPO}:latest" . | Out-Null }
+  try { Invoke-AzCli acr build -r $ACR_NAME -f api/Dockerfile -t "${IMAGE_REPO}:$TAG" -t "${IMAGE_REPO}:latest" . | Out-Null }
   finally { Pop-Location }
 
   Log "Log Analytics workspace + Container Apps environment"
-  if (-not (AzQ containerapp env show -n $ENV_NAME -g $RG --query id -o tsv)) {
-    Az monitor log-analytics workspace create -n $LOGS -g $RG -l $LOCATION -o none | Out-Null
-    $LOGS_ID = AzQ monitor log-analytics workspace show -n $LOGS -g $RG --query customerId -o tsv
-    $LOGS_KEY = AzQ monitor log-analytics workspace get-shared-keys -n $LOGS -g $RG --query primarySharedKey -o tsv
-    Az containerapp env create -n $ENV_NAME -g $RG -l $LOCATION --logs-workspace-id $LOGS_ID --logs-workspace-key $LOGS_KEY -o none | Out-Null
+  if (-not (Get-AzValue containerapp env show -n $ENV_NAME -g $RG --query id -o tsv)) {
+    Invoke-AzCli monitor log-analytics workspace create -n $LOGS -g $RG -l $LOCATION -o none | Out-Null
+    $LOGS_ID = Get-AzValue monitor log-analytics workspace show -n $LOGS -g $RG --query customerId -o tsv
+    $LOGS_KEY = Get-AzValue monitor log-analytics workspace get-shared-keys -n $LOGS -g $RG --query primarySharedKey -o tsv
+    Invoke-AzCli containerapp env create -n $ENV_NAME -g $RG -l $LOCATION --logs-workspace-id $LOGS_ID --logs-workspace-key $LOGS_KEY -o none | Out-Null
   }
 
   $envVars = @("CORS_ORIGINS=$CORS")
@@ -96,24 +96,24 @@ try {
     Log "ANTHROPIC_API_KEY not set - the API will use its deterministic fallback answers (add the key later)"
   }
 
-  if (-not (AzQ containerapp show -n $APP -g $RG --query id -o tsv)) {
+  if (-not (Get-AzValue containerapp show -n $APP -g $RG --query id -o tsv)) {
     Log "Creating container app $APP"
     $createArgs = @("containerapp", "create", "-n", $APP, "-g", $RG, "--environment", $ENV_NAME,
       "--image", $IMAGE, "--user-assigned", $UAI_ID, "--registry-server", $ACR_SERVER, "--registry-identity", $UAI_ID,
       "--ingress", "external", "--target-port", "8000",
       "--min-replicas", "1", "--max-replicas", "2", "--cpu", "0.5", "--memory", "1Gi") + $secretArgs + @("--env-vars") + $envVars + @("-o", "none")
-    Az @createArgs | Out-Null
+    Invoke-AzCli @createArgs | Out-Null
   } else {
     Log "Updating container app $APP"
-    if ($API_KEY) { Az containerapp secret set -n $APP -g $RG @secretArgs -o none | Out-Null }
-    Az containerapp registry set -n $APP -g $RG --server $ACR_SERVER --identity $UAI_ID -o none | Out-Null
-    Az containerapp ingress enable -n $APP -g $RG --type external --target-port 8000 -o none | Out-Null
+    if ($API_KEY) { Invoke-AzCli containerapp secret set -n $APP -g $RG @secretArgs -o none | Out-Null }
+    Invoke-AzCli containerapp registry set -n $APP -g $RG --server $ACR_SERVER --identity $UAI_ID -o none | Out-Null
+    Invoke-AzCli containerapp ingress enable -n $APP -g $RG --type external --target-port 8000 -o none | Out-Null
     $updateArgs = @("containerapp", "update", "-n", $APP, "-g", $RG, "--image", $IMAGE,
       "--min-replicas", "1", "--max-replicas", "2", "--cpu", "0.5", "--memory", "1Gi", "--set-env-vars") + $envVars + @("-o", "none")
-    Az @updateArgs | Out-Null
+    Invoke-AzCli @updateArgs | Out-Null
   }
 
-  $FQDN = AzQ containerapp show -n $APP -g $RG --query properties.configuration.ingress.fqdn -o tsv
+  $FQDN = Get-AzValue containerapp show -n $APP -g $RG --query properties.configuration.ingress.fqdn -o tsv
   Log "Done"
   $summary = @"
 API URL:        https://$FQDN
