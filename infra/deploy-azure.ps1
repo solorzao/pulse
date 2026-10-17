@@ -24,6 +24,7 @@ function Log($msg) { $line = "`n==> $msg"; Write-Host $line -ForegroundColor Cya
 
 # Run az, stream output to console + log, fail on non-zero exit.
 function Invoke-AzCli {
+  $ErrorActionPreference = "Continue"
   $out = & az.cmd @args 2>&1
   $code = $LASTEXITCODE
   $out | ForEach-Object { $s = "$_"; Write-Host $s; Add-Content -Path $LogFile -Value $s }
@@ -31,7 +32,7 @@ function Invoke-AzCli {
   return ($out | Where-Object { $_ -isnot [System.Management.Automation.ErrorRecord] } | ForEach-Object { "$_" }) -join "`n"
 }
 # Query az quietly; returns trimmed string or "" on failure (used for existence checks).
-function Get-AzValue { $out = & az.cmd @args 2>$null; if ($LASTEXITCODE -ne 0) { return "" } ; return (($out | ForEach-Object { "$_" }) -join "`n").Trim() }
+function Get-AzValue { $ErrorActionPreference = "Continue"; $out = & az.cmd @args 2>$null; if ($LASTEXITCODE -ne 0) { return "" } ; return (($out | ForEach-Object { "$_" }) -join "`n").Trim() }
 
 Set-Content -Path $LogFile -Value "Pulse deploy started $(Get-Date -Format o)"
 try {
