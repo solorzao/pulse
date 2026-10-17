@@ -77,7 +77,8 @@ try {
   Log "Building image in ACR from repo root (api/Dockerfile) - this takes a few minutes"
   $IMAGE = "$ACR_SERVER/${IMAGE_REPO}:$TAG"
   Push-Location $REPO_ROOT
-  try { Invoke-AzCli acr build -r $ACR_NAME -f api/Dockerfile -t "${IMAGE_REPO}:$TAG" -t "${IMAGE_REPO}:latest" . | Out-Null }
+  # --no-logs: streaming build logs crashes az on Windows (cp1252 can't encode docker's progress bars); it still waits for the build.
+  try { Invoke-AzCli acr build -r $ACR_NAME -f api/Dockerfile -t "${IMAGE_REPO}:$TAG" -t "${IMAGE_REPO}:latest" --no-logs . | Out-Null }
   finally { Pop-Location }
 
   Log "Log Analytics workspace + Container Apps environment"
