@@ -176,6 +176,23 @@ def finalize_answer(store: Store, raw: dict, seen_ids: set[str], fallback_conf: 
 
 
 # --------------------------------------------------------------- detection
+REGION_ALIASES = {
+    "united-kingdom": ["uk", "britain", "england", "london"],
+    "new-york": ["nyc"],
+    "ho-chi-minh-city": ["saigon", "hcmc", "vietnam"],
+    "los-angeles": ["l.a."],
+    "sao-paulo": ["são paulo", "brazil"],
+    "virginia-us": ["virginia"],
+    "germany": ["berlin"],
+    "netherlands": ["dutch", "amsterdam"],
+    "bangalore": ["bengaluru"],
+    "jakarta": ["indonesia"],
+    "manila": ["philippines"],
+    "seoul": ["korea"],
+    "tokyo": ["japan"],
+    "sydney": ["australia"],
+}
+
 def detect(store: Store, question: str, topic: str | None, region_id: str | None) -> tuple[str | None, list[str]]:
     q = (question or "").lower()
     found_topic = None
@@ -190,8 +207,10 @@ def detect(store: Store, question: str, topic: str | None, region_id: str | None
         names = {r.get("name", "").lower(), rid.replace("-", " ")}
         base = r.get("name", "").lower().split(",")[0].strip()
         names.add(base)
+        names.add(re.sub(r"-(us|uk)$", "", rid).replace("-", " "))  # virginia-us -> virginia
+        names.update(REGION_ALIASES.get(rid, []))
         for nm in names:
-            if nm and len(nm) > 2 and re.search(r"\b" + re.escape(nm) + r"\b", q):
+            if nm and len(nm) >= 2 and re.search(r"\b" + re.escape(nm) + r"\b", q):
                 pos = q.find(nm)
                 regions.append((pos, rid))
                 break

@@ -1,0 +1,829 @@
+{"id": "esc-09b4a8290d", "sentiment": -0.397, "narrative": "Safety & clutter", "region_id": "cape-town", "ocr": null}
+{"id": "esc-a323704d9b", "sentiment": 0.135, "narrative": "Fun & practical for short trips", "region_id": "los-angeles", "ocr": null}
+{"id": "esc-740cf83594", "sentiment": 0.39, "narrative": "Practical & green commuting", "region_id": "warsaw", "ocr": null}
+{"id": "esc-3f9da35cb6", "sentiment": 0.082, "narrative": "Neutral / policy news", "region_id": "bangalore", "ocr": null}
+{"id": "esc-cfdba160ca", "sentiment": 0.116, "narrative": "Practical & green commuting", "region_id": "vancouver", "ocr": null}
+{"id": "esc-f76f488d81", "sentiment": -0.296, "narrative": "Safety & clutter", "region_id": "hyderabad", "ocr": null}
+{"id": "esc-c3873ccca3", "sentiment": -0.241, "narrative": "Safety & clutter", "region_id": "germany", "ocr": null}
+{"id": "esc-f4e224fc6e", "sentiment": -0.577, "narrative": "Charging & battery doubts", "region_id": "jakarta", "ocr": null}
+{"id": "esc-da5a4576ae", "sentiment": 0.144, "narrative": "Neutral / policy news", "region_id": "united-kingdom", "ocr": null}
+{"id": "esc-47743fb5a9", "sentiment": 0.083, "narrative": "Useful for delivery workers", "region_id": "singapore", "ocr": null}
+{"id": "esc-6846f4e987", "sentiment": 0.746, "narrative": "Affordable & convenient", "region_id": "ho-chi-minh-city", "ocr": null}
+{"id": "esc-a0c7a0c4c9", "sentiment": 0.191, "narrative": "Neutral / policy news", "region_id": "sao-paulo", "ocr": null}
+{"id": "esc-3d4dc391d0", "sentiment": 0.563, "narrative": "Practical & green commuting", "region_id": "seoul", "ocr": null}
+{"id": "esc-4104c7fe89", "sentiment": 0.414, "narrative": "E-bike convenience", "region_id": "manila", "ocr": null}
+{"id": "esc-a1908a0b7c", "sentiment": 0.592, "narrative": "Useful for delivery workers", "region_id": "singapore", "ocr": null}
+{"id": "esc-0c92f99f2e", "sentiment": -0.374, "narrative": "Safety & clutter", "region_id": "new-york", "ocr": null}
+{"id": "esc-d3ae48610c", "sentiment": 0.728, "narrative": "Cheap commuting & savings", "region_id": "jakarta", "ocr": null}
+{"id": "esc-a87e45f19a", "sentiment": -0.333, "narrative": "Safety & clutter", "region_id": "sydney", "ocr": null}
+{"id": "esc-1102514685", "sentiment": 0.456, "narrative": "Cheap commuting & savings", "region_id": "jakarta", "ocr": null}
+{"id": "esc-9c390240c6", "sentiment": -0.627, "narrative": "Rental clutter & sidewalk chaos", "region_id": "paris", "ocr": null}
+{"id": "esc-cc230f8af3", "sentiment": 0.388, "narrative": "Fun & practical for short trips", "region_id": "los-angeles", "ocr": null}
+{"id": "esc-8efa097fa3", "sentiment": -0.432, "narrative": "Rental clutter & sidewalk chaos", "region_id": "paris", "ocr": null}
+{"id": "esc-06ef03f5a5", "sentiment": -0.012, "narrative": "Neutral / policy news", "region_id": "istanbul", "ocr": null}
+{"id": "esc-9817387ad0", "sentiment": -0.345, "narrative": "Safety & clutter", "region_id": "kuala-lumpur", "ocr": null}
+{"id": "esc-ca9748e3a8", "sentiment": 0.427, "narrative": "Cheaper rides & delivery", "region_id": "bangkok", "ocr": null}
+{"id": "esc-3737540d07", "sentiment": 0.956, "narrative": "Affordable & convenient", "region_id": "ho-chi-minh-city", "ocr": null}
+{"id": "esc-ae966da9a3", "sentiment": 0.292, "narrative": "E-bike convenience", "region_id": "manila", "ocr": null}
+{"id": "esc-93820840e1", "sentiment": 0.436, "narrative": "Practical & green commuting", "region_id": "cairo", "ocr": null}
+{"id": "esc-098f5e350d", "sentiment": 0.598, "narrative": "Fun & practical for short trips", "region_id": "los-angeles", "ocr": null}
+{"id": "esc-3ed1fa13eb", "sentiment": -0.295, "narrative": "Safety & clutter", "region_id": "new-york", "ocr": null}
+{"id": "esc-efb0597c17", "sentiment": 0.028, "narrative": "Neutral / policy news", "region_id": "arizona-us", "ocr": null}
+{"id": "esc-4911db792c", "sentiment": 0.558, "narrative": "Affordable & convenient", "region_id": "ho-chi-minh-city", "ocr": null}
+{"id": "esc-05ed02ed32", "sentiment": 0.575, "narrative": "Cheaper rides & delivery", "region_id": "bangkok", "ocr": null}
+{"id": "esc-85929a0b34", "sentiment": 0.692, "narrative": "Affordable & convenient", "region_id": "ho-chi-minh-city", "ocr": null}
+{"id": "esc-4837e9ad76", "sentiment": 0.734, "narrative": "E-bike convenience", "region_id": "manila", "ocr": null}
+{"id": "esc-517dee6508", "sentiment": -0.308, "narrative": "Sidewalk clutter & injuries", "region_id": "los-angeles", "ocr": null}
+{"id": "esc-1b7eca249c", "sentiment": 0.074, "narrative": "Neutral / policy news", "region_id": "bangalore", "ocr": null}
+{"id": "esc-f7c732e074", "sentiment": 0.576, "narrative": "Cheaper rides & delivery", "region_id": "bangkok", "ocr": null}
+{"id": "esc-e3bed29b88", "sentiment": -0.601, "narrative": "Safety & clutter", "region_id": "toronto", "ocr": null}
+{"id": "esc-b8f9c90769", "sentiment": -0.414, "narrative": "Safety & clutter", "region_id": "warsaw", "ocr": null}
+{"id": "esc-cf116009cd", "sentiment": -0.172, "narrative": "Footpath conflicts", "region_id": "singapore", "ocr": null}
+{"id": "esc-1a8367f0ba", "sentiment": 0.654, "narrative": "Cheap commuting & savings", "region_id": "jakarta", "ocr": null}
+{"id": "esc-4456a887d1", "sentiment": -0.03, "narrative": "Neutral / policy news", "region_id": "ireland", "ocr": null}
+{"id": "esc-d333ff7fca", "sentiment": -0.408, "narrative": "Rental clutter & sidewalk chaos", "region_id": "paris", "ocr": null}
+{"id": "esc-366efbc6e3", "sentiment": -0.077, "narrative": "Safety & clutter", "region_id": "istanbul", "ocr": null}
+{"id": "esc-c14254ed1d", "sentiment": 0.572, "narrative": "Cleaner air", "region_id": "jakarta", "ocr": null}
+{"id": "esc-c0e94fd493", "sentiment": 1.0, "narrative": "Cheap commuting & savings", "region_id": "jakarta", "ocr": null}
+{"id": "esc-7e419af67f", "sentiment": 0.512, "narrative": "E-bike convenience", "region_id": "manila", "ocr": null}
+{"id": "esc-3159870322", "sentiment": 0.432, "narrative": "Practical & green commuting", "region_id": "sydney", "ocr": null}
+{"id": "esc-200c0948e2", "sentiment": 0.141, "narrative": "Practical & green commuting", "region_id": "lagos", "ocr": null}
+{"id": "esc-0f49946f3e", "sentiment": -0.47, "narrative": "Safety & clutter", "region_id": "texas-us", "ocr": null}
+{"id": "esc-4d28411e11", "sentiment": 0.121, "narrative": "Footpath conflicts", "region_id": "singapore", "ocr": null}
+{"id": "esc-75255f1680", "sentiment": 0.948, "narrative": "Affordable & convenient", "region_id": "ho-chi-minh-city", "ocr": null}
+{"id": "esc-0439b265ed", "sentiment": 0.655, "narrative": "Cheap commuting & savings", "region_id": "jakarta", "ocr": null}
+{"id": "esc-c5cb1e69c6", "sentiment": 0.22, "narrative": "E-bike convenience", "region_id": "manila", "ocr": null}
+{"id": "esc-de8256ef00", "sentiment": -0.003, "narrative": "Neutral / policy news", "region_id": "vancouver", "ocr": null}
+{"id": "esc-a1b1d3abc2", "sentiment": 0.487, "narrative": "Practical & green commuting", "region_id": "new-york", "ocr": null}
+{"id": "esc-2236eacafe", "sentiment": -0.001, "narrative": "Neutral / policy news", "region_id": "united-kingdom", "ocr": null}
+{"id": "esc-873ee4b436", "sentiment": -0.23, "narrative": "Safety & clutter", "region_id": "santiago", "ocr": null}
+{"id": "esc-2b179cb43b", "sentiment": 0.204, "narrative": "Neutral / policy news", "region_id": "toronto", "ocr": null}
+{"id": "esc-13074075d8", "sentiment": 0.246, "narrative": "Government push / green city", "region_id": "ho-chi-minh-city", "ocr": null}
+{"id": "esc-e52f7ef212", "sentiment": 0.301, "narrative": "Neutral / policy news", "region_id": "tokyo", "ocr": null}
+{"id": "esc-c51d91e30f", "sentiment": 0.725, "narrative": "Cleaner air", "region_id": "jakarta", "ocr": null}
+{"id": "esc-4637eb1764", "sentiment": 0.781, "narrative": "Affordable & convenient", "region_id": "ho-chi-minh-city", "ocr": null}
+{"id": "esc-4ca7bf89d6", "sentiment": -0.191, "narrative": "Safety & clutter", "region_id": "taipei", "ocr": null}
+{"id": "esc-d2a525236f", "sentiment": -0.482, "narrative": "Safety & clutter", "region_id": "warsaw", "ocr": null}
+{"id": "esc-f16628ae5c", "sentiment": -0.358, "narrative": "Traffic & safety concerns", "region_id": "bangkok", "ocr": null}
+{"id": "esc-3073f6449c", "sentiment": -0.117, "narrative": "Footpath conflicts", "region_id": "singapore", "ocr": null}
+{"id": "esc-0018f2d388", "sentiment": 0.021, "narrative": "Practical & green commuting", "region_id": "lagos", "ocr": null}
+{"id": "esc-c904c2ac6f", "sentiment": 0.653, "narrative": "Practical & green commuting", "region_id": "netherlands", "ocr": null}
+{"id": "esc-622fe374a4", "sentiment": 0.463, "narrative": "Fun & practical for short trips", "region_id": "los-angeles", "ocr": null}
+{"id": "esc-f1566bcb9a", "sentiment": 0.222, "narrative": "Useful for delivery workers", "region_id": "singapore", "ocr": null}
+{"id": "esc-03f2319b5b", "sentiment": 0.653, "narrative": "Affordable & convenient", "region_id": "ho-chi-minh-city", "ocr": "CHÚC MỪNG"}
+{"id": "esc-ca9b82119e", "sentiment": 0.575, "narrative": "Practical & green commuting", "region_id": "seoul", "ocr": null}
+{"id": "esc-1b7409204f", "sentiment": -0.534, "narrative": "Sidewalk clutter & injuries", "region_id": "los-angeles", "ocr": null}
+{"id": "esc-72e799ecfb", "sentiment": 0.462, "narrative": "Practical & green commuting", "region_id": "bangalore", "ocr": null}
+{"id": "esc-a18cebcf89", "sentiment": 0.624, "narrative": "Cheap commuting & savings", "region_id": "jakarta", "ocr": null}
+{"id": "esc-ebc7429186", "sentiment": -0.58, "narrative": "Rental clutter & sidewalk chaos", "region_id": "paris", "ocr": null}
+{"id": "esc-bd6afc2c7f", "sentiment": -0.292, "narrative": "Safety & clutter", "region_id": "germany", "ocr": null}
+{"id": "esc-7c42c88df5", "sentiment": -0.031, "narrative": "Practical & green commuting", "region_id": "arizona-us", "ocr": null}
+{"id": "esc-e15784266f", "sentiment": 0.186, "narrative": "Neutral / policy news", "region_id": "cairo", "ocr": null}
+{"id": "esc-dfaeca7816", "sentiment": -0.523, "narrative": "Safety & clutter", "region_id": "seoul", "ocr": null}
+{"id": "esc-54ba45384b", "sentiment": 0.289, "narrative": "Fun & practical for short trips", "region_id": "los-angeles", "ocr": null}
+{"id": "esc-5b1756afa3", "sentiment": -0.312, "narrative": "Charging & battery doubts", "region_id": "jakarta", "ocr": null}
+{"id": "esc-65dfac33e1", "sentiment": -0.322, "narrative": "Safety & clutter", "region_id": "warsaw", "ocr": null}
+{"id": "esc-cb5b765148", "sentiment": 0.677, "narrative": "Affordable & convenient", "region_id": "ho-chi-minh-city", "ocr": null}
+{"id": "esc-5bc8909b0c", "sentiment": 0.691, "narrative": "Fun & practical for short trips", "region_id": "los-angeles", "ocr": null}
+{"id": "esc-76e01dfb96", "sentiment": -0.042, "narrative": "Safety & clutter", "region_id": "auckland", "ocr": null}
+{"id": "esc-0578af9e38", "sentiment": 0.494, "narrative": "Practical & green commuting", "region_id": "delhi", "ocr": null}
+{"id": "esc-0f822d9886", "sentiment": 0.613, "narrative": "Cheap commuting & savings", "region_id": "jakarta", "ocr": null}
+{"id": "esc-68fd00da7c", "sentiment": 0.502, "narrative": "Practical & green commuting", "region_id": "chicago", "ocr": null}
+{"id": "esc-5415609920", "sentiment": -0.561, "narrative": "Neutral / policy news", "region_id": "hyderabad", "ocr": null}
+{"id": "esc-f8bc363926", "sentiment": 0.817, "narrative": "Cheap commuting & savings", "region_id": "jakarta", "ocr": null}
+{"id": "esc-9d5b607c4a", "sentiment": -0.149, "narrative": "Neutral / policy news", "region_id": "toronto", "ocr": null}
+{"id": "esc-4ba2f60072", "sentiment": -0.497, "narrative": "Charging in apartments", "region_id": "ho-chi-minh-city", "ocr": null}
+{"id": "esc-75b78f7f67", "sentiment": -0.347, "narrative": "Battery fire safety", "region_id": "singapore", "ocr": null}
+{"id": "esc-7dbc22b23d", "sentiment": -0.346, "narrative": "Safety & clutter", "region_id": "bogota", "ocr": null}
+{"id": "esc-d709768c25", "sentiment": -0.363, "narrative": "Rental clutter & sidewalk chaos", "region_id": "paris", "ocr": null}
+{"id": "esc-4a142c9bce", "sentiment": 0.334, "narrative": "Practical & green commuting", "region_id": "germany", "ocr": null}
+{"id": "esc-5c7e7af617", "sentiment": -0.379, "narrative": "Safety & clutter", "region_id": "mexico-city", "ocr": null}
+{"id": "esc-267aa59365", "sentiment": 0.376, "narrative": "Practical & green commuting", "region_id": "lagos", "ocr": null}
+{"id": "esc-feeb698313", "sentiment": -0.066, "narrative": "Cheaper rides & delivery", "region_id": "bangkok", "ocr": null}
+{"id": "esc-b1be6485e8", "sentiment": -0.65, "narrative": "Battery fire safety", "region_id": "singapore", "ocr": null}
+{"id": "esc-dcaa90c35f", "sentiment": 0.257, "narrative": "Practical & green commuting", "region_id": "dubai", "ocr": null}
+{"id": "esc-3b96ab2ec8", "sentiment": -0.266, "narrative": "Safety & clutter", "region_id": "tokyo", "ocr": null}
+{"id": "esc-1b4167c6e1", "sentiment": 0.282, "narrative": "Practical & green commuting", "region_id": "united-kingdom", "ocr": null}
+{"id": "esc-a4866e6565", "sentiment": 0.763, "narrative": "E-bike convenience", "region_id": "manila", "ocr": null}
+{"id": "esc-84248e088c", "sentiment": 0.744, "narrative": "Affordable & convenient", "region_id": "ho-chi-minh-city", "ocr": null}
+{"id": "esc-e6dca53e9d", "sentiment": 0.479, "narrative": "E-bike convenience", "region_id": "manila", "ocr": null}
+{"id": "esc-b2bf6a2836", "sentiment": 0.561, "narrative": "Practical & green commuting", "region_id": "new-york", "ocr": null}
+{"id": "esc-1bc5c389d1", "sentiment": -0.179, "narrative": "Safety & clutter", "region_id": "sydney", "ocr": null}
+{"id": "esc-0e2bd415b5", "sentiment": 0.163, "narrative": "Personal scooter freedom", "region_id": "paris", "ocr": null}
+{"id": "esc-379f3f5eec", "sentiment": -0.67, "narrative": "Safety & clutter", "region_id": "seoul", "ocr": null}
+{"id": "esc-b3de1621a4", "sentiment": 0.559, "narrative": "Fun & practical for short trips", "region_id": "los-angeles", "ocr": null}
+{"id": "esc-dad3531d36", "sentiment": 0.717, "narrative": "Cheap commuting & savings", "region_id": "jakarta", "ocr": null}
+{"id": "esc-d3fd24a721", "sentiment": -0.324, "narrative": "Charging & battery doubts", "region_id": "jakarta", "ocr": null}
+{"id": "esc-65da28bebd", "sentiment": -0.504, "narrative": "Safety & clutter", "region_id": "new-york", "ocr": null}
+{"id": "esc-cafa5d7524", "sentiment": 0.325, "narrative": "E-bike convenience", "region_id": "manila", "ocr": null}
+{"id": "esc-b77843513a", "sentiment": -0.272, "narrative": "Neutral / policy news", "region_id": "istanbul", "ocr": null}
+{"id": "esc-20d8604b28", "sentiment": 0.735, "narrative": "Affordable & convenient", "region_id": "ho-chi-minh-city", "ocr": null}
+{"id": "esc-f4b7321040", "sentiment": -0.38, "narrative": "Safety & clutter", "region_id": "cairo", "ocr": null}
+{"id": "esc-d73db2ddce", "sentiment": -0.563, "narrative": "Safety & clutter", "region_id": "nairobi", "ocr": null}
+{"id": "esc-1cc9e4d973", "sentiment": 0.286, "narrative": "Cheaper rides & delivery", "region_id": "bangkok", "ocr": null}
+{"id": "esc-947b07286e", "sentiment": 0.203, "narrative": "Practical & green commuting", "region_id": "hyderabad", "ocr": null}
+{"id": "esc-770dc87578", "sentiment": 0.721, "narrative": "Practical & green commuting", "region_id": "germany", "ocr": null}
+{"id": "esc-41d9c0afd6", "sentiment": -0.59, "narrative": "Rental clutter & sidewalk chaos", "region_id": "paris", "ocr": null}
+{"id": "esc-bf02dd2890", "sentiment": -0.498, "narrative": "Safety & clutter", "region_id": "vancouver", "ocr": null}
+{"id": "esc-4bd786a0c3", "sentiment": 0.771, "narrative": "Cheaper rides & delivery", "region_id": "bangkok", "ocr": null}
+{"id": "esc-0bf07cc20b", "sentiment": 0.425, "narrative": "Practical & green commuting", "region_id": "bogota", "ocr": null}
+{"id": "esc-3ef01bafd2", "sentiment": -0.552, "narrative": "Safety & clutter", "region_id": "delhi", "ocr": null}
+{"id": "esc-a112b5faef", "sentiment": -0.791, "narrative": "Safety & clutter", "region_id": "chicago", "ocr": null}
+{"id": "esc-26a919d882", "sentiment": -0.494, "narrative": "Safety & clutter", "region_id": "kuala-lumpur", "ocr": null}
+{"id": "esc-03120e8f35", "sentiment": -0.425, "narrative": "Neutral / policy news", "region_id": "bangalore", "ocr": null}
+{"id": "esc-bb42ffdf09", "sentiment": 0.872, "narrative": "Cheap commuting & savings", "region_id": "jakarta", "ocr": "SWAP 2 MENIT"}
+{"id": "esc-d86c903f28", "sentiment": -0.383, "narrative": "Safety & clutter", "region_id": "mexico-city", "ocr": null}
+{"id": "esc-d640f7f11a", "sentiment": -0.537, "narrative": "Footpath conflicts", "region_id": "singapore", "ocr": null}
+{"id": "esc-e97ff04025", "sentiment": -0.506, "narrative": "Safety & clutter", "region_id": "united-kingdom", "ocr": null}
+{"id": "esc-7af9a79ca4", "sentiment": -0.319, "narrative": "Footpath conflicts", "region_id": "singapore", "ocr": null}
+{"id": "esc-f37b43edfd", "sentiment": -0.373, "narrative": "Road bans & safety", "region_id": "manila", "ocr": null}
+{"id": "esc-537226f7af", "sentiment": 0.885, "narrative": "Affordable & convenient", "region_id": "ho-chi-minh-city", "ocr": null}
+{"id": "esc-ad33dee1de", "sentiment": 0.501, "narrative": "Cheaper rides & delivery", "region_id": "bangkok", "ocr": null}
+{"id": "esc-fa6b6f2103", "sentiment": -0.373, "narrative": "Safety & clutter", "region_id": "delhi", "ocr": null}
+{"id": "esc-a61dae44ef", "sentiment": 0.475, "narrative": "Practical & green commuting", "region_id": "texas-us", "ocr": null}
+{"id": "esc-b4e77e9909", "sentiment": 0.568, "narrative": "Cleaner air", "region_id": "jakarta", "ocr": null}
+{"id": "esc-d458adfc6e", "sentiment": -0.791, "narrative": "Rental clutter & sidewalk chaos", "region_id": "paris", "ocr": null}
+{"id": "esc-9d5f81207f", "sentiment": -0.59, "narrative": "Rental clutter & sidewalk chaos", "region_id": "paris", "ocr": null}
+{"id": "esc-eb9012e9de", "sentiment": -0.27, "narrative": "Neutral / policy news", "region_id": "mumbai", "ocr": null}
+{"id": "esc-ad4d127a48", "sentiment": 0.184, "narrative": "Fun & practical for short trips", "region_id": "los-angeles", "ocr": null}
+{"id": "esc-b752ae6c1b", "sentiment": 0.147, "narrative": "Practical & green commuting", "region_id": "dubai", "ocr": null}
+{"id": "esc-d3da56fba0", "sentiment": 0.502, "narrative": "Cheaper rides & delivery", "region_id": "bangkok", "ocr": null}
+{"id": "esc-635472fe47", "sentiment": -0.005, "narrative": "Charging in apartments", "region_id": "ho-chi-minh-city", "ocr": null}
+{"id": "esc-44a8d16d58", "sentiment": -0.112, "narrative": "Footpath conflicts", "region_id": "singapore", "ocr": null}
+{"id": "esc-8518af8f84", "sentiment": 0.313, "narrative": "Practical & green commuting", "region_id": "cape-town", "ocr": null}
+{"id": "esc-16a426a7ac", "sentiment": 0.19, "narrative": "Neutral / policy news", "region_id": "new-york", "ocr": null}
+{"id": "esc-74875a3f22", "sentiment": -0.342, "narrative": "Road bans & safety", "region_id": "manila", "ocr": null}
+{"id": "esc-2fcff531bf", "sentiment": 0.048, "narrative": "Practical & green commuting", "region_id": "auckland", "ocr": null}
+{"id": "esc-2c7ae17729", "sentiment": 0.24, "narrative": "E-bike convenience", "region_id": "manila", "ocr": null}
+{"id": "esc-34fde17c56", "sentiment": -0.525, "narrative": "Safety & clutter", "region_id": "sydney", "ocr": null}
+{"id": "esc-adebff8786", "sentiment": 0.64, "narrative": "Cheap commuting & savings", "region_id": "jakarta", "ocr": null}
+{"id": "esc-0791b20da0", "sentiment": -0.44, "narrative": "Safety & clutter", "region_id": "ireland", "ocr": null}
+{"id": "esc-ce6a375854", "sentiment": -0.575, "narrative": "Battery fire safety", "region_id": "singapore", "ocr": null}
+{"id": "esc-d0cd6fdf3f", "sentiment": 0.187, "narrative": "Neutral / policy news", "region_id": "mexico-city", "ocr": null}
+{"id": "esc-bbabbd833b", "sentiment": 0.092, "narrative": "Neutral / policy news", "region_id": "kuala-lumpur", "ocr": null}
+{"id": "esc-2de8d079d9", "sentiment": 0.565, "narrative": "Government push / green city", "region_id": "ho-chi-minh-city", "ocr": null}
+{"id": "esc-0ea65e1bda", "sentiment": 0.357, "narrative": "Practical & green commuting", "region_id": "bangalore", "ocr": null}
+{"id": "esc-de5a0b56be", "sentiment": -0.13, "narrative": "Neutral / policy news", "region_id": "madrid", "ocr": null}
+{"id": "esc-fd41e5d296", "sentiment": -0.354, "narrative": "Safety & clutter", "region_id": "istanbul", "ocr": null}
+{"id": "esc-34e189460e", "sentiment": 0.46, "narrative": "Practical & green commuting", "region_id": "seoul", "ocr": null}
+{"id": "esc-81f6246e11", "sentiment": 0.74, "narrative": "Affordable & convenient", "region_id": "ho-chi-minh-city", "ocr": null}
+{"id": "esc-f92cf78958", "sentiment": 0.191, "narrative": "E-bike convenience", "region_id": "manila", "ocr": null}
+{"id": "esc-014970f25e", "sentiment": -0.421, "narrative": "Battery fire safety", "region_id": "singapore", "ocr": null}
+{"id": "esc-5bb9cc9be1", "sentiment": -0.2, "narrative": "Footpath conflicts", "region_id": "singapore", "ocr": null}
+{"id": "esc-437eb14ade", "sentiment": -0.353, "narrative": "Traffic & safety concerns", "region_id": "bangkok", "ocr": null}
+{"id": "esc-1b976bc5f5", "sentiment": 0.439, "narrative": "Practical & green commuting", "region_id": "tokyo", "ocr": null}
+{"id": "esc-244e260929", "sentiment": -0.449, "narrative": "Safety & clutter", "region_id": "dubai", "ocr": null}
+{"id": "esc-28af4e85b6", "sentiment": -0.46, "narrative": "Safety & clutter", "region_id": "sao-paulo", "ocr": null}
+{"id": "esc-a043803c68", "sentiment": -0.484, "narrative": "Safety & clutter", "region_id": "mumbai", "ocr": null}
+{"id": "esc-700c6cad1d", "sentiment": 0.773, "narrative": "Cleaner air", "region_id": "jakarta", "ocr": null}
+{"id": "esc-d58541660a", "sentiment": -0.299, "narrative": "Safety & clutter", "region_id": "bangalore", "ocr": null}
+{"id": "esc-48d236cf22", "sentiment": -0.449, "narrative": "Rental clutter & sidewalk chaos", "region_id": "paris", "ocr": null}
+{"id": "esc-a3015a01b0", "sentiment": 0.577, "narrative": "Government push / green city", "region_id": "ho-chi-minh-city", "ocr": null}
+{"id": "esc-459a75f2d4", "sentiment": 0.548, "narrative": "Fun & practical for short trips", "region_id": "los-angeles", "ocr": null}
+{"id": "esc-6919b81c67", "sentiment": 0.546, "narrative": "Cleaner air", "region_id": "jakarta", "ocr": null}
+{"id": "esc-cd44407852", "sentiment": 0.007, "narrative": "Neutral / policy news", "region_id": "delhi", "ocr": null}
+{"id": "esc-4fe1783259", "sentiment": 0.521, "narrative": "Cheaper rides & delivery", "region_id": "bangkok", "ocr": null}
+{"id": "esc-d9260a2728", "sentiment": -0.468, "narrative": "Safety & clutter", "region_id": "taipei", "ocr": null}
+{"id": "esc-ca151a90ad", "sentiment": -0.542, "narrative": "Safety & clutter", "region_id": "germany", "ocr": null}
+{"id": "esc-8e4ba31cf6", "sentiment": 0.474, "narrative": "Practical & green commuting", "region_id": "mexico-city", "ocr": null}
+{"id": "esc-598a49ef00", "sentiment": 1.0, "narrative": "Cheap commuting & savings", "region_id": "jakarta", "ocr": null}
+{"id": "esc-23f73ddd38", "sentiment": -0.268, "narrative": "Safety & clutter", "region_id": "united-kingdom", "ocr": null}
+{"id": "esc-23b0b35c86", "sentiment": 0.517, "narrative": "E-bike convenience", "region_id": "manila", "ocr": null}
+{"id": "esc-d2bba8c2f6", "sentiment": -0.401, "narrative": "Rental clutter & sidewalk chaos", "region_id": "paris", "ocr": null}
+{"id": "esc-5fe22f3f69", "sentiment": 0.064, "narrative": "E-bike convenience", "region_id": "manila", "ocr": null}
+{"id": "esc-a67feb4375", "sentiment": 0.378, "narrative": "Practical & green commuting", "region_id": "seoul", "ocr": null}
+{"id": "esc-4a0d0e4992", "sentiment": 0.226, "narrative": "Practical & green commuting", "region_id": "germany", "ocr": null}
+{"id": "esc-dc3491a883", "sentiment": 0.018, "narrative": "Neutral / policy news", "region_id": "buenos-aires", "ocr": null}
+{"id": "esc-5c4e5e5a44", "sentiment": 0.626, "narrative": "Affordable & convenient", "region_id": "ho-chi-minh-city", "ocr": null}
+{"id": "esc-af2eb4c39a", "sentiment": -0.56, "narrative": "Rental clutter & sidewalk chaos", "region_id": "paris", "ocr": null}
+{"id": "esc-3d3037a12b", "sentiment": 0.359, "narrative": "Practical & green commuting", "region_id": "santiago", "ocr": null}
+{"id": "esc-7721d4f149", "sentiment": 0.003, "narrative": "Neutral / policy news", "region_id": "dubai", "ocr": null}
+{"id": "esc-917e58b8bc", "sentiment": 0.643, "narrative": "Practical & green commuting", "region_id": "ireland", "ocr": null}
+{"id": "esc-398dd5f244", "sentiment": -0.622, "narrative": "Battery fire safety", "region_id": "singapore", "ocr": null}
+{"id": "esc-51003a9c48", "sentiment": -0.2, "narrative": "Neutral / policy news", "region_id": "istanbul", "ocr": null}
+{"id": "esc-a550f059e2", "sentiment": 0.664, "narrative": "Cheap commuting & savings", "region_id": "jakarta", "ocr": "Bensin vs Listrik"}
+{"id": "esc-04c1c56fc9", "sentiment": 0.645, "narrative": "Cleaner air", "region_id": "jakarta", "ocr": null}
+{"id": "esc-c9d06f06f7", "sentiment": -0.22, "narrative": "Footpath conflicts", "region_id": "singapore", "ocr": null}
+{"id": "esc-c8bcb2bde3", "sentiment": 0.168, "narrative": "Neutral / policy news", "region_id": "new-york", "ocr": null}
+{"id": "esc-7160940565", "sentiment": 0.049, "narrative": "Neutral / policy news", "region_id": "delhi", "ocr": null}
+{"id": "esc-f3f8d5beb8", "sentiment": 0.042, "narrative": "Fun & practical for short trips", "region_id": "los-angeles", "ocr": null}
+{"id": "esc-0a637148b2", "sentiment": -0.205, "narrative": "Neutral / policy news", "region_id": "toronto", "ocr": null}
+{"id": "esc-800341dce9", "sentiment": 0.872, "narrative": "Affordable & convenient", "region_id": "ho-chi-minh-city", "ocr": null}
+{"id": "esc-972c02f2f4", "sentiment": -0.67, "narrative": "Safety & clutter", "region_id": "taipei", "ocr": null}
+{"id": "esc-2a998d3741", "sentiment": 0.152, "narrative": "Practical & green commuting", "region_id": "lagos", "ocr": null}
+{"id": "esc-e66bf87e19", "sentiment": -0.035, "narrative": "Safety & clutter", "region_id": "chicago", "ocr": null}
+{"id": "esc-e37541964c", "sentiment": 0.289, "narrative": "Cheaper rides & delivery", "region_id": "bangkok", "ocr": null}
+{"id": "esc-f9362bcb6e", "sentiment": 0.324, "narrative": "Practical & green commuting", "region_id": "texas-us", "ocr": null}
+{"id": "esc-c50e8c537c", "sentiment": 0.447, "narrative": "Practical & green commuting", "region_id": "mexico-city", "ocr": null}
+{"id": "esc-35d263ec44", "sentiment": 0.482, "narrative": "Cheap commuting & savings", "region_id": "jakarta", "ocr": null}
+{"id": "esc-001aafb1e6", "sentiment": -0.73, "narrative": "Footpath conflicts", "region_id": "singapore", "ocr": null}
+{"id": "esc-5f952d49a3", "sentiment": 0.271, "narrative": "Practical & green commuting", "region_id": "toronto", "ocr": null}
+{"id": "esc-d55a4a1d46", "sentiment": 0.797, "narrative": "Affordable & convenient", "region_id": "ho-chi-minh-city", "ocr": "CHÚC MỪNG"}
+{"id": "esc-d254e3ea3e", "sentiment": -0.349, "narrative": "Safety & clutter", "region_id": "hyderabad", "ocr": null}
+{"id": "esc-6aec648ebe", "sentiment": -0.554, "narrative": "Battery fire safety", "region_id": "singapore", "ocr": null}
+{"id": "esc-b88bc4416e", "sentiment": 0.753, "narrative": "Cheap commuting & savings", "region_id": "jakarta", "ocr": null}
+{"id": "esc-3f8a9148b8", "sentiment": 0.399, "narrative": "Practical & green commuting", "region_id": "dubai", "ocr": null}
+{"id": "esc-3b15f1f14f", "sentiment": 0.306, "narrative": "Practical & green commuting", "region_id": "santiago", "ocr": null}
+{"id": "esc-5fa1aaf66f", "sentiment": 0.124, "narrative": "E-bike convenience", "region_id": "manila", "ocr": null}
+{"id": "esc-e68da14752", "sentiment": -0.192, "narrative": "Safety & clutter", "region_id": "johor", "ocr": null}
+{"id": "esc-beabd09ace", "sentiment": -0.524, "narrative": "Safety & clutter", "region_id": "mumbai", "ocr": null}
+{"id": "esc-52eca58965", "sentiment": 0.249, "narrative": "Cleaner air", "region_id": "jakarta", "ocr": null}
+{"id": "esc-c9f87d6b98", "sentiment": -0.267, "narrative": "Rental clutter & sidewalk chaos", "region_id": "paris", "ocr": null}
+{"id": "esc-3c3c9045c7", "sentiment": -0.325, "narrative": "Safety & clutter", "region_id": "madrid", "ocr": null}
+{"id": "esc-f90d505fb2", "sentiment": 0.747, "narrative": "Affordable & convenient", "region_id": "ho-chi-minh-city", "ocr": null}
+{"id": "esc-49d6fa8f33", "sentiment": -0.653, "narrative": "Safety & clutter", "region_id": "shanghai", "ocr": null}
+{"id": "esc-78182b8be1", "sentiment": -0.465, "narrative": "Safety & clutter", "region_id": "mexico-city", "ocr": null}
+{"id": "esc-07e43b25d4", "sentiment": 0.579, "narrative": "Practical & green commuting", "region_id": "arizona-us", "ocr": null}
+{"id": "esc-4f2a3fca50", "sentiment": 0.473, "narrative": "Practical & green commuting", "region_id": "new-york", "ocr": null}
+{"id": "esc-184fc48089", "sentiment": -0.102, "narrative": "Traffic & safety concerns", "region_id": "bangkok", "ocr": null}
+{"id": "esc-376fb7b760", "sentiment": 0.244, "narrative": "Fun & practical for short trips", "region_id": "los-angeles", "ocr": null}
+{"id": "esc-5df6d87b27", "sentiment": 0.088, "narrative": "Neutral / policy news", "region_id": "sydney", "ocr": null}
+{"id": "esc-dc77a758f5", "sentiment": -0.623, "narrative": "Rental clutter & sidewalk chaos", "region_id": "paris", "ocr": null}
+{"id": "esc-c1f13fcd6a", "sentiment": 0.39, "narrative": "Practical & green commuting", "region_id": "dubai", "ocr": null}
+{"id": "esc-0457daab71", "sentiment": 0.333, "narrative": "Personal scooter freedom", "region_id": "paris", "ocr": null}
+{"id": "esc-a666563fef", "sentiment": 0.26, "narrative": "Practical & green commuting", "region_id": "texas-us", "ocr": null}
+{"id": "esc-0dc726320e", "sentiment": -0.453, "narrative": "Safety & clutter", "region_id": "bogota", "ocr": null}
+{"id": "esc-f5160476ef", "sentiment": 0.55, "narrative": "Cleaner air", "region_id": "jakarta", "ocr": null}
+{"id": "esc-a705ba5a14", "sentiment": -0.314, "narrative": "Footpath conflicts", "region_id": "singapore", "ocr": null}
+{"id": "esc-4a0546bd49", "sentiment": 0.679, "narrative": "Cheap commuting & savings", "region_id": "jakarta", "ocr": null}
+{"id": "esc-8a1f1c7558", "sentiment": 0.349, "narrative": "Practical & green commuting", "region_id": "santiago", "ocr": null}
+{"id": "esc-92fc37932f", "sentiment": 0.244, "narrative": "Fun & practical for short trips", "region_id": "los-angeles", "ocr": null}
+{"id": "esc-435619c88c", "sentiment": 0.553, "narrative": "Practical & green commuting", "region_id": "ireland", "ocr": null}
+{"id": "esc-c37b746cc5", "sentiment": 0.813, "narrative": "Affordable & convenient", "region_id": "ho-chi-minh-city", "ocr": null}
+{"id": "esc-51eea1c7fd", "sentiment": 0.323, "narrative": "E-bike convenience", "region_id": "manila", "ocr": null}
+{"id": "esc-5169009499", "sentiment": -0.481, "narrative": "Safety & clutter", "region_id": "johor", "ocr": null}
+{"id": "esc-8d1180d027", "sentiment": -0.614, "narrative": "Rental clutter & sidewalk chaos", "region_id": "paris", "ocr": null}
+{"id": "esc-e6262f4f70", "sentiment": -0.497, "narrative": "Safety & clutter", "region_id": "bangalore", "ocr": null}
+{"id": "esc-5e558c5b77", "sentiment": -0.428, "narrative": "Safety & clutter", "region_id": "germany", "ocr": null}
+{"id": "esc-c1dd657f8f", "sentiment": -0.31, "narrative": "Footpath conflicts", "region_id": "singapore", "ocr": null}
+{"id": "esc-e7625f1735", "sentiment": 0.182, "narrative": "Neutral / policy news", "region_id": "sao-paulo", "ocr": null}
+{"id": "esc-4d4457095d", "sentiment": 0.813, "narrative": "Practical & green commuting", "region_id": "tokyo", "ocr": null}
+{"id": "esc-b44cffabad", "sentiment": 0.13, "narrative": "Neutral / policy news", "region_id": "united-kingdom", "ocr": null}
+{"id": "esc-c1fe936381", "sentiment": 0.164, "narrative": "Neutral / policy news", "region_id": "warsaw", "ocr": null}
+{"id": "esc-300023a75f", "sentiment": 0.34, "narrative": "Practical & green commuting", "region_id": "shanghai", "ocr": null}
+{"id": "esc-c5fafe089f", "sentiment": 0.375, "narrative": "Practical & green commuting", "region_id": "new-york", "ocr": null}
+{"id": "esc-785da8c808", "sentiment": 0.418, "narrative": "Cheaper rides & delivery", "region_id": "bangkok", "ocr": null}
+{"id": "esc-bf59814673", "sentiment": 0.754, "narrative": "Cheap commuting & savings", "region_id": "jakarta", "ocr": "SWAP 2 MENIT"}
+{"id": "esc-40e5df07cc", "sentiment": -0.265, "narrative": "Safety & clutter", "region_id": "sydney", "ocr": null}
+{"id": "esc-ffddb948b6", "sentiment": 0.039, "narrative": "Neutral / policy news", "region_id": "buenos-aires", "ocr": null}
+{"id": "esc-70085a96b4", "sentiment": 0.395, "narrative": "Affordable & convenient", "region_id": "ho-chi-minh-city", "ocr": "CHÚC MỪNG"}
+{"id": "esc-7432b473a5", "sentiment": -0.28, "narrative": "Sidewalk clutter & injuries", "region_id": "los-angeles", "ocr": null}
+{"id": "esc-e9d2ed2e5e", "sentiment": 0.927, "narrative": "Affordable & convenient", "region_id": "ho-chi-minh-city", "ocr": null}
+{"id": "esc-558aa822b9", "sentiment": 0.371, "narrative": "Practical & green commuting", "region_id": "toronto", "ocr": null}
+{"id": "esc-2f44dcd761", "sentiment": 0.233, "narrative": "Practical & green commuting", "region_id": "mumbai", "ocr": null}
+{"id": "esc-6be528c0e7", "sentiment": -0.571, "narrative": "Safety & clutter", "region_id": "sydney", "ocr": null}
+{"id": "esc-7620e39efa", "sentiment": 0.61, "narrative": "Affordable & convenient", "region_id": "ho-chi-minh-city", "ocr": null}
+{"id": "esc-497998d120", "sentiment": 0.808, "narrative": "Cheaper rides & delivery", "region_id": "bangkok", "ocr": null}
+{"id": "esc-720327b09f", "sentiment": -0.551, "narrative": "Safety & clutter", "region_id": "chicago", "ocr": null}
+{"id": "esc-7c0ca0a335", "sentiment": -0.26, "narrative": "Sidewalk clutter & injuries", "region_id": "los-angeles", "ocr": null}
+{"id": "esc-826b88f3f0", "sentiment": -0.712, "narrative": "Safety & clutter", "region_id": "cape-town", "ocr": null}
+{"id": "esc-f9ee246d8b", "sentiment": -0.682, "narrative": "Safety & clutter", "region_id": "tokyo", "ocr": null}
+{"id": "esc-36ca973c32", "sentiment": 0.334, "narrative": "Neutral / policy news", "region_id": "germany", "ocr": null}
+{"id": "esc-d03bce4521", "sentiment": 0.201, "narrative": "Neutral / policy news", "region_id": "santiago", "ocr": null}
+{"id": "esc-10632a3a47", "sentiment": 0.979, "narrative": "Affordable & convenient", "region_id": "ho-chi-minh-city", "ocr": "CHÚC MỪNG"}
+{"id": "esc-cc243c9fa9", "sentiment": 0.354, "narrative": "Practical & green commuting", "region_id": "kuala-lumpur", "ocr": null}
+{"id": "esc-da1a103495", "sentiment": -0.331, "narrative": "Footpath conflicts", "region_id": "singapore", "ocr": null}
+{"id": "esc-28b4cea013", "sentiment": -0.635, "narrative": "Rental clutter & sidewalk chaos", "region_id": "paris", "ocr": null}
+{"id": "esc-7e998b8b95", "sentiment": 0.133, "narrative": "E-bike convenience", "region_id": "manila", "ocr": null}
+{"id": "esc-775855efda", "sentiment": 0.577, "narrative": "Practical & green commuting", "region_id": "united-kingdom", "ocr": null}
+{"id": "esc-4445624d6d", "sentiment": -0.109, "narrative": "Neutral / policy news", "region_id": "bangalore", "ocr": null}
+{"id": "esc-bcd3ab8560", "sentiment": 0.275, "narrative": "Practical & green commuting", "region_id": "new-york", "ocr": null}
+{"id": "esc-892ad89f4f", "sentiment": -0.153, "narrative": "Neutral / policy news", "region_id": "mexico-city", "ocr": null}
+{"id": "esc-c4075aeb49", "sentiment": -0.152, "narrative": "Neutral / policy news", "region_id": "delhi", "ocr": null}
+{"id": "esc-cd4c71c0ff", "sentiment": 0.341, "narrative": "Practical & green commuting", "region_id": "lagos", "ocr": null}
+{"id": "esc-f265e3d600", "sentiment": 0.824, "narrative": "Cheap commuting & savings", "region_id": "jakarta", "ocr": null}
+{"id": "esc-17a42e48f0", "sentiment": 0.691, "narrative": "Cleaner air", "region_id": "jakarta", "ocr": null}
+{"id": "esc-d74bb913eb", "sentiment": 0.659, "narrative": "Cheaper rides & delivery", "region_id": "bangkok", "ocr": null}
+{"id": "esc-29a61371b3", "sentiment": 0.599, "narrative": "Practical & green commuting", "region_id": "dubai", "ocr": null}
+{"id": "esc-eb39d54f09", "sentiment": -0.447, "narrative": "Safety & clutter", "region_id": "lagos", "ocr": null}
+{"id": "esc-04fbc50398", "sentiment": -0.471, "narrative": "Battery fire safety", "region_id": "singapore", "ocr": null}
+{"id": "esc-b38fbd569b", "sentiment": 0.099, "narrative": "Fun & practical for short trips", "region_id": "los-angeles", "ocr": null}
+{"id": "esc-7b262a22a8", "sentiment": -0.496, "narrative": "Rental clutter & sidewalk chaos", "region_id": "paris", "ocr": null}
+{"id": "esc-3f0b8c8b67", "sentiment": 0.297, "narrative": "Practical & green commuting", "region_id": "germany", "ocr": null}
+{"id": "esc-df86771eed", "sentiment": -0.094, "narrative": "Charging & battery doubts", "region_id": "jakarta", "ocr": null}
+{"id": "esc-a7326be126", "sentiment": -0.224, "narrative": "Road bans & safety", "region_id": "manila", "ocr": null}
+{"id": "esc-e3ebe7811f", "sentiment": 0.487, "narrative": "Cleaner air", "region_id": "jakarta", "ocr": null}
+{"id": "esc-e528272558", "sentiment": 0.341, "narrative": "Practical & green commuting", "region_id": "new-york", "ocr": null}
+{"id": "esc-5d36a189a2", "sentiment": -0.562, "narrative": "Safety & clutter", "region_id": "bogota", "ocr": null}
+{"id": "esc-be24be4e16", "sentiment": 0.777, "narrative": "E-bike convenience", "region_id": "manila", "ocr": null}
+{"id": "esc-53c2cc19e7", "sentiment": -0.325, "narrative": "Safety & clutter", "region_id": "seoul", "ocr": null}
+{"id": "esc-9a6b5043ba", "sentiment": -0.549, "narrative": "Traffic & safety concerns", "region_id": "bangkok", "ocr": null}
+{"id": "esc-2b5f121b63", "sentiment": 0.671, "narrative": "Affordable & convenient", "region_id": "ho-chi-minh-city", "ocr": null}
+{"id": "esc-c2ee42aa58", "sentiment": -0.489, "narrative": "Rental clutter & sidewalk chaos", "region_id": "paris", "ocr": null}
+{"id": "esc-b7059ea620", "sentiment": 0.393, "narrative": "Cleaner air", "region_id": "jakarta", "ocr": null}
+{"id": "esc-a89ee0c878", "sentiment": -0.402, "narrative": "Safety & clutter", "region_id": "kuala-lumpur", "ocr": null}
+{"id": "esc-c37456924e", "sentiment": 0.301, "narrative": "Practical & green commuting", "region_id": "united-kingdom", "ocr": null}
+{"id": "esc-0652986df0", "sentiment": 0.635, "narrative": "Useful for delivery workers", "region_id": "singapore", "ocr": null}
+{"id": "esc-4d8d1a6b12", "sentiment": 0.349, "narrative": "Practical & green commuting", "region_id": "shanghai", "ocr": null}
+{"id": "esc-40faa7d98d", "sentiment": 0.357, "narrative": "Practical & green commuting", "region_id": "virginia-us", "ocr": null}
+{"id": "esc-10d0037054", "sentiment": 0.743, "narrative": "Government push / green city", "region_id": "ho-chi-minh-city", "ocr": null}
+{"id": "esc-7f938e451a", "sentiment": 0.468, "narrative": "Practical & green commuting", "region_id": "sydney", "ocr": null}
+{"id": "esc-77f5b41d47", "sentiment": -0.133, "narrative": "Neutral / policy news", "region_id": "mexico-city", "ocr": null}
+{"id": "esc-ccda20890b", "sentiment": 0.519, "narrative": "Practical & green commuting", "region_id": "tokyo", "ocr": null}
+{"id": "esc-fe2fea9e65", "sentiment": 0.4, "narrative": "Fun & practical for short trips", "region_id": "los-angeles", "ocr": null}
+{"id": "esc-4cbb0e994e", "sentiment": 0.014, "narrative": "Neutral / policy news", "region_id": "buenos-aires", "ocr": null}
+{"id": "esc-2d4ffc17b2", "sentiment": -0.115, "narrative": "Safety & clutter", "region_id": "netherlands", "ocr": null}
+{"id": "esc-f722af0216", "sentiment": 0.498, "narrative": "Practical & green commuting", "region_id": "united-kingdom", "ocr": null}
+{"id": "esc-19121988bb", "sentiment": -0.654, "narrative": "Rental clutter & sidewalk chaos", "region_id": "paris", "ocr": null}
+{"id": "esc-f02e928ba1", "sentiment": 0.332, "narrative": "E-bike convenience", "region_id": "manila", "ocr": null}
+{"id": "esc-48a94737ff", "sentiment": -0.106, "narrative": "Sidewalk clutter & injuries", "region_id": "los-angeles", "ocr": null}
+{"id": "esc-535e2a8c33", "sentiment": -0.411, "narrative": "Safety & clutter", "region_id": "bogota", "ocr": null}
+{"id": "esc-bd374f32da", "sentiment": 0.16, "narrative": "Practical & green commuting", "region_id": "mexico-city", "ocr": null}
+{"id": "esc-54123238fe", "sentiment": -0.717, "narrative": "Battery fire safety", "region_id": "singapore", "ocr": null}
+{"id": "esc-7e75e56e16", "sentiment": 0.466, "narrative": "Practical & green commuting", "region_id": "kuala-lumpur", "ocr": null}
+{"id": "esc-ee8578701d", "sentiment": 0.67, "narrative": "Cheap commuting & savings", "region_id": "jakarta", "ocr": null}
+{"id": "esc-4012ae49c7", "sentiment": 0.061, "narrative": "Neutral / policy news", "region_id": "toronto", "ocr": null}
+{"id": "esc-2d5c5e2d57", "sentiment": 0.61, "narrative": "Affordable & convenient", "region_id": "ho-chi-minh-city", "ocr": null}
+{"id": "esc-1600dc9d36", "sentiment": 0.071, "narrative": "Neutral / policy news", "region_id": "seoul", "ocr": null}
+{"id": "esc-e8a65012cf", "sentiment": 0.84, "narrative": "Cheap commuting & savings", "region_id": "jakarta", "ocr": null}
+{"id": "esc-d5de4673d4", "sentiment": 0.395, "narrative": "Useful for delivery workers", "region_id": "singapore", "ocr": null}
+{"id": "esc-a6e55a8145", "sentiment": -0.237, "narrative": "Road bans & safety", "region_id": "manila", "ocr": null}
+{"id": "esc-af7a51d458", "sentiment": -0.484, "narrative": "Safety & clutter", "region_id": "nairobi", "ocr": null}
+{"id": "esc-2feba83ba0", "sentiment": -0.291, "narrative": "Sidewalk clutter & injuries", "region_id": "los-angeles", "ocr": null}
+{"id": "esc-62cb8eba49", "sentiment": -0.485, "narrative": "Traffic & safety concerns", "region_id": "bangkok", "ocr": null}
+{"id": "esc-cd991147ed", "sentiment": 0.076, "narrative": "Neutral / policy news", "region_id": "vancouver", "ocr": null}
+{"id": "esc-c321c76551", "sentiment": -0.375, "narrative": "Safety & clutter", "region_id": "santiago", "ocr": null}
+{"id": "esc-711d3cd80b", "sentiment": -0.199, "narrative": "Charging in apartments", "region_id": "ho-chi-minh-city", "ocr": null}
+{"id": "esc-b956e1fa8d", "sentiment": -0.176, "narrative": "Neutral / policy news", "region_id": "chicago", "ocr": null}
+{"id": "esc-646cb8391d", "sentiment": -0.699, "narrative": "Safety & clutter", "region_id": "madrid", "ocr": null}
+{"id": "esc-e88a99dc94", "sentiment": 0.41, "narrative": "Practical & green commuting", "region_id": "johor", "ocr": null}
+{"id": "esc-37f09138b9", "sentiment": -0.303, "narrative": "Rental clutter & sidewalk chaos", "region_id": "paris", "ocr": null}
+{"id": "esc-c132fdf776", "sentiment": 0.006, "narrative": "Neutral / policy news", "region_id": "kuala-lumpur", "ocr": null}
+{"id": "esc-0b57818153", "sentiment": -0.458, "narrative": "Safety & clutter", "region_id": "united-kingdom", "ocr": null}
+{"id": "esc-f88c8cdcd5", "sentiment": 0.847, "narrative": "Cheap commuting & savings", "region_id": "jakarta", "ocr": "Bensin vs Listrik"}
+{"id": "esc-a109bd1ba7", "sentiment": -0.774, "narrative": "Battery fire safety", "region_id": "singapore", "ocr": "DON'T CHARGE YOUR PMD OVERNIGHT"}
+{"id": "esc-9852b09574", "sentiment": -0.111, "narrative": "Charging & battery doubts", "region_id": "jakarta", "ocr": null}
+{"id": "esc-b6c830ace1", "sentiment": 0.869, "narrative": "Affordable & convenient", "region_id": "ho-chi-minh-city", "ocr": null}
+{"id": "esc-4cb0724df5", "sentiment": -0.267, "narrative": "Safety & clutter", "region_id": "bogota", "ocr": null}
+{"id": "esc-88dc98fc43", "sentiment": 0.233, "narrative": "Practical & green commuting", "region_id": "new-york", "ocr": null}
+{"id": "esc-173bb51870", "sentiment": -0.061, "narrative": "Neutral / policy news", "region_id": "cape-town", "ocr": null}
+{"id": "esc-a48dbd3af2", "sentiment": -0.676, "narrative": "Rental clutter & sidewalk chaos", "region_id": "paris", "ocr": null}
+{"id": "esc-67f708577b", "sentiment": -0.624, "narrative": "Safety & clutter", "region_id": "virginia-us", "ocr": null}
+{"id": "esc-f1d464e03a", "sentiment": 0.857, "narrative": "Cheaper rides & delivery", "region_id": "bangkok", "ocr": null}
+{"id": "esc-4705935df8", "sentiment": 0.703, "narrative": "E-bike convenience", "region_id": "manila", "ocr": null}
+{"id": "esc-c23d94ffad", "sentiment": 0.168, "narrative": "Personal scooter freedom", "region_id": "paris", "ocr": null}
+{"id": "esc-9ddfadbd2b", "sentiment": 0.404, "narrative": "Fun & practical for short trips", "region_id": "los-angeles", "ocr": null}
+{"id": "esc-2358f3851c", "sentiment": 0.646, "narrative": "Practical & green commuting", "region_id": "cairo", "ocr": null}
+{"id": "esc-3fea096f60", "sentiment": -0.009, "narrative": "Neutral / policy news", "region_id": "ireland", "ocr": null}
+{"id": "esc-f6d6afaa67", "sentiment": 0.08, "narrative": "Neutral / policy news", "region_id": "lagos", "ocr": null}
+{"id": "esc-f13174767c", "sentiment": 0.809, "narrative": "Affordable & convenient", "region_id": "ho-chi-minh-city", "ocr": null}
+{"id": "esc-e06b851f05", "sentiment": -0.016, "narrative": "Sidewalk clutter & injuries", "region_id": "los-angeles", "ocr": null}
+{"id": "esc-19a8bc3f46", "sentiment": 0.261, "narrative": "Neutral / policy news", "region_id": "chicago", "ocr": null}
+{"id": "esc-241f2f0905", "sentiment": 0.586, "narrative": "Practical & green commuting", "region_id": "arizona-us", "ocr": null}
+{"id": "esc-2ab5dbcfdd", "sentiment": 0.424, "narrative": "Practical & green commuting", "region_id": "seoul", "ocr": null}
+{"id": "esc-1b836b893a", "sentiment": -0.148, "narrative": "Safety & clutter", "region_id": "netherlands", "ocr": null}
+{"id": "esc-aa986962db", "sentiment": 0.328, "narrative": "Cheaper rides & delivery", "region_id": "bangkok", "ocr": null}
+{"id": "esc-a1fccedec7", "sentiment": 0.5, "narrative": "Practical & green commuting", "region_id": "taipei", "ocr": null}
+{"id": "esc-6d96aacc3d", "sentiment": -0.264, "narrative": "Safety & clutter", "region_id": "shanghai", "ocr": null}
+{"id": "esc-0e385258d6", "sentiment": -0.719, "narrative": "Battery fire safety", "region_id": "singapore", "ocr": null}
+{"id": "esc-831a6596bc", "sentiment": 0.037, "narrative": "Neutral / policy news", "region_id": "bangalore", "ocr": null}
+{"id": "esc-cb28ac612d", "sentiment": 0.583, "narrative": "Cheap commuting & savings", "region_id": "jakarta", "ocr": null}
+{"id": "esc-49256bb62e", "sentiment": -0.023, "narrative": "Sidewalk clutter & injuries", "region_id": "los-angeles", "ocr": null}
+{"id": "esc-ed02e61263", "sentiment": -0.626, "narrative": "Rental clutter & sidewalk chaos", "region_id": "paris", "ocr": null}
+{"id": "esc-d08ca9bf0d", "sentiment": 0.233, "narrative": "Practical & green commuting", "region_id": "santiago", "ocr": null}
+{"id": "esc-ca14f817c7", "sentiment": -0.259, "narrative": "Safety & clutter", "region_id": "united-kingdom", "ocr": null}
+{"id": "esc-b0ab14e144", "sentiment": 0.014, "narrative": "Neutral / policy news", "region_id": "lagos", "ocr": null}
+{"id": "esc-484be12e12", "sentiment": 0.586, "narrative": "Affordable & convenient", "region_id": "ho-chi-minh-city", "ocr": null}
+{"id": "esc-9ae3288c88", "sentiment": -0.385, "narrative": "Safety & clutter", "region_id": "germany", "ocr": null}
+{"id": "esc-c340646441", "sentiment": -0.937, "narrative": "Battery fire safety", "region_id": "singapore", "ocr": null}
+{"id": "esc-0fa129ba2b", "sentiment": 0.587, "narrative": "Government push / green city", "region_id": "ho-chi-minh-city", "ocr": null}
+{"id": "esc-b66c8a07ed", "sentiment": -0.984, "narrative": "Battery fire safety", "region_id": "singapore", "ocr": null}
+{"id": "esc-893277fbde", "sentiment": -0.914, "narrative": "Battery fire safety", "region_id": "singapore", "ocr": null}
+{"id": "esc-c64cbfd6cf", "sentiment": 0.338, "narrative": "Fun & practical for short trips", "region_id": "los-angeles", "ocr": null}
+{"id": "esc-b00da8f491", "sentiment": 0.51, "narrative": "Personal scooter freedom", "region_id": "paris", "ocr": null}
+{"id": "esc-81090a03be", "sentiment": -0.844, "narrative": "Battery fire safety", "region_id": "singapore", "ocr": null}
+{"id": "esc-1f4973e3b0", "sentiment": -1.0, "narrative": "Battery fire safety", "region_id": "singapore", "ocr": null}
+{"id": "esc-1ffec2f13d", "sentiment": 0.438, "narrative": "Government push / green city", "region_id": "ho-chi-minh-city", "ocr": null}
+{"id": "esc-b94214ffdb", "sentiment": 0.638, "narrative": "Cheap commuting & savings", "region_id": "jakarta", "ocr": null}
+{"id": "esc-ae31a79f3d", "sentiment": 1.0, "narrative": "Cheap commuting & savings", "region_id": "jakarta", "ocr": null}
+{"id": "esc-d744961a22", "sentiment": 0.278, "narrative": "Practical & green commuting", "region_id": "seoul", "ocr": null}
+{"id": "esc-80bb67edec", "sentiment": -0.711, "narrative": "Safety & clutter", "region_id": "new-york", "ocr": null}
+{"id": "esc-0c1231d113", "sentiment": 0.635, "narrative": "Practical & green commuting", "region_id": "toronto", "ocr": null}
+{"id": "esc-07d4bc1fe6", "sentiment": 0.232, "narrative": "Cheaper rides & delivery", "region_id": "bangkok", "ocr": null}
+{"id": "esc-1ec9750166", "sentiment": 0.101, "narrative": "Neutral / policy news", "region_id": "sydney", "ocr": null}
+{"id": "esc-1832db5d1b", "sentiment": 0.51, "narrative": "E-bike convenience", "region_id": "manila", "ocr": null}
+{"id": "esc-490ecd56c1", "sentiment": -0.171, "narrative": "Road bans & safety", "region_id": "manila", "ocr": null}
+{"id": "esc-3d13af62dc", "sentiment": -0.742, "narrative": "Footpath conflicts", "region_id": "singapore", "ocr": null}
+{"id": "esc-d1cd3e74aa", "sentiment": -0.185, "narrative": "Sidewalk clutter & injuries", "region_id": "los-angeles", "ocr": null}
+{"id": "esc-d273be480d", "sentiment": 0.427, "narrative": "Affordable & convenient", "region_id": "ho-chi-minh-city", "ocr": "CHÚC MỪNG"}
+{"id": "esc-ca96a23779", "sentiment": -0.737, "narrative": "Footpath conflicts", "region_id": "singapore", "ocr": null}
+{"id": "esc-61b7c2ec94", "sentiment": 0.839, "narrative": "Cheap commuting & savings", "region_id": "jakarta", "ocr": null}
+{"id": "esc-767ace41cd", "sentiment": -0.346, "narrative": "Safety & clutter", "region_id": "bogota", "ocr": null}
+{"id": "esc-fd3a4bafb1", "sentiment": 0.51, "narrative": "Fun & practical for short trips", "region_id": "los-angeles", "ocr": null}
+{"id": "esc-3c94cbd6b1", "sentiment": -0.447, "narrative": "Safety & clutter", "region_id": "united-kingdom", "ocr": null}
+{"id": "esc-5fee69889f", "sentiment": 0.307, "narrative": "E-bike convenience", "region_id": "manila", "ocr": null}
+{"id": "esc-52320d12a4", "sentiment": 0.326, "narrative": "Practical & green commuting", "region_id": "bangalore", "ocr": null}
+{"id": "esc-50514809ac", "sentiment": -0.627, "narrative": "Traffic & safety concerns", "region_id": "bangkok", "ocr": null}
+{"id": "esc-14be14812a", "sentiment": -0.592, "narrative": "Safety & clutter", "region_id": "toronto", "ocr": null}
+{"id": "esc-b445ed7ab7", "sentiment": 0.117, "narrative": "Neutral / policy news", "region_id": "madrid", "ocr": null}
+{"id": "esc-aca55a7fa7", "sentiment": 1.0, "narrative": "Cheap commuting & savings", "region_id": "jakarta", "ocr": null}
+{"id": "esc-bdd6ae2d77", "sentiment": -0.246, "narrative": "Footpath conflicts", "region_id": "singapore", "ocr": null}
+{"id": "esc-155a4d9cf2", "sentiment": -0.534, "narrative": "Safety & clutter", "region_id": "tokyo", "ocr": null}
+{"id": "esc-c25e6a3b9f", "sentiment": 0.623, "narrative": "Cheap commuting & savings", "region_id": "jakarta", "ocr": null}
+{"id": "esc-e7c4761a74", "sentiment": -1.0, "narrative": "Footpath conflicts", "region_id": "singapore", "ocr": null}
+{"id": "esc-d11650573a", "sentiment": -0.901, "narrative": "Footpath conflicts", "region_id": "singapore", "ocr": null}
+{"id": "esc-58450fc2c4", "sentiment": -0.789, "narrative": "Footpath conflicts", "region_id": "singapore", "ocr": null}
+{"id": "esc-2a485b3855", "sentiment": -0.381, "narrative": "Safety & clutter", "region_id": "mexico-city", "ocr": null}
+{"id": "esc-0d91894700", "sentiment": 0.091, "narrative": "Practical & green commuting", "region_id": "arizona-us", "ocr": null}
+{"id": "esc-babec12088", "sentiment": -0.013, "narrative": "Safety & clutter", "region_id": "istanbul", "ocr": null}
+{"id": "esc-c843926372", "sentiment": -0.419, "narrative": "Safety & clutter", "region_id": "new-york", "ocr": null}
+{"id": "esc-7067f8f5ea", "sentiment": -0.666, "narrative": "Rental clutter & sidewalk chaos", "region_id": "paris", "ocr": null}
+{"id": "esc-e6435e196e", "sentiment": 0.765, "narrative": "Government push / green city", "region_id": "ho-chi-minh-city", "ocr": null}
+{"id": "esc-a25ce99f95", "sentiment": -0.209, "narrative": "Road bans & safety", "region_id": "manila", "ocr": null}
+{"id": "esc-73fdeb53d6", "sentiment": -1.0, "narrative": "Battery fire safety", "region_id": "singapore", "ocr": null}
+{"id": "esc-c8183f1f02", "sentiment": 0.257, "narrative": "Practical & green commuting", "region_id": "cape-town", "ocr": null}
+{"id": "esc-2f3ad50db1", "sentiment": -0.879, "narrative": "Battery fire safety", "region_id": "singapore", "ocr": null}
+{"id": "esc-68435513b3", "sentiment": -0.661, "narrative": "Footpath conflicts", "region_id": "singapore", "ocr": null}
+{"id": "esc-9f99d57e21", "sentiment": 0.137, "narrative": "E-bike convenience", "region_id": "manila", "ocr": null}
+{"id": "esc-faf07d6e51", "sentiment": 0.47, "narrative": "Fun & practical for short trips", "region_id": "los-angeles", "ocr": null}
+{"id": "esc-e15b866371", "sentiment": -0.136, "narrative": "Sidewalk clutter & injuries", "region_id": "los-angeles", "ocr": null}
+{"id": "esc-62ff4ea4ca", "sentiment": 0.896, "narrative": "Affordable & convenient", "region_id": "ho-chi-minh-city", "ocr": null}
+{"id": "esc-99e44ca36e", "sentiment": -0.549, "narrative": "Safety & clutter", "region_id": "santiago", "ocr": null}
+{"id": "esc-8a755ffc64", "sentiment": -0.45, "narrative": "Safety & clutter", "region_id": "madrid", "ocr": null}
+{"id": "esc-9fea514c1a", "sentiment": 0.622, "narrative": "Cheap commuting & savings", "region_id": "jakarta", "ocr": null}
+{"id": "esc-f0741cdb75", "sentiment": 0.122, "narrative": "Neutral / policy news", "region_id": "tokyo", "ocr": null}
+{"id": "esc-aa9c03d39d", "sentiment": -0.097, "narrative": "Neutral / policy news", "region_id": "delhi", "ocr": null}
+{"id": "esc-999a24cec6", "sentiment": 0.38, "narrative": "Practical & green commuting", "region_id": "taipei", "ocr": null}
+{"id": "esc-a19d4c7ed4", "sentiment": 0.72, "narrative": "Affordable & convenient", "region_id": "ho-chi-minh-city", "ocr": null}
+{"id": "esc-31a9635020", "sentiment": -0.28, "narrative": "Neutral / policy news", "region_id": "texas-us", "ocr": null}
+{"id": "esc-ad4fd613d1", "sentiment": 0.433, "narrative": "Practical & green commuting", "region_id": "germany", "ocr": null}
+{"id": "esc-88c2e95b28", "sentiment": -0.154, "narrative": "Neutral / policy news", "region_id": "new-york", "ocr": null}
+{"id": "esc-7e2c9b79a4", "sentiment": -0.762, "narrative": "Safety & clutter", "region_id": "nairobi", "ocr": null}
+{"id": "esc-c6afa5c967", "sentiment": 0.124, "narrative": "Neutral / policy news", "region_id": "johor", "ocr": null}
+{"id": "esc-3f772a474e", "sentiment": -0.064, "narrative": "Neutral / policy news", "region_id": "dubai", "ocr": null}
+{"id": "esc-1869797524", "sentiment": -0.301, "narrative": "Safety & clutter", "region_id": "kuala-lumpur", "ocr": null}
+{"id": "esc-54a390c978", "sentiment": -0.414, "narrative": "Neutral / policy news", "region_id": "shanghai", "ocr": null}
+{"id": "esc-cd9536fb44", "sentiment": -0.194, "narrative": "Neutral / policy news", "region_id": "sao-paulo", "ocr": null}
+{"id": "esc-8b4dbb0379", "sentiment": 0.668, "narrative": "Practical & green commuting", "region_id": "chicago", "ocr": null}
+{"id": "esc-a4355322e7", "sentiment": 0.245, "narrative": "Practical & green commuting", "region_id": "mumbai", "ocr": null}
+{"id": "esc-b7f3ed9bd9", "sentiment": -1.0, "narrative": "Battery fire safety", "region_id": "singapore", "ocr": null}
+{"id": "esc-b59310beb4", "sentiment": -0.465, "narrative": "Safety & clutter", "region_id": "warsaw", "ocr": null}
+{"id": "esc-b66053a2a9", "sentiment": -0.343, "narrative": "Rental clutter & sidewalk chaos", "region_id": "paris", "ocr": null}
+{"id": "esc-c02a13e3b5", "sentiment": 0.604, "narrative": "Cheaper rides & delivery", "region_id": "bangkok", "ocr": null}
+{"id": "esc-38f3d26d20", "sentiment": 0.224, "narrative": "Neutral / policy news", "region_id": "united-kingdom", "ocr": null}
+{"id": "esc-d4d2409988", "sentiment": -1.0, "narrative": "Battery fire safety", "region_id": "singapore", "ocr": null}
+{"id": "esc-798f7ed82c", "sentiment": 0.871, "narrative": "Cheap commuting & savings", "region_id": "jakarta", "ocr": null}
+{"id": "esc-55dbada9df", "sentiment": -0.253, "narrative": "Useful for delivery workers", "region_id": "singapore", "ocr": null}
+{"id": "esc-a28fa62276", "sentiment": -1.0, "narrative": "Battery fire safety", "region_id": "singapore", "ocr": null}
+{"id": "esc-3a6b9054d5", "sentiment": 0.162, "narrative": "Practical & green commuting", "region_id": "seoul", "ocr": null}
+{"id": "esc-0178fbf07a", "sentiment": -0.236, "narrative": "Safety & clutter", "region_id": "arizona-us", "ocr": null}
+{"id": "esc-f3fed3ca4b", "sentiment": 0.566, "narrative": "Affordable & convenient", "region_id": "ho-chi-minh-city", "ocr": null}
+{"id": "esc-7fa3f801ec", "sentiment": 0.756, "narrative": "Affordable & convenient", "region_id": "ho-chi-minh-city", "ocr": null}
+{"id": "esc-acf11a9191", "sentiment": 0.315, "narrative": "Practical & green commuting", "region_id": "hyderabad", "ocr": null}
+{"id": "esc-b259423c66", "sentiment": -0.543, "narrative": "Road bans & safety", "region_id": "manila", "ocr": null}
+{"id": "esc-af89d96243", "sentiment": 0.304, "narrative": "Practical & green commuting", "region_id": "new-york", "ocr": null}
+{"id": "esc-d5cdb3d8d0", "sentiment": -0.489, "narrative": "Safety & clutter", "region_id": "seoul", "ocr": null}
+{"id": "esc-6ae6b9a68e", "sentiment": -0.099, "narrative": "Useful for delivery workers", "region_id": "singapore", "ocr": null}
+{"id": "esc-f1880e313f", "sentiment": 0.256, "narrative": "Cleaner air", "region_id": "jakarta", "ocr": null}
+{"id": "esc-00f8388952", "sentiment": 0.096, "narrative": "Practical & green commuting", "region_id": "united-kingdom", "ocr": null}
+{"id": "esc-9e077e303d", "sentiment": -0.73, "narrative": "Safety & clutter", "region_id": "cape-town", "ocr": null}
+{"id": "esc-78d1e8e326", "sentiment": -0.035, "narrative": "Neutral / policy news", "region_id": "ireland", "ocr": null}
+{"id": "esc-11e9a6d330", "sentiment": 0.592, "narrative": "Cheaper rides & delivery", "region_id": "bangkok", "ocr": null}
+{"id": "esc-480dde0274", "sentiment": 0.581, "narrative": "Practical & green commuting", "region_id": "toronto", "ocr": null}
+{"id": "esc-9aff039567", "sentiment": -0.305, "narrative": "Safety & clutter", "region_id": "sao-paulo", "ocr": null}
+{"id": "esc-255c42d3ba", "sentiment": -0.391, "narrative": "Safety & clutter", "region_id": "lagos", "ocr": null}
+{"id": "esc-93667549cb", "sentiment": -0.47, "narrative": "Sidewalk clutter & injuries", "region_id": "los-angeles", "ocr": null}
+{"id": "esc-631de594cc", "sentiment": -1.0, "narrative": "Footpath conflicts", "region_id": "singapore", "ocr": null}
+{"id": "esc-917e1048e6", "sentiment": -0.221, "narrative": "Neutral / policy news", "region_id": "bangalore", "ocr": null}
+{"id": "esc-d3f9aec1ff", "sentiment": 0.254, "narrative": "Fun & practical for short trips", "region_id": "los-angeles", "ocr": null}
+{"id": "esc-0fe5abc3ec", "sentiment": -1.0, "narrative": "Battery fire safety", "region_id": "singapore", "ocr": null}
+{"id": "esc-28696f1ffe", "sentiment": -1.0, "narrative": "Battery fire safety", "region_id": "singapore", "ocr": null}
+{"id": "esc-f4e5dffa85", "sentiment": -0.568, "narrative": "Footpath conflicts", "region_id": "singapore", "ocr": null}
+{"id": "esc-7ed3f211da", "sentiment": -0.677, "narrative": "Footpath conflicts", "region_id": "singapore", "ocr": null}
+{"id": "esc-cbfdf27c18", "sentiment": -0.827, "narrative": "Rental clutter & sidewalk chaos", "region_id": "paris", "ocr": null}
+{"id": "esc-5f19c5de44", "sentiment": 0.134, "narrative": "Neutral / policy news", "region_id": "germany", "ocr": null}
+{"id": "esc-8642b60884", "sentiment": -0.74, "narrative": "Safety & clutter", "region_id": "sydney", "ocr": null}
+{"id": "esc-e2cc047574", "sentiment": -1.0, "narrative": "Battery fire safety", "region_id": "singapore", "ocr": null}
+{"id": "esc-da498b5698", "sentiment": -0.117, "narrative": "Neutral / policy news", "region_id": "shanghai", "ocr": null}
+{"id": "esc-5e400b7261", "sentiment": -0.477, "narrative": "Safety & clutter", "region_id": "warsaw", "ocr": null}
+{"id": "esc-465bb9826b", "sentiment": 0.47, "narrative": "Cheap commuting & savings", "region_id": "jakarta", "ocr": null}
+{"id": "esc-99ba8bf5e2", "sentiment": -0.243, "narrative": "Road bans & safety", "region_id": "manila", "ocr": "BAWAL E-BIKE SA MAJOR ROADS"}
+{"id": "esc-61ecd6a401", "sentiment": 0.031, "narrative": "Useful for delivery workers", "region_id": "singapore", "ocr": null}
+{"id": "esc-655264843e", "sentiment": 0.251, "narrative": "Practical & green commuting", "region_id": "arizona-us", "ocr": null}
+{"id": "esc-1457b79f4c", "sentiment": 0.08, "narrative": "Neutral / policy news", "region_id": "johor", "ocr": null}
+{"id": "esc-0cdfa68b5c", "sentiment": -0.48, "narrative": "Safety & clutter", "region_id": "santiago", "ocr": null}
+{"id": "esc-5f32808024", "sentiment": -0.189, "narrative": "Safety & clutter", "region_id": "united-kingdom", "ocr": null}
+{"id": "esc-c50900bb6c", "sentiment": -0.027, "narrative": "Safety & clutter", "region_id": "tokyo", "ocr": null}
+{"id": "esc-38947b525f", "sentiment": 0.707, "narrative": "Affordable & convenient", "region_id": "ho-chi-minh-city", "ocr": null}
+{"id": "esc-4ea80d8728", "sentiment": 0.162, "narrative": "Practical & green commuting", "region_id": "mumbai", "ocr": null}
+{"id": "esc-c0935d0bc3", "sentiment": 0.256, "narrative": "Cheaper rides & delivery", "region_id": "bangkok", "ocr": null}
+{"id": "esc-f71dd9b987", "sentiment": -0.548, "narrative": "Rental clutter & sidewalk chaos", "region_id": "paris", "ocr": null}
+{"id": "esc-172ab772aa", "sentiment": -0.241, "narrative": "Safety & clutter", "region_id": "delhi", "ocr": null}
+{"id": "esc-80cce1ff46", "sentiment": 0.776, "narrative": "Practical & green commuting", "region_id": "taipei", "ocr": null}
+{"id": "esc-2ac2a049d1", "sentiment": 0.695, "narrative": "Government push / green city", "region_id": "ho-chi-minh-city", "ocr": null}
+{"id": "esc-75e1a7d2e3", "sentiment": 0.611, "narrative": "Practical & green commuting", "region_id": "cairo", "ocr": null}
+{"id": "esc-0f06051dfa", "sentiment": 0.926, "narrative": "Cheap commuting & savings", "region_id": "jakarta", "ocr": null}
+{"id": "esc-16438270e1", "sentiment": -0.182, "narrative": "Safety & clutter", "region_id": "ireland", "ocr": null}
+{"id": "esc-5432b118e1", "sentiment": 0.015, "narrative": "Road bans & safety", "region_id": "manila", "ocr": null}
+{"id": "esc-c28208dfe3", "sentiment": 0.571, "narrative": "Cheap commuting & savings", "region_id": "jakarta", "ocr": null}
+{"id": "esc-ea9fd5d930", "sentiment": -0.573, "narrative": "Battery fire safety", "region_id": "singapore", "ocr": null}
+{"id": "esc-5ea17c7ba3", "sentiment": -0.502, "narrative": "Footpath conflicts", "region_id": "singapore", "ocr": null}
+{"id": "esc-59b1cbe3b5", "sentiment": 0.125, "narrative": "Neutral / policy news", "region_id": "new-york", "ocr": null}
+{"id": "esc-c23d16bff4", "sentiment": 0.341, "narrative": "Cheaper rides & delivery", "region_id": "bangkok", "ocr": null}
+{"id": "esc-0e89082af7", "sentiment": 0.655, "narrative": "Fun & practical for short trips", "region_id": "los-angeles", "ocr": null}
+{"id": "esc-2750a74e46", "sentiment": 0.723, "narrative": "Cleaner air", "region_id": "jakarta", "ocr": null}
+{"id": "esc-cfa077f1d2", "sentiment": -0.429, "narrative": "Footpath conflicts", "region_id": "singapore", "ocr": null}
+{"id": "esc-24be9c86b6", "sentiment": 0.252, "narrative": "Fun & practical for short trips", "region_id": "los-angeles", "ocr": null}
+{"id": "esc-817a449380", "sentiment": -0.088, "narrative": "Charging & battery doubts", "region_id": "jakarta", "ocr": null}
+{"id": "esc-4f5d211b07", "sentiment": 0.218, "narrative": "Neutral / policy news", "region_id": "vancouver", "ocr": null}
+{"id": "esc-f9426034c5", "sentiment": 0.56, "narrative": "Practical & green commuting", "region_id": "tokyo", "ocr": null}
+{"id": "esc-2a78b627e1", "sentiment": 0.505, "narrative": "Government push / green city", "region_id": "ho-chi-minh-city", "ocr": null}
+{"id": "esc-aed86e7781", "sentiment": 0.634, "narrative": "Practical & green commuting", "region_id": "germany", "ocr": null}
+{"id": "esc-aa95650a61", "sentiment": -0.428, "narrative": "Safety & clutter", "region_id": "mexico-city", "ocr": null}
+{"id": "esc-d538d390f4", "sentiment": 0.661, "narrative": "Cheaper rides & delivery", "region_id": "bangkok", "ocr": null}
+{"id": "esc-9f66396fc3", "sentiment": 0.238, "narrative": "Neutral / policy news", "region_id": "cairo", "ocr": null}
+{"id": "esc-fc0055b86a", "sentiment": -0.255, "narrative": "Traffic & safety concerns", "region_id": "bangkok", "ocr": null}
+{"id": "esc-52e21960ea", "sentiment": 0.736, "narrative": "Practical & green commuting", "region_id": "mumbai", "ocr": null}
+{"id": "esc-253d28e8f3", "sentiment": 0.53, "narrative": "Practical & green commuting", "region_id": "netherlands", "ocr": null}
+{"id": "esc-f790ceb2ba", "sentiment": 0.203, "narrative": "Personal scooter freedom", "region_id": "paris", "ocr": null}
+{"id": "esc-89548b88d9", "sentiment": -0.902, "narrative": "Safety & clutter", "region_id": "lagos", "ocr": null}
+{"id": "esc-5cc8966675", "sentiment": 0.685, "narrative": "Affordable & convenient", "region_id": "ho-chi-minh-city", "ocr": null}
+{"id": "esc-bca8f1f00b", "sentiment": -0.248, "narrative": "Safety & clutter", "region_id": "kuala-lumpur", "ocr": null}
+{"id": "esc-b3d8173ffc", "sentiment": -0.247, "narrative": "Safety & clutter", "region_id": "new-york", "ocr": null}
+{"id": "esc-6a4abb968a", "sentiment": -0.449, "narrative": "Safety & clutter", "region_id": "united-kingdom", "ocr": null}
+{"id": "esc-ec6e10a5a9", "sentiment": -0.212, "narrative": "Sidewalk clutter & injuries", "region_id": "los-angeles", "ocr": null}
+{"id": "esc-e6138fe8e8", "sentiment": -0.683, "narrative": "Footpath conflicts", "region_id": "singapore", "ocr": null}
+{"id": "esc-f77b314df3", "sentiment": 0.156, "narrative": "E-bike convenience", "region_id": "manila", "ocr": null}
+{"id": "esc-56226d77dd", "sentiment": -0.788, "narrative": "Safety & clutter", "region_id": "bangalore", "ocr": null}
+{"id": "esc-5b31d8ed0d", "sentiment": -0.802, "narrative": "Battery fire safety", "region_id": "singapore", "ocr": null}
+{"id": "esc-0e847e8d04", "sentiment": -0.024, "narrative": "Neutral / policy news", "region_id": "texas-us", "ocr": null}
+{"id": "esc-0b8cff2d64", "sentiment": -0.011, "narrative": "Practical & green commuting", "region_id": "chicago", "ocr": null}
+{"id": "esc-e223934dcb", "sentiment": -0.176, "narrative": "Neutral / policy news", "region_id": "shanghai", "ocr": null}
+{"id": "esc-0dab6d2e27", "sentiment": 0.526, "narrative": "Cheap commuting & savings", "region_id": "jakarta", "ocr": "SWAP 2 MENIT"}
+{"id": "esc-4429fd0337", "sentiment": -0.555, "narrative": "Rental clutter & sidewalk chaos", "region_id": "paris", "ocr": null}
+{"id": "esc-de88919acd", "sentiment": -0.248, "narrative": "Neutral / policy news", "region_id": "arizona-us", "ocr": null}
+{"id": "esc-86fbe3591e", "sentiment": -0.257, "narrative": "Safety & clutter", "region_id": "germany", "ocr": null}
+{"id": "esc-7b9ba0cce3", "sentiment": 0.518, "narrative": "Cleaner air", "region_id": "jakarta", "ocr": null}
+{"id": "esc-c21b73c1d6", "sentiment": -0.89, "narrative": "Battery fire safety", "region_id": "singapore", "ocr": null}
+{"id": "esc-3091f1ab2d", "sentiment": -0.39, "narrative": "Safety & clutter", "region_id": "toronto", "ocr": null}
+{"id": "esc-632e8ed846", "sentiment": 0.631, "narrative": "Affordable & convenient", "region_id": "ho-chi-minh-city", "ocr": null}
+{"id": "esc-67a4a4f13c", "sentiment": 0.291, "narrative": "Practical & green commuting", "region_id": "tokyo", "ocr": null}
+{"id": "esc-b632e6f1b9", "sentiment": 0.296, "narrative": "E-bike convenience", "region_id": "manila", "ocr": null}
+{"id": "esc-badc400cc1", "sentiment": 0.19, "narrative": "Practical & green commuting", "region_id": "mumbai", "ocr": null}
+{"id": "esc-f1b10b4f92", "sentiment": -0.207, "narrative": "Safety & clutter", "region_id": "madrid", "ocr": null}
+{"id": "esc-684b5ed9ae", "sentiment": -0.347, "narrative": "Traffic & safety concerns", "region_id": "bangkok", "ocr": null}
+{"id": "esc-009b7f91ac", "sentiment": 0.275, "narrative": "Practical & green commuting", "region_id": "sao-paulo", "ocr": null}
+{"id": "esc-c277f14d1a", "sentiment": -0.308, "narrative": "Charging & battery doubts", "region_id": "jakarta", "ocr": null}
+{"id": "esc-505476d2a3", "sentiment": -1.0, "narrative": "Battery fire safety", "region_id": "singapore", "ocr": null}
+{"id": "esc-e2b8d9cde5", "sentiment": -0.562, "narrative": "Safety & clutter", "region_id": "united-kingdom", "ocr": null}
+{"id": "esc-f2ded2d681", "sentiment": -0.137, "narrative": "Safety & clutter", "region_id": "cairo", "ocr": null}
+{"id": "esc-9571b6a3ea", "sentiment": -0.471, "narrative": "Safety & clutter", "region_id": "vancouver", "ocr": null}
+{"id": "esc-d4f390c657", "sentiment": -1.0, "narrative": "Battery fire safety", "region_id": "singapore", "ocr": null}
+{"id": "esc-ac3db63a90", "sentiment": 0.621, "narrative": "Fun & practical for short trips", "region_id": "los-angeles", "ocr": null}
+{"id": "esc-3645036325", "sentiment": 0.482, "narrative": "Practical & green commuting", "region_id": "sydney", "ocr": null}
+{"id": "esc-3e4420fc3f", "sentiment": 0.144, "narrative": "Neutral / policy news", "region_id": "new-york", "ocr": null}
+{"id": "esc-9d75322cb9", "sentiment": 0.364, "narrative": "Personal scooter freedom", "region_id": "paris", "ocr": null}
+{"id": "esc-af2fcae959", "sentiment": 0.738, "narrative": "Affordable & convenient", "region_id": "ho-chi-minh-city", "ocr": null}
+{"id": "esc-64fd88ed7f", "sentiment": -0.376, "narrative": "Safety & clutter", "region_id": "lagos", "ocr": null}
+{"id": "esc-379fa14599", "sentiment": -0.272, "narrative": "Safety & clutter", "region_id": "texas-us", "ocr": null}
+{"id": "esc-4851089d01", "sentiment": -0.586, "narrative": "Rental clutter & sidewalk chaos", "region_id": "paris", "ocr": null}
+{"id": "esc-335ca766b1", "sentiment": 0.056, "narrative": "Neutral / policy news", "region_id": "taipei", "ocr": null}
+{"id": "esc-9b43419ca6", "sentiment": 0.435, "narrative": "Practical & green commuting", "region_id": "sao-paulo", "ocr": null}
+{"id": "esc-eb25b91e1b", "sentiment": 0.697, "narrative": "Cheap commuting & savings", "region_id": "jakarta", "ocr": "Bensin vs Listrik"}
+{"id": "esc-a924b254f6", "sentiment": -0.333, "narrative": "Safety & clutter", "region_id": "nairobi", "ocr": null}
+{"id": "esc-2731e00b57", "sentiment": -0.672, "narrative": "Rental clutter & sidewalk chaos", "region_id": "paris", "ocr": null}
+{"id": "esc-8cf63c6d85", "sentiment": 0.743, "narrative": "Practical & green commuting", "region_id": "arizona-us", "ocr": null}
+{"id": "esc-c62872f4a5", "sentiment": 0.142, "narrative": "E-bike convenience", "region_id": "manila", "ocr": null}
+{"id": "esc-ee72e11456", "sentiment": -0.485, "narrative": "Safety & clutter", "region_id": "new-york", "ocr": null}
+{"id": "esc-89b1bf76c1", "sentiment": -0.195, "narrative": "Safety & clutter", "region_id": "mexico-city", "ocr": null}
+{"id": "esc-15bb22730a", "sentiment": 0.3, "narrative": "Practical & green commuting", "region_id": "dubai", "ocr": null}
+{"id": "esc-7587f99b33", "sentiment": -0.415, "narrative": "Safety & clutter", "region_id": "buenos-aires", "ocr": null}
+{"id": "esc-c939d9ea2a", "sentiment": 0.617, "narrative": "Cheaper rides & delivery", "region_id": "bangkok", "ocr": null}
+{"id": "esc-df9091449f", "sentiment": -0.161, "narrative": "Safety & clutter", "region_id": "netherlands", "ocr": null}
+{"id": "esc-d48be6c82d", "sentiment": 0.673, "narrative": "Affordable & convenient", "region_id": "ho-chi-minh-city", "ocr": null}
+{"id": "esc-ed3697c43c", "sentiment": -0.186, "narrative": "Safety & clutter", "region_id": "shanghai", "ocr": null}
+{"id": "esc-d4db93b5aa", "sentiment": 0.189, "narrative": "Fun & practical for short trips", "region_id": "los-angeles", "ocr": null}
+{"id": "esc-3288a2bb3e", "sentiment": 0.309, "narrative": "Practical & green commuting", "region_id": "toronto", "ocr": null}
+{"id": "esc-2cdad11aaa", "sentiment": -0.451, "narrative": "Safety & clutter", "region_id": "delhi", "ocr": null}
+{"id": "esc-67f85a5bb2", "sentiment": 0.044, "narrative": "Neutral / policy news", "region_id": "cape-town", "ocr": null}
+{"id": "esc-4e33b3fa24", "sentiment": -0.748, "narrative": "Battery fire safety", "region_id": "singapore", "ocr": null}
+{"id": "esc-14763d68c1", "sentiment": 0.383, "narrative": "Practical & green commuting", "region_id": "cairo", "ocr": null}
+{"id": "esc-0524bae0f1", "sentiment": 0.749, "narrative": "Affordable & convenient", "region_id": "ho-chi-minh-city", "ocr": null}
+{"id": "esc-84ecf0ab45", "sentiment": -0.467, "narrative": "Safety & clutter", "region_id": "sweden", "ocr": null}
+{"id": "esc-7efbb48d2c", "sentiment": 0.45, "narrative": "Practical & green commuting", "region_id": "united-kingdom", "ocr": null}
+{"id": "esc-72183b18cf", "sentiment": 0.413, "narrative": "Practical & green commuting", "region_id": "mumbai", "ocr": null}
+{"id": "esc-cf5c54327b", "sentiment": 0.262, "narrative": "Useful for delivery workers", "region_id": "singapore", "ocr": null}
+{"id": "esc-4461959f35", "sentiment": 0.392, "narrative": "Cheap commuting & savings", "region_id": "jakarta", "ocr": "SWAP 2 MENIT"}
+{"id": "esc-109dcb355e", "sentiment": 0.257, "narrative": "Fun & practical for short trips", "region_id": "los-angeles", "ocr": null}
+{"id": "esc-f877110d04", "sentiment": 0.329, "narrative": "Neutral / policy news", "region_id": "bangalore", "ocr": null}
+{"id": "esc-8cfffcdb0a", "sentiment": 0.561, "narrative": "Practical & green commuting", "region_id": "madrid", "ocr": null}
+{"id": "esc-bdfd54c5bd", "sentiment": 0.288, "narrative": "Government push / green city", "region_id": "ho-chi-minh-city", "ocr": null}
+{"id": "esc-234cea4880", "sentiment": 0.28, "narrative": "Neutral / policy news", "region_id": "sao-paulo", "ocr": null}
+{"id": "esc-33641bf71f", "sentiment": -0.188, "narrative": "Safety & clutter", "region_id": "netherlands", "ocr": null}
+{"id": "esc-b9213b93c8", "sentiment": -0.041, "narrative": "Neutral / policy news", "region_id": "united-kingdom", "ocr": null}
+{"id": "esc-331f31a5c8", "sentiment": -0.366, "narrative": "Footpath conflicts", "region_id": "singapore", "ocr": null}
+{"id": "esc-442296b986", "sentiment": -0.406, "narrative": "Safety & clutter", "region_id": "cairo", "ocr": null}
+{"id": "esc-e2c905690d", "sentiment": 0.313, "narrative": "E-bike convenience", "region_id": "manila", "ocr": null}
+{"id": "esc-7436966198", "sentiment": -0.383, "narrative": "Sidewalk clutter & injuries", "region_id": "los-angeles", "ocr": null}
+{"id": "esc-ca742667de", "sentiment": -0.558, "narrative": "Safety & clutter", "region_id": "buenos-aires", "ocr": null}
+{"id": "esc-1d27f82d66", "sentiment": -0.036, "narrative": "Practical & green commuting", "region_id": "hyderabad", "ocr": null}
+{"id": "esc-aac6d552da", "sentiment": 0.381, "narrative": "Practical & green commuting", "region_id": "bogota", "ocr": null}
+{"id": "esc-0f36edc70b", "sentiment": 0.471, "narrative": "Cleaner air", "region_id": "jakarta", "ocr": null}
+{"id": "esc-6e657d2bd2", "sentiment": 0.934, "narrative": "Cheaper rides & delivery", "region_id": "bangkok", "ocr": null}
+{"id": "esc-30094669e7", "sentiment": 0.26, "narrative": "Practical & green commuting", "region_id": "auckland", "ocr": null}
+{"id": "esc-92339dae71", "sentiment": 0.588, "narrative": "Cleaner air", "region_id": "jakarta", "ocr": null}
+{"id": "esc-6739783db2", "sentiment": 0.156, "narrative": "Personal scooter freedom", "region_id": "paris", "ocr": null}
+{"id": "esc-8694495a25", "sentiment": -0.4, "narrative": "Safety & clutter", "region_id": "sydney", "ocr": null}
+{"id": "esc-0b6282939d", "sentiment": 0.657, "narrative": "Government push / green city", "region_id": "ho-chi-minh-city", "ocr": null}
+{"id": "esc-f599390df5", "sentiment": 0.538, "narrative": "Affordable & convenient", "region_id": "ho-chi-minh-city", "ocr": "CHÚC MỪNG"}
+{"id": "esc-425abde10d", "sentiment": 0.67, "narrative": "Cheaper rides & delivery", "region_id": "bangkok", "ocr": null}
+{"id": "esc-2bf8a8c6f2", "sentiment": -0.186, "narrative": "Neutral / policy news", "region_id": "chicago", "ocr": null}
+{"id": "esc-b429659f8e", "sentiment": 0.821, "narrative": "Cheap commuting & savings", "region_id": "jakarta", "ocr": null}
+{"id": "esc-a02bcea9eb", "sentiment": 0.624, "narrative": "E-bike convenience", "region_id": "manila", "ocr": null}
+{"id": "esc-7a6dd1382a", "sentiment": -0.541, "narrative": "Safety & clutter", "region_id": "sao-paulo", "ocr": null}
+{"id": "esc-85a0757382", "sentiment": 0.36, "narrative": "Practical & green commuting", "region_id": "new-york", "ocr": null}
+{"id": "esc-8583a7a551", "sentiment": 0.446, "narrative": "Practical & green commuting", "region_id": "united-kingdom", "ocr": null}
+{"id": "esc-6957061e68", "sentiment": 0.399, "narrative": "Practical & green commuting", "region_id": "mumbai", "ocr": null}
+{"id": "esc-cf30631839", "sentiment": -0.511, "narrative": "Safety & clutter", "region_id": "taipei", "ocr": null}
+{"id": "esc-c531fef372", "sentiment": -0.457, "narrative": "Rental clutter & sidewalk chaos", "region_id": "paris", "ocr": null}
+{"id": "esc-61dfd51686", "sentiment": 0.618, "narrative": "Cleaner air", "region_id": "jakarta", "ocr": null}
+{"id": "esc-dd3e86ea8e", "sentiment": 0.36, "narrative": "Practical & green commuting", "region_id": "netherlands", "ocr": null}
+{"id": "esc-e4fa266949", "sentiment": -0.104, "narrative": "Sidewalk clutter & injuries", "region_id": "los-angeles", "ocr": null}
+{"id": "esc-17f7085113", "sentiment": 0.159, "narrative": "Useful for delivery workers", "region_id": "singapore", "ocr": null}
+{"id": "esc-3b5875b499", "sentiment": 0.687, "narrative": "Practical & green commuting", "region_id": "delhi", "ocr": null}
+{"id": "esc-a11032a303", "sentiment": -0.189, "narrative": "Road bans & safety", "region_id": "manila", "ocr": "BAWAL E-BIKE SA MAJOR ROADS"}
+{"id": "esc-206ee54019", "sentiment": -0.519, "narrative": "Safety & clutter", "region_id": "lagos", "ocr": null}
+{"id": "esc-d67d644250", "sentiment": 0.876, "narrative": "Cheap commuting & savings", "region_id": "jakarta", "ocr": null}
+{"id": "esc-475fa4a351", "sentiment": -0.038, "narrative": "Neutral / policy news", "region_id": "shanghai", "ocr": null}
+{"id": "esc-9b49293efb", "sentiment": -0.191, "narrative": "Safety & clutter", "region_id": "buenos-aires", "ocr": null}
+{"id": "esc-fb9e40fa0f", "sentiment": -0.46, "narrative": "Sidewalk clutter & injuries", "region_id": "los-angeles", "ocr": null}
+{"id": "esc-2e679ffb70", "sentiment": -0.282, "narrative": "Safety & clutter", "region_id": "madrid", "ocr": null}
+{"id": "esc-4d67c56a03", "sentiment": 0.171, "narrative": "Practical & green commuting", "region_id": "bangalore", "ocr": null}
+{"id": "esc-8a243d91d9", "sentiment": 0.532, "narrative": "Cheap commuting & savings", "region_id": "jakarta", "ocr": null}
+{"id": "esc-821b843c42", "sentiment": 0.231, "narrative": "Personal scooter freedom", "region_id": "paris", "ocr": null}
+{"id": "esc-9ccfb3f174", "sentiment": 0.609, "narrative": "Affordable & convenient", "region_id": "ho-chi-minh-city", "ocr": null}
+{"id": "esc-f7adfa222f", "sentiment": 0.487, "narrative": "Affordable & convenient", "region_id": "ho-chi-minh-city", "ocr": null}
+{"id": "esc-4655b92968", "sentiment": 0.032, "narrative": "Neutral / policy news", "region_id": "kuala-lumpur", "ocr": null}
+{"id": "esc-5ffdb2a731", "sentiment": -0.1, "narrative": "Neutral / policy news", "region_id": "germany", "ocr": null}
+{"id": "esc-1ba676829e", "sentiment": 0.4, "narrative": "Cheaper rides & delivery", "region_id": "bangkok", "ocr": null}
+{"id": "esc-2944f73310", "sentiment": 0.678, "narrative": "Practical & green commuting", "region_id": "texas-us", "ocr": null}
+{"id": "esc-e3a169225b", "sentiment": -0.043, "narrative": "Neutral / policy news", "region_id": "toronto", "ocr": null}
+{"id": "esc-ac19a3da5a", "sentiment": 0.295, "narrative": "E-bike convenience", "region_id": "manila", "ocr": null}
+{"id": "esc-da3dfcb7a9", "sentiment": -0.352, "narrative": "Footpath conflicts", "region_id": "singapore", "ocr": null}
+{"id": "esc-da640b24d1", "sentiment": 0.28, "narrative": "Practical & green commuting", "region_id": "tokyo", "ocr": null}
+{"id": "esc-af0d43dfb8", "sentiment": -0.816, "narrative": "Footpath conflicts", "region_id": "singapore", "ocr": null}
+{"id": "esc-e539af9d44", "sentiment": -0.542, "narrative": "Footpath conflicts", "region_id": "singapore", "ocr": null}
+{"id": "esc-84798f660f", "sentiment": -0.005, "narrative": "Neutral / policy news", "region_id": "shanghai", "ocr": null}
+{"id": "esc-0ef80c9328", "sentiment": 0.587, "narrative": "Cheap commuting & savings", "region_id": "jakarta", "ocr": null}
+{"id": "esc-933a79aced", "sentiment": 0.521, "narrative": "Affordable & convenient", "region_id": "ho-chi-minh-city", "ocr": "CHÚC MỪNG"}
+{"id": "esc-724693f557", "sentiment": -0.75, "narrative": "Safety & clutter", "region_id": "sweden", "ocr": null}
+{"id": "esc-120d9c9689", "sentiment": 0.009, "narrative": "Neutral / policy news", "region_id": "new-york", "ocr": null}
+{"id": "esc-015e5910ba", "sentiment": -0.159, "narrative": "Neutral / policy news", "region_id": "lagos", "ocr": null}
+{"id": "esc-230077b2c4", "sentiment": -0.014, "narrative": "Neutral / policy news", "region_id": "sydney", "ocr": null}
+{"id": "esc-7b064ebe27", "sentiment": 0.469, "narrative": "Cheaper rides & delivery", "region_id": "bangkok", "ocr": null}
+{"id": "esc-c181bb7e01", "sentiment": 0.746, "narrative": "Cheap commuting & savings", "region_id": "jakarta", "ocr": null}
+{"id": "esc-d581f274e4", "sentiment": -0.709, "narrative": "Safety & clutter", "region_id": "virginia-us", "ocr": null}
+{"id": "esc-773f787c3c", "sentiment": 0.527, "narrative": "Practical & green commuting", "region_id": "bogota", "ocr": null}
+{"id": "esc-5d7bbc4002", "sentiment": 0.626, "narrative": "Government push / green city", "region_id": "ho-chi-minh-city", "ocr": null}
+{"id": "esc-2f55ea575b", "sentiment": 0.442, "narrative": "Practical & green commuting", "region_id": "germany", "ocr": null}
+{"id": "esc-7c8d474543", "sentiment": 0.218, "narrative": "Fun & practical for short trips", "region_id": "los-angeles", "ocr": null}
+{"id": "esc-9b2c6824be", "sentiment": -0.503, "narrative": "Rental clutter & sidewalk chaos", "region_id": "paris", "ocr": null}
+{"id": "esc-41dc1cd541", "sentiment": -0.554, "narrative": "Battery fire safety", "region_id": "singapore", "ocr": null}
+{"id": "esc-00e4ac8336", "sentiment": -0.356, "narrative": "Safety & clutter", "region_id": "united-kingdom", "ocr": null}
+{"id": "esc-3cd52ba9b6", "sentiment": 0.199, "narrative": "E-bike convenience", "region_id": "manila", "ocr": null}
+{"id": "esc-1f6bed57d0", "sentiment": 0.263, "narrative": "Practical & green commuting", "region_id": "cairo", "ocr": null}
+{"id": "esc-674d135417", "sentiment": 0.357, "narrative": "Practical & green commuting", "region_id": "delhi", "ocr": null}
+{"id": "esc-bdda0a0a30", "sentiment": 0.457, "narrative": "Practical & green commuting", "region_id": "nairobi", "ocr": null}
+{"id": "esc-2473ccf6af", "sentiment": 0.5, "narrative": "Cheaper rides & delivery", "region_id": "bangkok", "ocr": null}
+{"id": "esc-a2db16a74d", "sentiment": 0.324, "narrative": "Practical & green commuting", "region_id": "hyderabad", "ocr": null}
+{"id": "esc-571c089ff3", "sentiment": 0.117, "narrative": "Neutral / policy news", "region_id": "mumbai", "ocr": null}
+{"id": "esc-13e1b8427c", "sentiment": -0.115, "narrative": "Road bans & safety", "region_id": "manila", "ocr": "BAWAL E-BIKE SA MAJOR ROADS"}
+{"id": "esc-2e5b0032df", "sentiment": 0.4, "narrative": "Fun & practical for short trips", "region_id": "los-angeles", "ocr": null}
+{"id": "esc-dd8ca5e533", "sentiment": 0.534, "narrative": "Practical & green commuting", "region_id": "germany", "ocr": null}
+{"id": "esc-9833804e7f", "sentiment": 0.664, "narrative": "Practical & green commuting", "region_id": "bangalore", "ocr": null}
+{"id": "esc-0d12c16857", "sentiment": -0.358, "narrative": "Safety & clutter", "region_id": "dubai", "ocr": null}
+{"id": "esc-a06ef232ee", "sentiment": 0.241, "narrative": "Cheaper rides & delivery", "region_id": "bangkok", "ocr": null}
+{"id": "esc-905c02967f", "sentiment": -0.296, "narrative": "Safety & clutter", "region_id": "texas-us", "ocr": null}
+{"id": "esc-df5f2d75cb", "sentiment": 0.334, "narrative": "Fun & practical for short trips", "region_id": "los-angeles", "ocr": null}
+{"id": "esc-8d4a13cd94", "sentiment": 0.506, "narrative": "Practical & green commuting", "region_id": "sao-paulo", "ocr": null}
+{"id": "esc-11e3ae8e39", "sentiment": 0.893, "narrative": "Affordable & convenient", "region_id": "ho-chi-minh-city", "ocr": null}
+{"id": "esc-ab4b8d6983", "sentiment": -0.619, "narrative": "Traffic & safety concerns", "region_id": "bangkok", "ocr": null}
+{"id": "esc-703d873027", "sentiment": -0.606, "narrative": "Battery fire safety", "region_id": "singapore", "ocr": null}
+{"id": "esc-eb891dbd08", "sentiment": -0.626, "narrative": "Rental clutter & sidewalk chaos", "region_id": "paris", "ocr": null}
+{"id": "esc-3b00c2d45c", "sentiment": 0.683, "narrative": "Cheap commuting & savings", "region_id": "jakarta", "ocr": null}
+{"id": "esc-dea3b58e69", "sentiment": 0.553, "narrative": "Affordable & convenient", "region_id": "ho-chi-minh-city", "ocr": null}
+{"id": "esc-4f69ae0250", "sentiment": 0.438, "narrative": "Practical & green commuting", "region_id": "mexico-city", "ocr": null}
+{"id": "esc-f1282a1eeb", "sentiment": -0.381, "narrative": "Safety & clutter", "region_id": "taipei", "ocr": null}
+{"id": "esc-b89649f5f2", "sentiment": -0.211, "narrative": "Neutral / policy news", "region_id": "kuala-lumpur", "ocr": null}
+{"id": "esc-9c8744cd12", "sentiment": -0.531, "narrative": "Road bans & safety", "region_id": "manila", "ocr": null}
+{"id": "esc-1a3a9a9d4e", "sentiment": -0.277, "narrative": "Sidewalk clutter & injuries", "region_id": "los-angeles", "ocr": null}
+{"id": "esc-19d312dc96", "sentiment": -0.393, "narrative": "Safety & clutter", "region_id": "lagos", "ocr": null}
+{"id": "esc-5d34b3c4ff", "sentiment": 0.404, "narrative": "Practical & green commuting", "region_id": "united-kingdom", "ocr": null}
+{"id": "esc-900afb7765", "sentiment": 0.331, "narrative": "Practical & green commuting", "region_id": "chicago", "ocr": null}
+{"id": "esc-b5822111ce", "sentiment": 0.539, "narrative": "Practical & green commuting", "region_id": "mumbai", "ocr": null}
+{"id": "esc-b783cd92b7", "sentiment": 0.727, "narrative": "Cheap commuting & savings", "region_id": "jakarta", "ocr": null}
+{"id": "esc-34dcb30d48", "sentiment": -0.076, "narrative": "Neutral / policy news", "region_id": "new-york", "ocr": null}
+{"id": "esc-46d4be23bd", "sentiment": 0.194, "narrative": "Neutral / policy news", "region_id": "auckland", "ocr": null}
+{"id": "esc-db68674781", "sentiment": -0.331, "narrative": "Safety & clutter", "region_id": "hyderabad", "ocr": null}
+{"id": "esc-da16d41012", "sentiment": -0.596, "narrative": "Rental clutter & sidewalk chaos", "region_id": "paris", "ocr": null}
+{"id": "esc-b87861c435", "sentiment": -0.5, "narrative": "Safety & clutter", "region_id": "mexico-city", "ocr": null}
+{"id": "esc-30c0b860f6", "sentiment": 0.776, "narrative": "Affordable & convenient", "region_id": "ho-chi-minh-city", "ocr": null}
+{"id": "esc-9180cd6de3", "sentiment": 0.676, "narrative": "Cleaner air", "region_id": "jakarta", "ocr": null}
+{"id": "esc-3e80f3a6cc", "sentiment": -0.516, "narrative": "Road bans & safety", "region_id": "manila", "ocr": null}
+{"id": "esc-6592b4f13b", "sentiment": 0.914, "narrative": "Affordable & convenient", "region_id": "ho-chi-minh-city", "ocr": null}
+{"id": "esc-024ab08749", "sentiment": -0.677, "narrative": "Battery fire safety", "region_id": "singapore", "ocr": null}
+{"id": "esc-43f693ef5a", "sentiment": -0.052, "narrative": "Safety & clutter", "region_id": "netherlands", "ocr": null}
+{"id": "esc-cb0089a80f", "sentiment": 0.056, "narrative": "Neutral / policy news", "region_id": "toronto", "ocr": null}
+{"id": "esc-4405a489cf", "sentiment": 0.357, "narrative": "Neutral / policy news", "region_id": "taipei", "ocr": null}
+{"id": "esc-653a69655f", "sentiment": 0.353, "narrative": "Practical & green commuting", "region_id": "tokyo", "ocr": null}
+{"id": "esc-df2c23fc33", "sentiment": 0.468, "narrative": "Cheaper rides & delivery", "region_id": "bangkok", "ocr": null}
+{"id": "esc-ec262d62b2", "sentiment": 0.494, "narrative": "Cheap commuting & savings", "region_id": "jakarta", "ocr": null}
+{"id": "esc-b89b7d505e", "sentiment": 0.034, "narrative": "Neutral / policy news", "region_id": "new-york", "ocr": null}
+{"id": "esc-9b5d401372", "sentiment": -0.277, "narrative": "Safety & clutter", "region_id": "seoul", "ocr": null}
+{"id": "esc-6bc45791d3", "sentiment": -0.561, "narrative": "Safety & clutter", "region_id": "lagos", "ocr": null}
+{"id": "esc-982a4c53e9", "sentiment": -0.581, "narrative": "Safety & clutter", "region_id": "mumbai", "ocr": null}
+{"id": "esc-8b2f66d3a7", "sentiment": 0.353, "narrative": "Cheap commuting & savings", "region_id": "jakarta", "ocr": "Bensin vs Listrik"}
+{"id": "esc-1a0756ca02", "sentiment": 0.353, "narrative": "Fun & practical for short trips", "region_id": "los-angeles", "ocr": null}
+{"id": "esc-8694503ca1", "sentiment": 0.217, "narrative": "Practical & green commuting", "region_id": "sao-paulo", "ocr": null}
+{"id": "esc-0def0886b7", "sentiment": -0.782, "narrative": "Rental clutter & sidewalk chaos", "region_id": "paris", "ocr": null}
+{"id": "esc-3e989b846d", "sentiment": 0.353, "narrative": "Practical & green commuting", "region_id": "united-kingdom", "ocr": null}
+{"id": "esc-9186b6df8f", "sentiment": -0.564, "narrative": "Safety & clutter", "region_id": "madrid", "ocr": null}
+{"id": "esc-ee21a86dbc", "sentiment": 0.441, "narrative": "Practical & green commuting", "region_id": "tokyo", "ocr": null}
+{"id": "esc-f0cea5996b", "sentiment": -0.522, "narrative": "Safety & clutter", "region_id": "texas-us", "ocr": null}
+{"id": "esc-d9299b362f", "sentiment": 0.207, "narrative": "Neutral / policy news", "region_id": "cairo", "ocr": null}
+{"id": "esc-ae597f6784", "sentiment": -0.655, "narrative": "Rental clutter & sidewalk chaos", "region_id": "paris", "ocr": null}
+{"id": "esc-506e4789dd", "sentiment": -0.413, "narrative": "Neutral / policy news", "region_id": "sydney", "ocr": null}
+{"id": "esc-9e08ccdf86", "sentiment": 0.605, "narrative": "Cheaper rides & delivery", "region_id": "bangkok", "ocr": null}
+{"id": "esc-c72927a4f3", "sentiment": -0.304, "narrative": "Safety & clutter", "region_id": "bangalore", "ocr": null}
+{"id": "esc-6c0a3aeb0b", "sentiment": 0.829, "narrative": "Cheap commuting & savings", "region_id": "jakarta", "ocr": null}
+{"id": "esc-b00555c8e6", "sentiment": 0.645, "narrative": "Cheap commuting & savings", "region_id": "jakarta", "ocr": "Bensin vs Listrik"}
+{"id": "esc-a8a7e39524", "sentiment": -0.182, "narrative": "Neutral / policy news", "region_id": "shanghai", "ocr": null}
+{"id": "esc-8cf8d1e680", "sentiment": 0.552, "narrative": "Practical & green commuting", "region_id": "delhi", "ocr": null}
+{"id": "esc-c65e939ddd", "sentiment": -0.523, "narrative": "Safety & clutter", "region_id": "ireland", "ocr": null}
+{"id": "esc-29c24b2a99", "sentiment": 0.381, "narrative": "Useful for delivery workers", "region_id": "singapore", "ocr": null}
+{"id": "esc-ec455bbcf2", "sentiment": -0.309, "narrative": "Road bans & safety", "region_id": "manila", "ocr": null}
+{"id": "esc-80e57f5949", "sentiment": 0.271, "narrative": "Neutral / policy news", "region_id": "toronto", "ocr": null}
+{"id": "esc-e3e441b9a3", "sentiment": -0.193, "narrative": "Safety & clutter", "region_id": "united-kingdom", "ocr": null}
+{"id": "esc-cc67af1a4f", "sentiment": -0.274, "narrative": "Safety & clutter", "region_id": "chicago", "ocr": null}
+{"id": "esc-3b75d81c99", "sentiment": -0.155, "narrative": "Charging in apartments", "region_id": "ho-chi-minh-city", "ocr": null}
+{"id": "esc-1dd20ada84", "sentiment": 0.325, "narrative": "Practical & green commuting", "region_id": "seoul", "ocr": null}
+{"id": "esc-06fb5f0e5c", "sentiment": 0.054, "narrative": "Neutral / policy news", "region_id": "netherlands", "ocr": null}
+{"id": "esc-428b649dc0", "sentiment": -0.349, "narrative": "Neutral / policy news", "region_id": "istanbul", "ocr": null}
+{"id": "esc-7bfb804376", "sentiment": 0.597, "narrative": "Affordable & convenient", "region_id": "ho-chi-minh-city", "ocr": null}
+{"id": "esc-c88d35253c", "sentiment": -0.505, "narrative": "Sidewalk clutter & injuries", "region_id": "los-angeles", "ocr": null}
+{"id": "esc-8c0744b24c", "sentiment": -1.0, "narrative": "Battery fire safety", "region_id": "singapore", "ocr": null}
+{"id": "esc-340008ebf1", "sentiment": 0.36, "narrative": "Government push / green city", "region_id": "ho-chi-minh-city", "ocr": null}
+{"id": "esc-b5f0656ee0", "sentiment": -0.217, "narrative": "Charging & battery doubts", "region_id": "jakarta", "ocr": null}
+{"id": "esc-bcc4ef4040", "sentiment": 0.387, "narrative": "Practical & green commuting", "region_id": "dubai", "ocr": null}
+{"id": "esc-094e99012a", "sentiment": -0.215, "narrative": "Safety & clutter", "region_id": "new-york", "ocr": null}
+{"id": "esc-fe1ac43016", "sentiment": -0.104, "narrative": "Neutral / policy news", "region_id": "lagos", "ocr": null}
+{"id": "esc-08618c2bdc", "sentiment": 0.494, "narrative": "Cheaper rides & delivery", "region_id": "bangkok", "ocr": null}
+{"id": "esc-8a4a5445d0", "sentiment": -0.401, "narrative": "Rental clutter & sidewalk chaos", "region_id": "paris", "ocr": null}
+{"id": "esc-d3d8daad54", "sentiment": -0.162, "narrative": "Safety & clutter", "region_id": "bangalore", "ocr": null}
+{"id": "esc-dc9ec94b10", "sentiment": 0.225, "narrative": "Practical & green commuting", "region_id": "cairo", "ocr": null}
+{"id": "esc-dc2dba6c08", "sentiment": -0.525, "narrative": "Safety & clutter", "region_id": "mexico-city", "ocr": null}
+{"id": "esc-e326439d7b", "sentiment": -0.515, "narrative": "Sidewalk clutter & injuries", "region_id": "los-angeles", "ocr": null}
+{"id": "esc-68c0e9dff4", "sentiment": -0.29, "narrative": "Road bans & safety", "region_id": "manila", "ocr": null}
+{"id": "esc-22f0af5c5c", "sentiment": -0.404, "narrative": "Charging in apartments", "region_id": "ho-chi-minh-city", "ocr": null}
+{"id": "esc-761945490a", "sentiment": 0.241, "narrative": "Practical & green commuting", "region_id": "sao-paulo", "ocr": null}
+{"id": "esc-942b01c6b7", "sentiment": -1.0, "narrative": "Battery fire safety", "region_id": "singapore", "ocr": null}
+{"id": "esc-7ce27a999b", "sentiment": -0.283, "narrative": "Safety & clutter", "region_id": "nairobi", "ocr": null}
+{"id": "esc-050d807d58", "sentiment": 0.079, "narrative": "Fun & practical for short trips", "region_id": "los-angeles", "ocr": null}
+{"id": "esc-ffffb9e756", "sentiment": 0.095, "narrative": "Neutral / policy news", "region_id": "netherlands", "ocr": null}
+{"id": "esc-4d21134385", "sentiment": 0.679, "narrative": "Cleaner air", "region_id": "jakarta", "ocr": null}
+{"id": "esc-a024460458", "sentiment": -0.406, "narrative": "Safety & clutter", "region_id": "arizona-us", "ocr": null}
+{"id": "esc-92dab4c83d", "sentiment": 0.629, "narrative": "Cleaner air", "region_id": "jakarta", "ocr": null}
+{"id": "esc-b6a0234318", "sentiment": -0.325, "narrative": "Footpath conflicts", "region_id": "singapore", "ocr": null}
+{"id": "esc-088e6b7d13", "sentiment": 0.238, "narrative": "Cheaper rides & delivery", "region_id": "bangkok", "ocr": null}
+{"id": "esc-d2a952e7a4", "sentiment": 0.414, "narrative": "Practical & green commuting", "region_id": "istanbul", "ocr": null}
+{"id": "esc-2d97957c10", "sentiment": -0.409, "narrative": "Safety & clutter", "region_id": "united-kingdom", "ocr": null}
+{"id": "esc-335acdcb9d", "sentiment": 0.473, "narrative": "Practical & green commuting", "region_id": "lagos", "ocr": null}
+{"id": "esc-342ab4e90e", "sentiment": 0.275, "narrative": "Practical & green commuting", "region_id": "cape-town", "ocr": null}
+{"id": "esc-1886672f96", "sentiment": 0.195, "narrative": "Practical & green commuting", "region_id": "seoul", "ocr": null}
+{"id": "esc-3a37622741", "sentiment": 0.065, "narrative": "Neutral / policy news", "region_id": "texas-us", "ocr": null}
+{"id": "esc-0786b4554d", "sentiment": 0.485, "narrative": "E-bike convenience", "region_id": "manila", "ocr": null}
+{"id": "esc-20071e7660", "sentiment": 0.543, "narrative": "Practical & green commuting", "region_id": "new-york", "ocr": null}
+{"id": "esc-1347beff2a", "sentiment": 0.751, "narrative": "Cleaner air", "region_id": "jakarta", "ocr": null}
+{"id": "esc-edaf080e4a", "sentiment": 0.428, "narrative": "Practical & green commuting", "region_id": "delhi", "ocr": null}
+{"id": "esc-3b19d349b7", "sentiment": -0.067, "narrative": "Neutral / policy news", "region_id": "toronto", "ocr": null}
+{"id": "esc-2510039c72", "sentiment": 0.55, "narrative": "Affordable & convenient", "region_id": "ho-chi-minh-city", "ocr": null}
+{"id": "esc-ab071561a8", "sentiment": 0.518, "narrative": "Government push / green city", "region_id": "ho-chi-minh-city", "ocr": null}
+{"id": "esc-b6d7cc7516", "sentiment": 0.277, "narrative": "Affordable & convenient", "region_id": "ho-chi-minh-city", "ocr": null}
+{"id": "esc-e113213642", "sentiment": 0.54, "narrative": "Affordable & convenient", "region_id": "ho-chi-minh-city", "ocr": null}
+{"id": "esc-fcbbd43036", "sentiment": 0.112, "narrative": "Neutral / policy news", "region_id": "dubai", "ocr": null}
+{"id": "esc-c7af5ee013", "sentiment": -0.145, "narrative": "Neutral / policy news", "region_id": "virginia-us", "ocr": null}
+{"id": "esc-2df8e1ecf0", "sentiment": 0.403, "narrative": "Practical & green commuting", "region_id": "toronto", "ocr": null}
+{"id": "esc-d527aeffc0", "sentiment": 0.488, "narrative": "Practical & green commuting", "region_id": "united-kingdom", "ocr": null}
+{"id": "esc-a7221cc64f", "sentiment": -0.586, "narrative": "Battery fire safety", "region_id": "singapore", "ocr": "DON'T CHARGE YOUR PMD OVERNIGHT"}
+{"id": "esc-ca1d5815e5", "sentiment": -0.275, "narrative": "Safety & clutter", "region_id": "bangalore", "ocr": null}
+{"id": "esc-7184832bd5", "sentiment": 0.389, "narrative": "Cheap commuting & savings", "region_id": "jakarta", "ocr": null}
+{"id": "esc-38b15044d0", "sentiment": 0.511, "narrative": "E-bike convenience", "region_id": "manila", "ocr": null}
+{"id": "esc-96bc030585", "sentiment": 0.306, "narrative": "Practical & green commuting", "region_id": "sao-paulo", "ocr": null}
+{"id": "esc-2f0f173368", "sentiment": 0.436, "narrative": "Practical & green commuting", "region_id": "taipei", "ocr": null}
+{"id": "esc-d9d260fd21", "sentiment": 1.0, "narrative": "Cheap commuting & savings", "region_id": "jakarta", "ocr": "SWAP 2 MENIT"}
+{"id": "esc-c0d4e9c1fb", "sentiment": 0.694, "narrative": "Cheap commuting & savings", "region_id": "jakarta", "ocr": null}
+{"id": "esc-9d96b39633", "sentiment": -0.662, "narrative": "Sidewalk clutter & injuries", "region_id": "los-angeles", "ocr": null}
+{"id": "esc-b49b870ed1", "sentiment": -0.669, "narrative": "Safety & clutter", "region_id": "bogota", "ocr": null}
+{"id": "esc-918cf6898c", "sentiment": -0.509, "narrative": "Rental clutter & sidewalk chaos", "region_id": "paris", "ocr": "They finally parked it somewhere"}
+{"id": "esc-4eea380c4e", "sentiment": -0.079, "narrative": "Safety & clutter", "region_id": "seoul", "ocr": null}
+{"id": "esc-116eae51de", "sentiment": 0.525, "narrative": "Fun & practical for short trips", "region_id": "los-angeles", "ocr": null}
+{"id": "esc-fe9cddee4d", "sentiment": -0.263, "narrative": "Safety & clutter", "region_id": "sweden", "ocr": null}
+{"id": "esc-0d43f533d9", "sentiment": -0.479, "narrative": "Road bans & safety", "region_id": "manila", "ocr": null}
+{"id": "esc-fe3c4d461c", "sentiment": -0.353, "narrative": "Rental clutter & sidewalk chaos", "region_id": "paris", "ocr": null}
+{"id": "esc-874d7f5489", "sentiment": 0.228, "narrative": "Neutral / policy news", "region_id": "tokyo", "ocr": null}
+{"id": "esc-d3e6f1be67", "sentiment": 0.082, "narrative": "Neutral / policy news", "region_id": "santiago", "ocr": null}
+{"id": "esc-03f465d5d3", "sentiment": 0.332, "narrative": "Useful for delivery workers", "region_id": "singapore", "ocr": null}
+{"id": "esc-26c73805ea", "sentiment": -0.332, "narrative": "Safety & clutter", "region_id": "lagos", "ocr": null}
+{"id": "esc-64e43c53c7", "sentiment": -0.315, "narrative": "Safety & clutter", "region_id": "new-york", "ocr": null}
+{"id": "esc-0ca18a58b2", "sentiment": 0.465, "narrative": "Cheaper rides & delivery", "region_id": "bangkok", "ocr": null}
+{"id": "esc-8cb625583e", "sentiment": -0.361, "narrative": "Safety & clutter", "region_id": "germany", "ocr": null}
