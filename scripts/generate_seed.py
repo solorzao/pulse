@@ -514,6 +514,7 @@ FILLER_VOL = {  # baseline volume weight for filler regions (bigger cities get m
 }
 
 TOPIC_CODE = {"ai-datacenters": "aid", "electric-scooters": "esc", "four-day-week": "fdw"}
+LOWERABLE = {"The", "My", "Our", "Another", "Every", "We", "If", "Data", "Hot", "Switched", "Bought", "Got", "A", "Six", "Three", "Would", "Has", "Who", "How", "Didn't", "Great", "Still", "Even", "Took", "Some", "Measured", "Paying", "Farmers", "Small", "Nice", "To", "Say", "Hard", "Imagine", "Range", "Let's", "Four-day", "New", "Electric", "E-scooters", "E-bikes", "Billions", "Anyone", "Labour", "Productivity", "Tech", "Investment", "Energy", "Everyone", "Delivery", "These", "Food", "Nearly", "Didn't", "Waste", "Summer", "Honestly", "Abilene's", "Texas", "Bangalore", "Hyderabad"}
 PREFIXES = ["", "", "", "", "Honestly, ", "Ok so ", "PSA: ", "Thread: ", "Unpopular opinion: ", "Lol ", "Wow. "]
 SUFFIXES = ["", "", "", "", " 🙄", " 😤", " 👀", " 🔥", " 💯", " lol", " tbh", " Thoughts?", " Thread 🧵"]
 POS_SUFFIX = ["", "", " 🙌", " ❤️", " 🚀", " 👏"]
@@ -527,17 +528,22 @@ HANDLES = ["sky", "wave", "fox", "byte", "moss", "river", "nova", "pixel", "luna
 
 def dynamics(topic, region, days_ago):
     vol, shift = 1.0, 0.0
-    if topic == "ai-datacenters" and region == "ireland" and days_ago < 10:
-        k = (10 - days_ago) / 10.0          # 0..1 ramps towards today
-        vol, shift = 1.0 + 1.4 * k, -0.25 * k
+    if topic == "ai-datacenters" and region == "ireland":
+        if days_ago >= 10:
+            shift = 0.2                       # "merely" negative a few weeks ago (~-50)
+        else:
+            k = (10 - days_ago) / 10.0        # 0..1 ramps towards today
+            vol, shift = 1.0 + 1.2 * k, 0.2 - 0.42 * k   # slides to ~-90
     if topic == "electric-scooters" and region == "singapore":
         d = days_ago - 13
-        if -1 <= d <= 2:                      # viral fire ~13 days ago, aftershock for ~2 days
-            vol, shift = 4.0 - abs(d) * 0.8, -0.35
+        if -1 <= d <= 1:                      # viral fire ~13 days ago, aftershock for ~2 days
+            vol, shift = 4.0 - abs(d) * 1.2, -0.3
         elif -4 <= d < -1:
-            vol, shift = 1.4, -0.12
-        elif d > 2:
-            shift = 0.15                      # milder before the fire
+            vol, shift = 1.5, -0.05
+        elif d > 1:
+            shift = 0.3                       # milder before the fire (~-20)
+        else:
+            shift = 0.1                       # partial recovery (~-45)
     if topic == "electric-scooters" and region == "jakarta" and days_ago < 7:
         vol = 1.3
     return vol, shift
@@ -587,7 +593,7 @@ def make_post(rng, topic, rid, rname, nar, ts, idx):
         translated = True
     if not translated:
         pre = rng.choice(PREFIXES)
-        if pre and text[:1].isupper() and not text[:2].isupper():
+        if pre and text.split(" ", 1)[0] in LOWERABLE:
             text = text[0].lower() + text[1:]
         text = pre + text
     s_mean = nar["s"]
@@ -670,7 +676,7 @@ def generate_topic(topic, regions, now, rng, scale):
     for rid, cfg in plan.items():
         rname = names[rid]
         # base posts per day for this region; total ~ topic target
-        per_day = cfg["vol"] * scale / DAYS * 0.5
+        per_day = cfg["vol"] * scale / DAYS * (0.85 if cfg["story"] else 0.36)
         for days_ago in range(DAYS):
             vmul, shift = dynamics(topic, rid, days_ago)
             lam = per_day * vmul * (0.8 + 0.4 * rng.random())

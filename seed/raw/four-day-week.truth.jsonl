@@ -1,714 +1,830 @@
-{"id": "fdw-6f97e1a7ab", "sentiment": 0.542, "narrative": "Pilot success & work-life balance", "region_id": "germany", "ocr": null}
-{"id": "fdw-5b114112c3", "sentiment": 0.742, "narrative": "Wellbeing & productivity win", "region_id": "united-kingdom", "ocr": null}
-{"id": "fdw-e807d1cd65", "sentiment": -0.307, "narrative": "Economic skepticism", "region_id": "paris", "ocr": null}
-{"id": "fdw-f993f22833", "sentiment": 0.069, "narrative": "Curious / neutral", "region_id": "texas-us", "ocr": null}
-{"id": "fdw-ce2dba1bd1", "sentiment": 0.638, "narrative": "Burnout relief", "region_id": "new-york", "ocr": null}
-{"id": "fdw-feca01e4e1", "sentiment": 0.067, "narrative": "Curious / neutral", "region_id": "santiago", "ocr": null}
-{"id": "fdw-f905eebb47", "sentiment": 0.715, "narrative": "Lifestyle & productivity", "region_id": "sydney", "ocr": "Friday off hits different"}
-{"id": "fdw-652d199d31", "sentiment": 0.748, "narrative": "Lifestyle & productivity", "region_id": "sydney", "ocr": "Friday off hits different"}
-{"id": "fdw-8389e0d586", "sentiment": 0.2, "narrative": "Curious / neutral", "region_id": "warsaw", "ocr": null}
-{"id": "fdw-661ea31a72", "sentiment": -0.707, "narrative": "Culture won't change", "region_id": "tokyo", "ocr": null}
-{"id": "fdw-0e5725e210", "sentiment": 0.538, "narrative": "Pilot success & work-life balance", "region_id": "germany", "ocr": "Vier-Tage-Woche: Stress -, Produktivität ="}
-{"id": "fdw-c21db5f2f8", "sentiment": 0.344, "narrative": "Curious / neutral", "region_id": "manila", "ocr": null}
-{"id": "fdw-f24e721547", "sentiment": 0.138, "narrative": "Curious / neutral", "region_id": "lagos", "ocr": null}
-{"id": "fdw-752bbb6caf", "sentiment": 0.473, "narrative": "Work-life balance appeal", "region_id": "singapore", "ocr": null}
-{"id": "fdw-e809f9e46d", "sentiment": 0.596, "narrative": "Burnout relief", "region_id": "new-york", "ocr": null}
-{"id": "fdw-a2df48ab54", "sentiment": -0.288, "narrative": "Economic skepticism", "region_id": "jakarta", "ocr": null}
-{"id": "fdw-15dcbeac71", "sentiment": 0.504, "narrative": "Work-life balance appeal", "region_id": "dubai", "ocr": "FRIDAY = WEEKEND NOW"}
-{"id": "fdw-865337b529", "sentiment": 0.617, "narrative": "Wellbeing & productivity win", "region_id": "united-kingdom", "ocr": "Me at 10am on a Friday under the 4-day week"}
-{"id": "fdw-e98a2c36fb", "sentiment": -0.564, "narrative": "Economic skepticism", "region_id": "sao-paulo", "ocr": null}
-{"id": "fdw-7f21204ca9", "sentiment": 0.569, "narrative": "Would love real 4-day week", "region_id": "bangalore", "ocr": null}
-{"id": "fdw-062096d1f1", "sentiment": 0.238, "narrative": "Government push & childcare", "region_id": "tokyo", "ocr": null}
-{"id": "fdw-e040b735a1", "sentiment": 0.428, "narrative": "Work-life balance hopes", "region_id": "seoul", "ocr": "주 4.5일제"}
-{"id": "fdw-f78aaa8c19", "sentiment": -0.551, "narrative": "Economic skepticism", "region_id": "mumbai", "ocr": null}
-{"id": "fdw-c1c3db3a81", "sentiment": 0.366, "narrative": "Work-life balance appeal", "region_id": "toronto", "ocr": null}
-{"id": "fdw-76cf6f0471", "sentiment": -0.34, "narrative": "Longer days instead", "region_id": "bangalore", "ocr": null}
-{"id": "fdw-c2757ea47a", "sentiment": -0.225, "narrative": "Curious / neutral", "region_id": "toronto", "ocr": null}
-{"id": "fdw-4af24829e9", "sentiment": 0.357, "narrative": "Work-life balance appeal", "region_id": "taipei", "ocr": "FRIDAY = WEEKEND NOW"}
-{"id": "fdw-4f33f80d1d", "sentiment": 0.007, "narrative": "Curious / neutral", "region_id": "cape-town", "ocr": null}
-{"id": "fdw-ca1fa2dca1", "sentiment": 0.57, "narrative": "Lifestyle & productivity", "region_id": "sydney", "ocr": null}
-{"id": "fdw-0cae2554cf", "sentiment": -0.548, "narrative": "Economic skepticism", "region_id": "sweden", "ocr": null}
-{"id": "fdw-1b646df965", "sentiment": 0.196, "narrative": "Work-life balance appeal", "region_id": "manila", "ocr": null}
-{"id": "fdw-ca1c73c984", "sentiment": 0.253, "narrative": "Burnout relief", "region_id": "new-york", "ocr": null}
-{"id": "fdw-aaac3391bf", "sentiment": 0.561, "narrative": "Work-life balance appeal", "region_id": "los-angeles", "ocr": null}
-{"id": "fdw-353f1c6f21", "sentiment": 0.419, "narrative": "Wellbeing & productivity win", "region_id": "united-kingdom", "ocr": null}
-{"id": "fdw-9216489689", "sentiment": -0.124, "narrative": "Pay cut & competitiveness fears", "region_id": "seoul", "ocr": null}
-{"id": "fdw-007ca9c461", "sentiment": -0.096, "narrative": "Culture won't change", "region_id": "tokyo", "ocr": null}
-{"id": "fdw-daa1fe0bb2", "sentiment": 0.088, "narrative": "Curious / neutral", "region_id": "texas-us", "ocr": null}
-{"id": "fdw-19a96ca39d", "sentiment": 0.533, "narrative": "Wellbeing & productivity win", "region_id": "united-kingdom", "ocr": null}
-{"id": "fdw-d3ad3085d6", "sentiment": 0.394, "narrative": "Work-life balance appeal", "region_id": "paris", "ocr": "FRIDAY = WEEKEND NOW"}
-{"id": "fdw-2fe4a9ee61", "sentiment": -0.453, "narrative": "Economic skepticism", "region_id": "dubai", "ocr": null}
-{"id": "fdw-edb4c7dbf3", "sentiment": 0.128, "narrative": "Work-life balance appeal", "region_id": "delhi", "ocr": null}
-{"id": "fdw-3e3557436a", "sentiment": -0.071, "narrative": "Curious / neutral", "region_id": "arizona-us", "ocr": null}
-{"id": "fdw-ed1cd81056", "sentiment": -0.125, "narrative": "Economic skepticism", "region_id": "hyderabad", "ocr": null}
-{"id": "fdw-adc33a34c1", "sentiment": -0.201, "narrative": "Curious / neutral", "region_id": "mumbai", "ocr": null}
-{"id": "fdw-e270f35cb4", "sentiment": -0.721, "narrative": "Longer days instead", "region_id": "bangalore", "ocr": null}
-{"id": "fdw-77d1d395d1", "sentiment": 0.358, "narrative": "Work-life balance hopes", "region_id": "seoul", "ocr": "주 4.5일제"}
-{"id": "fdw-176306dad1", "sentiment": 0.58, "narrative": "Work-life balance appeal", "region_id": "singapore", "ocr": null}
-{"id": "fdw-aa27dbb050", "sentiment": 0.056, "narrative": "Curious / neutral", "region_id": "netherlands", "ocr": null}
-{"id": "fdw-2afdc91ffe", "sentiment": 0.511, "narrative": "Work-life balance appeal", "region_id": "mexico-city", "ocr": null}
-{"id": "fdw-1a88526b23", "sentiment": 0.073, "narrative": "Curious / neutral", "region_id": "shanghai", "ocr": null}
-{"id": "fdw-229d1d6221", "sentiment": 0.437, "narrative": "Recruitment & retention edge", "region_id": "united-kingdom", "ocr": null}
-{"id": "fdw-3ab5081c5a", "sentiment": 0.533, "narrative": "Pilot success & work-life balance", "region_id": "germany", "ocr": null}
-{"id": "fdw-3b128c3302", "sentiment": 0.039, "narrative": "Economic skepticism", "region_id": "toronto", "ocr": null}
-{"id": "fdw-c588f44a25", "sentiment": -0.189, "narrative": "Hustle culture skepticism", "region_id": "new-york", "ocr": null}
-{"id": "fdw-7fdc1ad548", "sentiment": 0.132, "narrative": "Government push & childcare", "region_id": "tokyo", "ocr": null}
-{"id": "fdw-d394eff052", "sentiment": 0.705, "narrative": "Work-life balance appeal", "region_id": "chicago", "ocr": null}
-{"id": "fdw-f2394c4052", "sentiment": 0.302, "narrative": "Work-life balance appeal", "region_id": "mumbai", "ocr": null}
-{"id": "fdw-56690e2622", "sentiment": -0.341, "narrative": "Curious / neutral", "region_id": "sao-paulo", "ocr": null}
-{"id": "fdw-cee12c2d1b", "sentiment": -0.014, "narrative": "Curious / neutral", "region_id": "singapore", "ocr": null}
-{"id": "fdw-9cdcbcfe4b", "sentiment": -0.132, "narrative": "Curious / neutral", "region_id": "cairo", "ocr": null}
-{"id": "fdw-e978373aa1", "sentiment": -0.483, "narrative": "Economic competitiveness worries", "region_id": "germany", "ocr": null}
-{"id": "fdw-dbc08bb34d", "sentiment": 0.482, "narrative": "Lifestyle & productivity", "region_id": "sydney", "ocr": null}
-{"id": "fdw-6c32b25b92", "sentiment": 0.635, "narrative": "Recruitment & retention edge", "region_id": "united-kingdom", "ocr": null}
-{"id": "fdw-343cdef641", "sentiment": -0.215, "narrative": "Pay cut & competitiveness fears", "region_id": "seoul", "ocr": null}
-{"id": "fdw-1e46998c5e", "sentiment": 0.891, "narrative": "Wellbeing & productivity win", "region_id": "united-kingdom", "ocr": null}
-{"id": "fdw-372c5355c3", "sentiment": 0.672, "narrative": "Wellbeing & productivity win", "region_id": "united-kingdom", "ocr": "4 DAY WEEK - 1 YEAR ON"}
-{"id": "fdw-609d122b9b", "sentiment": -0.383, "narrative": "Economic competitiveness worries", "region_id": "germany", "ocr": null}
-{"id": "fdw-78a5c6d89f", "sentiment": 0.325, "narrative": "Would love real 4-day week", "region_id": "bangalore", "ocr": null}
-{"id": "fdw-490482eca5", "sentiment": -0.513, "narrative": "Economic skepticism", "region_id": "arizona-us", "ocr": null}
-{"id": "fdw-ad5542d493", "sentiment": -0.4, "narrative": "Longer days instead", "region_id": "bangalore", "ocr": null}
-{"id": "fdw-e1bf18468a", "sentiment": 0.681, "narrative": "Work-life balance appeal", "region_id": "hyderabad", "ocr": null}
-{"id": "fdw-ade1745cce", "sentiment": 0.618, "narrative": "Burnout relief", "region_id": "new-york", "ocr": null}
-{"id": "fdw-c9d8dd9a7d", "sentiment": -0.059, "narrative": "Curious / neutral", "region_id": "auckland", "ocr": null}
-{"id": "fdw-0f6ad1a72c", "sentiment": 0.719, "narrative": "Pilot success & work-life balance", "region_id": "germany", "ocr": null}
-{"id": "fdw-7d10f0dc74", "sentiment": 0.915, "narrative": "Recruitment & retention edge", "region_id": "united-kingdom", "ocr": null}
-{"id": "fdw-eab37666cd", "sentiment": 0.835, "narrative": "Wellbeing & productivity win", "region_id": "united-kingdom", "ocr": "Me at 10am on a Friday under the 4-day week"}
-{"id": "fdw-1431bda498", "sentiment": -0.333, "narrative": "Economic skepticism", "region_id": "manila", "ocr": null}
-{"id": "fdw-39dc8a45a6", "sentiment": -0.338, "narrative": "Economic skepticism", "region_id": "chicago", "ocr": null}
-{"id": "fdw-bf85ffc68e", "sentiment": 0.243, "narrative": "Government push & childcare", "region_id": "tokyo", "ocr": null}
-{"id": "fdw-256d7fc7de", "sentiment": 0.425, "narrative": "Work-life balance appeal", "region_id": "delhi", "ocr": null}
-{"id": "fdw-3fd5b77d5d", "sentiment": -0.291, "narrative": "Economic skepticism", "region_id": "singapore", "ocr": null}
-{"id": "fdw-1cad6109ee", "sentiment": 0.343, "narrative": "Work-life balance appeal", "region_id": "cape-town", "ocr": null}
-{"id": "fdw-e1838d98b0", "sentiment": 0.258, "narrative": "Lifestyle & productivity", "region_id": "sydney", "ocr": null}
-{"id": "fdw-a7297a4c3e", "sentiment": -0.001, "narrative": "Curious / neutral", "region_id": "dubai", "ocr": null}
-{"id": "fdw-3c4bb63111", "sentiment": 0.234, "narrative": "Work-life balance hopes", "region_id": "seoul", "ocr": null}
-{"id": "fdw-3eedc30f4e", "sentiment": 0.557, "narrative": "Wellbeing & productivity win", "region_id": "united-kingdom", "ocr": null}
-{"id": "fdw-6b0c72c90c", "sentiment": -0.653, "narrative": "Economic skepticism", "region_id": "warsaw", "ocr": null}
-{"id": "fdw-23f65ee47b", "sentiment": 0.477, "narrative": "Lifestyle & productivity", "region_id": "sydney", "ocr": "Friday off hits different"}
-{"id": "fdw-33e61e6b7c", "sentiment": 0.187, "narrative": "Work-life balance hopes", "region_id": "seoul", "ocr": null}
-{"id": "fdw-ce29d369ea", "sentiment": 0.412, "narrative": "Burnout relief", "region_id": "new-york", "ocr": null}
-{"id": "fdw-77dd78384b", "sentiment": -0.038, "narrative": "Curious / neutral", "region_id": "paris", "ocr": null}
-{"id": "fdw-19cc74fb91", "sentiment": 0.577, "narrative": "Work-life balance appeal", "region_id": "mumbai", "ocr": null}
-{"id": "fdw-632a30d580", "sentiment": -0.202, "narrative": "Curious / neutral", "region_id": "netherlands", "ocr": null}
-{"id": "fdw-40feb5342e", "sentiment": -0.275, "narrative": "Longer days instead", "region_id": "bangalore", "ocr": null}
-{"id": "fdw-48182df2e7", "sentiment": -0.288, "narrative": "Economic skepticism", "region_id": "lagos", "ocr": null}
-{"id": "fdw-0b4b07f4be", "sentiment": 0.789, "narrative": "Work-life balance appeal", "region_id": "buenos-aires", "ocr": null}
-{"id": "fdw-bc2acdb2c4", "sentiment": -0.484, "narrative": "Economic skepticism", "region_id": "mexico-city", "ocr": null}
-{"id": "fdw-d15ba81e13", "sentiment": -0.133, "narrative": "Economic skepticism", "region_id": "shanghai", "ocr": null}
-{"id": "fdw-2564f0244e", "sentiment": 0.444, "narrative": "Pilot success & work-life balance", "region_id": "germany", "ocr": null}
-{"id": "fdw-856a7c695d", "sentiment": -0.013, "narrative": "Curious / neutral", "region_id": "bogota", "ocr": null}
-{"id": "fdw-19c02224b7", "sentiment": -0.514, "narrative": "Longer days instead", "region_id": "bangalore", "ocr": null}
-{"id": "fdw-01900d7cad", "sentiment": -0.454, "narrative": "Economic skepticism", "region_id": "chicago", "ocr": null}
-{"id": "fdw-7e190954b7", "sentiment": 0.349, "narrative": "Burnout relief", "region_id": "new-york", "ocr": null}
-{"id": "fdw-25653d9683", "sentiment": -0.027, "narrative": "Economic skepticism", "region_id": "sweden", "ocr": null}
-{"id": "fdw-83cb530f64", "sentiment": 0.832, "narrative": "Government push & childcare", "region_id": "tokyo", "ocr": null}
-{"id": "fdw-0df768b925", "sentiment": -0.546, "narrative": "Longer days instead", "region_id": "bangalore", "ocr": null}
-{"id": "fdw-3c4686efa7", "sentiment": -0.168, "narrative": "Doesn't work for all sectors", "region_id": "united-kingdom", "ocr": null}
-{"id": "fdw-89662afa6f", "sentiment": 0.592, "narrative": "Government push & childcare", "region_id": "tokyo", "ocr": null}
-{"id": "fdw-6d8b72e559", "sentiment": 0.067, "narrative": "Curious / neutral", "region_id": "texas-us", "ocr": null}
-{"id": "fdw-040fae0474", "sentiment": 0.241, "narrative": "Curious / neutral", "region_id": "bogota", "ocr": null}
-{"id": "fdw-8430d99320", "sentiment": 0.293, "narrative": "Lifestyle & productivity", "region_id": "sydney", "ocr": null}
-{"id": "fdw-d5166fc472", "sentiment": -0.073, "narrative": "Curious / neutral", "region_id": "buenos-aires", "ocr": null}
-{"id": "fdw-12795c8b5d", "sentiment": 0.434, "narrative": "Work-life balance hopes", "region_id": "seoul", "ocr": "주 4.5일제"}
-{"id": "fdw-ac9fe0b91a", "sentiment": 0.487, "narrative": "Pilot success & work-life balance", "region_id": "germany", "ocr": "Vier-Tage-Woche: Stress -, Produktivität ="}
-{"id": "fdw-8df03c1f2e", "sentiment": 0.554, "narrative": "Work-life balance appeal", "region_id": "madrid", "ocr": null}
-{"id": "fdw-6aa5de4122", "sentiment": 0.325, "narrative": "Recruitment & retention edge", "region_id": "united-kingdom", "ocr": null}
-{"id": "fdw-f08c5ea4ee", "sentiment": 0.505, "narrative": "Work-life balance hopes", "region_id": "seoul", "ocr": null}
-{"id": "fdw-a2c985e97c", "sentiment": 0.668, "narrative": "Pilot success & work-life balance", "region_id": "germany", "ocr": null}
-{"id": "fdw-da03e35707", "sentiment": -0.078, "narrative": "Curious / neutral", "region_id": "nairobi", "ocr": null}
-{"id": "fdw-06cfeba91a", "sentiment": 0.009, "narrative": "Curious / neutral", "region_id": "bangkok", "ocr": null}
-{"id": "fdw-c2c18b4898", "sentiment": 0.754, "narrative": "Wellbeing & productivity win", "region_id": "united-kingdom", "ocr": null}
-{"id": "fdw-7f8b22ef2e", "sentiment": -0.337, "narrative": "Small business pushback", "region_id": "sydney", "ocr": null}
-{"id": "fdw-93db6969bb", "sentiment": -0.27, "narrative": "Economic skepticism", "region_id": "santiago", "ocr": null}
-{"id": "fdw-0f86dc7948", "sentiment": -0.323, "narrative": "Culture won't change", "region_id": "tokyo", "ocr": null}
-{"id": "fdw-b0ce5fb0c0", "sentiment": 0.772, "narrative": "Wellbeing & productivity win", "region_id": "united-kingdom", "ocr": null}
-{"id": "fdw-d8e34210ce", "sentiment": 0.738, "narrative": "Work-life balance appeal", "region_id": "delhi", "ocr": null}
-{"id": "fdw-3e7293ff55", "sentiment": 0.128, "narrative": "Economic skepticism", "region_id": "sao-paulo", "ocr": null}
-{"id": "fdw-6eaa4c0693", "sentiment": -0.574, "narrative": "Economic competitiveness worries", "region_id": "germany", "ocr": null}
-{"id": "fdw-219221fe53", "sentiment": 0.776, "narrative": "Work-life balance appeal", "region_id": "arizona-us", "ocr": null}
-{"id": "fdw-d6c5f54097", "sentiment": 0.5, "narrative": "Would love real 4-day week", "region_id": "bangalore", "ocr": null}
-{"id": "fdw-57c92b8c15", "sentiment": 0.385, "narrative": "Lifestyle & productivity", "region_id": "sydney", "ocr": null}
-{"id": "fdw-22725668cf", "sentiment": 0.507, "narrative": "Burnout relief", "region_id": "new-york", "ocr": null}
-{"id": "fdw-591e5a8eb8", "sentiment": -0.142, "narrative": "Curious / neutral", "region_id": "virginia-us", "ocr": null}
-{"id": "fdw-d08df83390", "sentiment": 0.843, "narrative": "Wellbeing & productivity win", "region_id": "united-kingdom", "ocr": null}
-{"id": "fdw-c6c1acd71c", "sentiment": 0.127, "narrative": "Economic skepticism", "region_id": "kuala-lumpur", "ocr": null}
-{"id": "fdw-e3cad28f17", "sentiment": 0.628, "narrative": "Work-life balance appeal", "region_id": "istanbul", "ocr": null}
-{"id": "fdw-1dff36c66a", "sentiment": -0.087, "narrative": "Economic skepticism", "region_id": "netherlands", "ocr": null}
-{"id": "fdw-0447b7816d", "sentiment": -0.093, "narrative": "Curious / neutral", "region_id": "dubai", "ocr": null}
-{"id": "fdw-383a94b7d2", "sentiment": -0.22, "narrative": "Economic skepticism", "region_id": "buenos-aires", "ocr": null}
-{"id": "fdw-b1a8daf691", "sentiment": -0.366, "narrative": "Pay cut & competitiveness fears", "region_id": "seoul", "ocr": null}
-{"id": "fdw-d52595cf98", "sentiment": 0.868, "narrative": "Wellbeing & productivity win", "region_id": "united-kingdom", "ocr": null}
-{"id": "fdw-14fb572947", "sentiment": 0.514, "narrative": "Burnout relief", "region_id": "new-york", "ocr": null}
-{"id": "fdw-a4d0b69763", "sentiment": -0.03, "narrative": "Curious / neutral", "region_id": "cape-town", "ocr": null}
-{"id": "fdw-7b810f06b9", "sentiment": 0.523, "narrative": "Work-life balance appeal", "region_id": "shanghai", "ocr": null}
-{"id": "fdw-29ccd5655b", "sentiment": -0.198, "narrative": "Curious / neutral", "region_id": "los-angeles", "ocr": null}
-{"id": "fdw-c8e8c1331d", "sentiment": -0.482, "narrative": "Economic competitiveness worries", "region_id": "germany", "ocr": null}
-{"id": "fdw-b29a3aa7e0", "sentiment": -0.586, "narrative": "Longer days instead", "region_id": "bangalore", "ocr": null}
-{"id": "fdw-c6ae011d51", "sentiment": 0.346, "narrative": "Burnout relief", "region_id": "new-york", "ocr": null}
-{"id": "fdw-fec6ca7b2c", "sentiment": 0.722, "narrative": "Work-life balance appeal", "region_id": "auckland", "ocr": null}
-{"id": "fdw-7ac680bd15", "sentiment": 0.434, "narrative": "Curious / neutral", "region_id": "sao-paulo", "ocr": null}
-{"id": "fdw-b9b3488f7f", "sentiment": 0.608, "narrative": "Work-life balance appeal", "region_id": "toronto", "ocr": "FRIDAY = WEEKEND NOW"}
-{"id": "fdw-7daf2df9fe", "sentiment": 0.212, "narrative": "Curious / neutral", "region_id": "mumbai", "ocr": null}
-{"id": "fdw-0c0a8a9342", "sentiment": 0.56, "narrative": "Wellbeing & productivity win", "region_id": "united-kingdom", "ocr": null}
-{"id": "fdw-39ac6e24f6", "sentiment": 0.483, "narrative": "Work-life balance appeal", "region_id": "manila", "ocr": null}
-{"id": "fdw-752076f1f0", "sentiment": -0.274, "narrative": "Culture won't change", "region_id": "tokyo", "ocr": null}
-{"id": "fdw-f1dc8f77b4", "sentiment": 0.422, "narrative": "Work-life balance appeal", "region_id": "buenos-aires", "ocr": null}
-{"id": "fdw-8f1c2ba58b", "sentiment": -0.465, "narrative": "Economic skepticism", "region_id": "taipei", "ocr": null}
-{"id": "fdw-3fffa967b2", "sentiment": 0.433, "narrative": "Lifestyle & productivity", "region_id": "sydney", "ocr": null}
-{"id": "fdw-2b22854f88", "sentiment": 0.425, "narrative": "Work-life balance appeal", "region_id": "paris", "ocr": null}
-{"id": "fdw-2a8def42a4", "sentiment": -0.107, "narrative": "Doesn't work for all sectors", "region_id": "united-kingdom", "ocr": null}
-{"id": "fdw-72ed871c86", "sentiment": 0.52, "narrative": "Work-life balance hopes", "region_id": "seoul", "ocr": null}
-{"id": "fdw-80ddda00f8", "sentiment": 0.529, "narrative": "Pilot success & work-life balance", "region_id": "germany", "ocr": null}
-{"id": "fdw-3528588e02", "sentiment": -0.345, "narrative": "Economic skepticism", "region_id": "manila", "ocr": null}
-{"id": "fdw-63b987135d", "sentiment": 0.528, "narrative": "Recruitment & retention edge", "region_id": "united-kingdom", "ocr": null}
-{"id": "fdw-5e69b37add", "sentiment": 0.585, "narrative": "Wellbeing & productivity win", "region_id": "united-kingdom", "ocr": null}
-{"id": "fdw-2c0c46c5db", "sentiment": 0.398, "narrative": "Lifestyle & productivity", "region_id": "sydney", "ocr": null}
-{"id": "fdw-94596a7934", "sentiment": 0.751, "narrative": "Work-life balance appeal", "region_id": "delhi", "ocr": null}
-{"id": "fdw-eb0fdc41a7", "sentiment": 0.262, "narrative": "Work-life balance appeal", "region_id": "vancouver", "ocr": "FRIDAY = WEEKEND NOW"}
-{"id": "fdw-a000f7b7a3", "sentiment": -0.127, "narrative": "Economic skepticism", "region_id": "sao-paulo", "ocr": null}
-{"id": "fdw-a7041ba48d", "sentiment": 0.176, "narrative": "Economic skepticism", "region_id": "shanghai", "ocr": null}
-{"id": "fdw-195f0cbe2d", "sentiment": 0.472, "narrative": "Recruitment & retention edge", "region_id": "united-kingdom", "ocr": null}
-{"id": "fdw-9079ac6fb7", "sentiment": 0.479, "narrative": "Government push & childcare", "region_id": "tokyo", "ocr": "都庁 週休3日"}
-{"id": "fdw-69f41ce54d", "sentiment": 0.114, "narrative": "Curious / neutral", "region_id": "singapore", "ocr": null}
-{"id": "fdw-975a86f3ca", "sentiment": 0.527, "narrative": "Work-life balance hopes", "region_id": "seoul", "ocr": null}
-{"id": "fdw-0f739ac745", "sentiment": 0.381, "narrative": "Work-life balance appeal", "region_id": "texas-us", "ocr": null}
-{"id": "fdw-9a63196364", "sentiment": -0.323, "narrative": "Economic competitiveness worries", "region_id": "germany", "ocr": null}
-{"id": "fdw-1926fc8814", "sentiment": 0.622, "narrative": "Burnout relief", "region_id": "new-york", "ocr": null}
-{"id": "fdw-6b30f7ce1b", "sentiment": 0.561, "narrative": "Burnout relief", "region_id": "new-york", "ocr": null}
-{"id": "fdw-fda008a3af", "sentiment": 0.483, "narrative": "Work-life balance appeal", "region_id": "jakarta", "ocr": "FRIDAY = WEEKEND NOW"}
-{"id": "fdw-bd4781c2f7", "sentiment": -0.397, "narrative": "Longer days instead", "region_id": "bangalore", "ocr": null}
-{"id": "fdw-0bfd0d86bc", "sentiment": 0.487, "narrative": "Work-life balance appeal", "region_id": "dubai", "ocr": "FRIDAY = WEEKEND NOW"}
-{"id": "fdw-73985100fe", "sentiment": 0.59, "narrative": "Work-life balance appeal", "region_id": "arizona-us", "ocr": "FRIDAY = WEEKEND NOW"}
-{"id": "fdw-079ecead9e", "sentiment": 0.29, "narrative": "Work-life balance hopes", "region_id": "seoul", "ocr": null}
-{"id": "fdw-b905d62051", "sentiment": -0.415, "narrative": "Longer days instead", "region_id": "bangalore", "ocr": null}
-{"id": "fdw-3f578ce417", "sentiment": 0.132, "narrative": "Curious / neutral", "region_id": "taipei", "ocr": null}
-{"id": "fdw-0252a16db7", "sentiment": -0.267, "narrative": "Economic skepticism", "region_id": "chicago", "ocr": null}
-{"id": "fdw-25273b0465", "sentiment": 0.332, "narrative": "Wellbeing & productivity win", "region_id": "united-kingdom", "ocr": "4 DAY WEEK - 1 YEAR ON"}
-{"id": "fdw-11180c73e5", "sentiment": 0.159, "narrative": "Curious / neutral", "region_id": "texas-us", "ocr": null}
-{"id": "fdw-3101c8dd89", "sentiment": 0.579, "narrative": "Lifestyle & productivity", "region_id": "sydney", "ocr": "Friday off hits different"}
-{"id": "fdw-b6ad271baa", "sentiment": -0.249, "narrative": "Culture won't change", "region_id": "tokyo", "ocr": null}
-{"id": "fdw-fc453876a2", "sentiment": 0.555, "narrative": "Burnout relief", "region_id": "new-york", "ocr": null}
-{"id": "fdw-ccc3a0cf07", "sentiment": 0.405, "narrative": "Work-life balance appeal", "region_id": "manila", "ocr": null}
-{"id": "fdw-aaeec69060", "sentiment": 0.403, "narrative": "Work-life balance appeal", "region_id": "toronto", "ocr": null}
-{"id": "fdw-f6cb8f6001", "sentiment": 0.422, "narrative": "Pilot success & work-life balance", "region_id": "germany", "ocr": null}
-{"id": "fdw-49b6e5590b", "sentiment": -0.574, "narrative": "Longer days instead", "region_id": "bangalore", "ocr": null}
-{"id": "fdw-80644ed395", "sentiment": 0.639, "narrative": "Wellbeing & productivity win", "region_id": "united-kingdom", "ocr": null}
-{"id": "fdw-24f88fa5b1", "sentiment": 0.307, "narrative": "Curious / neutral", "region_id": "delhi", "ocr": null}
-{"id": "fdw-53c29a7746", "sentiment": -0.273, "narrative": "Economic skepticism", "region_id": "bangkok", "ocr": null}
-{"id": "fdw-d6522c8289", "sentiment": 0.343, "narrative": "Curious / neutral", "region_id": "virginia-us", "ocr": null}
-{"id": "fdw-c41ad1dd82", "sentiment": 0.352, "narrative": "Work-life balance hopes", "region_id": "seoul", "ocr": null}
-{"id": "fdw-0f5927cf1c", "sentiment": 0.113, "narrative": "Curious / neutral", "region_id": "jakarta", "ocr": null}
-{"id": "fdw-76f7ffe986", "sentiment": -0.087, "narrative": "Economic skepticism", "region_id": "buenos-aires", "ocr": null}
-{"id": "fdw-0b2e1ff3a9", "sentiment": 0.29, "narrative": "Curious / neutral", "region_id": "mumbai", "ocr": null}
-{"id": "fdw-bf14195e25", "sentiment": 0.026, "narrative": "Doesn't work for all sectors", "region_id": "united-kingdom", "ocr": null}
-{"id": "fdw-1ead4039de", "sentiment": -0.247, "narrative": "Pay cut & competitiveness fears", "region_id": "seoul", "ocr": null}
-{"id": "fdw-db26649826", "sentiment": 0.522, "narrative": "Pilot success & work-life balance", "region_id": "germany", "ocr": null}
-{"id": "fdw-718102e5a0", "sentiment": 0.543, "narrative": "Would love real 4-day week", "region_id": "bangalore", "ocr": null}
-{"id": "fdw-6b5f100233", "sentiment": 0.469, "narrative": "Recruitment & retention edge", "region_id": "united-kingdom", "ocr": null}
-{"id": "fdw-bdb206c7b1", "sentiment": 0.652, "narrative": "Pilot success & work-life balance", "region_id": "germany", "ocr": null}
-{"id": "fdw-20d49453a1", "sentiment": 0.662, "narrative": "Work-life balance appeal", "region_id": "lagos", "ocr": null}
-{"id": "fdw-9e969f0d82", "sentiment": 0.287, "narrative": "Work-life balance appeal", "region_id": "mexico-city", "ocr": null}
-{"id": "fdw-690f5385f8", "sentiment": 0.188, "narrative": "Curious / neutral", "region_id": "delhi", "ocr": null}
-{"id": "fdw-4d8303e4d7", "sentiment": -0.286, "narrative": "Culture won't change", "region_id": "tokyo", "ocr": null}
-{"id": "fdw-8a384bc73e", "sentiment": -0.04, "narrative": "Curious / neutral", "region_id": "madrid", "ocr": null}
-{"id": "fdw-63abfd6273", "sentiment": -0.446, "narrative": "Economic competitiveness worries", "region_id": "germany", "ocr": null}
-{"id": "fdw-e4aef77a05", "sentiment": -0.059, "narrative": "Economic skepticism", "region_id": "sweden", "ocr": null}
-{"id": "fdw-91f7c3533f", "sentiment": -0.519, "narrative": "Economic skepticism", "region_id": "manila", "ocr": null}
-{"id": "fdw-ea2122a1e6", "sentiment": 0.357, "narrative": "Work-life balance appeal", "region_id": "sao-paulo", "ocr": null}
-{"id": "fdw-4d47128bea", "sentiment": 0.804, "narrative": "Lifestyle & productivity", "region_id": "sydney", "ocr": null}
-{"id": "fdw-00ca8bf41c", "sentiment": -0.436, "narrative": "Longer days instead", "region_id": "bangalore", "ocr": null}
-{"id": "fdw-227c5e6494", "sentiment": 0.148, "narrative": "Curious / neutral", "region_id": "buenos-aires", "ocr": null}
-{"id": "fdw-773942b43f", "sentiment": 0.019, "narrative": "Curious / neutral", "region_id": "toronto", "ocr": null}
-{"id": "fdw-d4a88aaeb6", "sentiment": 0.675, "narrative": "Lifestyle & productivity", "region_id": "sydney", "ocr": null}
-{"id": "fdw-8234a4ade1", "sentiment": -0.246, "narrative": "Economic skepticism", "region_id": "arizona-us", "ocr": null}
-{"id": "fdw-ddc62a8ff2", "sentiment": 0.567, "narrative": "Work-life balance appeal", "region_id": "singapore", "ocr": null}
-{"id": "fdw-0e3e692646", "sentiment": 0.486, "narrative": "Burnout relief", "region_id": "new-york", "ocr": null}
-{"id": "fdw-106114d357", "sentiment": 0.377, "narrative": "Work-life balance appeal", "region_id": "vancouver", "ocr": null}
-{"id": "fdw-c3fa47da53", "sentiment": -0.139, "narrative": "Economic skepticism", "region_id": "ho-chi-minh-city", "ocr": null}
-{"id": "fdw-8d151029de", "sentiment": 1.0, "narrative": "Work-life balance appeal", "region_id": "taipei", "ocr": null}
-{"id": "fdw-56ccebb805", "sentiment": 0.716, "narrative": "Wellbeing & productivity win", "region_id": "united-kingdom", "ocr": null}
-{"id": "fdw-8c2d5d0aab", "sentiment": -0.434, "narrative": "Longer days instead", "region_id": "bangalore", "ocr": null}
-{"id": "fdw-07475a3659", "sentiment": 0.21, "narrative": "Economic skepticism", "region_id": "chicago", "ocr": null}
-{"id": "fdw-56d4aef2e8", "sentiment": -0.201, "narrative": "Economic skepticism", "region_id": "cape-town", "ocr": null}
-{"id": "fdw-b43f3e2cfd", "sentiment": 0.893, "narrative": "Recruitment & retention edge", "region_id": "united-kingdom", "ocr": null}
-{"id": "fdw-f40d792877", "sentiment": 0.544, "narrative": "Work-life balance hopes", "region_id": "seoul", "ocr": null}
-{"id": "fdw-963946d2d6", "sentiment": 0.059, "narrative": "Curious / neutral", "region_id": "mumbai", "ocr": null}
-{"id": "fdw-cd7a46f972", "sentiment": 0.663, "narrative": "Work-life balance appeal", "region_id": "bogota", "ocr": null}
-{"id": "fdw-45b82c882b", "sentiment": 0.535, "narrative": "Government push & childcare", "region_id": "tokyo", "ocr": null}
-{"id": "fdw-f0957a54b3", "sentiment": 0.446, "narrative": "Work-life balance appeal", "region_id": "manila", "ocr": null}
-{"id": "fdw-71ec7a4563", "sentiment": 0.665, "narrative": "Work-life balance appeal", "region_id": "bangkok", "ocr": "FRIDAY = WEEKEND NOW"}
-{"id": "fdw-5c9dd42c95", "sentiment": 0.185, "narrative": "Curious / neutral", "region_id": "warsaw", "ocr": null}
-{"id": "fdw-20e61293ad", "sentiment": 0.519, "narrative": "Would love real 4-day week", "region_id": "bangalore", "ocr": null}
-{"id": "fdw-69650d60d9", "sentiment": 0.221, "narrative": "Work-life balance appeal", "region_id": "vancouver", "ocr": null}
-{"id": "fdw-1aa403e6c1", "sentiment": -0.483, "narrative": "Doesn't work for all sectors", "region_id": "united-kingdom", "ocr": null}
-{"id": "fdw-46906df7d2", "sentiment": 1.0, "narrative": "Lifestyle & productivity", "region_id": "sydney", "ocr": null}
-{"id": "fdw-37a8257590", "sentiment": 0.615, "narrative": "Pilot success & work-life balance", "region_id": "germany", "ocr": null}
-{"id": "fdw-1f223aa2c5", "sentiment": 0.263, "narrative": "Work-life balance appeal", "region_id": "toronto", "ocr": null}
-{"id": "fdw-7c6d017e71", "sentiment": 0.625, "narrative": "Work-life balance hopes", "region_id": "seoul", "ocr": null}
-{"id": "fdw-cb862902c9", "sentiment": 0.397, "narrative": "Work-life balance appeal", "region_id": "jakarta", "ocr": "FRIDAY = WEEKEND NOW"}
-{"id": "fdw-1687455948", "sentiment": 0.029, "narrative": "Curious / neutral", "region_id": "los-angeles", "ocr": null}
-{"id": "fdw-8e87bae630", "sentiment": 0.545, "narrative": "Government push & childcare", "region_id": "tokyo", "ocr": "都庁 週休3日"}
-{"id": "fdw-3f6460d82f", "sentiment": -0.088, "narrative": "Curious / neutral", "region_id": "cairo", "ocr": null}
-{"id": "fdw-159600702a", "sentiment": -0.577, "narrative": "Longer days instead", "region_id": "bangalore", "ocr": null}
-{"id": "fdw-7175b2fdcf", "sentiment": 0.325, "narrative": "Curious / neutral", "region_id": "buenos-aires", "ocr": null}
-{"id": "fdw-dfb7ce5323", "sentiment": 0.309, "narrative": "Burnout relief", "region_id": "new-york", "ocr": null}
-{"id": "fdw-372e404e4c", "sentiment": 0.769, "narrative": "Recruitment & retention edge", "region_id": "united-kingdom", "ocr": null}
-{"id": "fdw-1e073486e5", "sentiment": 0.51, "narrative": "Lifestyle & productivity", "region_id": "sydney", "ocr": null}
-{"id": "fdw-1ded650ef5", "sentiment": 0.066, "narrative": "Curious / neutral", "region_id": "ho-chi-minh-city", "ocr": null}
-{"id": "fdw-2a91dbb4d7", "sentiment": 0.478, "narrative": "Wellbeing & productivity win", "region_id": "united-kingdom", "ocr": null}
-{"id": "fdw-424dca7a77", "sentiment": -0.27, "narrative": "Economic skepticism", "region_id": "paris", "ocr": null}
-{"id": "fdw-8807ae2d1c", "sentiment": -0.129, "narrative": "Economic skepticism", "region_id": "toronto", "ocr": null}
-{"id": "fdw-e37e2999ce", "sentiment": -0.604, "narrative": "Economic skepticism", "region_id": "texas-us", "ocr": null}
+{"id": "fdw-7921801a01", "sentiment": 0.595, "narrative": "Would love real 4-day week", "region_id": "bangalore", "ocr": null}
+{"id": "fdw-0bf86b5985", "sentiment": 0.153, "narrative": "Curious / neutral", "region_id": "istanbul", "ocr": null}
+{"id": "fdw-a9a326df21", "sentiment": 0.325, "narrative": "Burnout relief", "region_id": "new-york", "ocr": null}
+{"id": "fdw-f19d233023", "sentiment": 0.765, "narrative": "Wellbeing & productivity win", "region_id": "united-kingdom", "ocr": null}
+{"id": "fdw-021d8f31ee", "sentiment": 0.854, "narrative": "Work-life balance appeal", "region_id": "cairo", "ocr": "FRIDAY = WEEKEND NOW"}
+{"id": "fdw-f3199b7091", "sentiment": -0.479, "narrative": "Longer days instead", "region_id": "bangalore", "ocr": null}
+{"id": "fdw-cd0dc3de87", "sentiment": -0.333, "narrative": "Economic skepticism", "region_id": "buenos-aires", "ocr": null}
+{"id": "fdw-4c99a2a182", "sentiment": -0.379, "narrative": "Doesn't work for all sectors", "region_id": "united-kingdom", "ocr": null}
+{"id": "fdw-b62b4bf43b", "sentiment": -0.092, "narrative": "Longer days instead", "region_id": "bangalore", "ocr": null}
+{"id": "fdw-826c34d30c", "sentiment": 0.205, "narrative": "Curious / neutral", "region_id": "ho-chi-minh-city", "ocr": null}
+{"id": "fdw-2c1f9696ed", "sentiment": 0.465, "narrative": "Pilot success & work-life balance", "region_id": "germany", "ocr": null}
+{"id": "fdw-2b43174251", "sentiment": 0.477, "narrative": "Recruitment & retention edge", "region_id": "united-kingdom", "ocr": null}
+{"id": "fdw-4ed012a080", "sentiment": 0.49, "narrative": "Pilot success & work-life balance", "region_id": "germany", "ocr": null}
+{"id": "fdw-24c78948a6", "sentiment": 0.503, "narrative": "Government push & childcare", "region_id": "tokyo", "ocr": "都庁 週休3日"}
+{"id": "fdw-3bf0d95a83", "sentiment": -0.351, "narrative": "Pay cut & competitiveness fears", "region_id": "seoul", "ocr": null}
+{"id": "fdw-67c9808abd", "sentiment": -0.761, "narrative": "Pay cut & competitiveness fears", "region_id": "seoul", "ocr": null}
+{"id": "fdw-b8ef675dbf", "sentiment": 0.597, "narrative": "Pilot success & work-life balance", "region_id": "germany", "ocr": null}
+{"id": "fdw-9ad166ce6d", "sentiment": 0.437, "narrative": "Burnout relief", "region_id": "new-york", "ocr": null}
+{"id": "fdw-5768d13e3a", "sentiment": -0.411, "narrative": "Economic skepticism", "region_id": "toronto", "ocr": null}
+{"id": "fdw-166fea2e52", "sentiment": -0.36, "narrative": "Small business pushback", "region_id": "sydney", "ocr": null}
+{"id": "fdw-6fb30ba707", "sentiment": 0.489, "narrative": "Wellbeing & productivity win", "region_id": "united-kingdom", "ocr": "4 DAY WEEK - 1 YEAR ON"}
+{"id": "fdw-2d2e787c16", "sentiment": 0.681, "narrative": "Wellbeing & productivity win", "region_id": "united-kingdom", "ocr": null}
+{"id": "fdw-3bc347501a", "sentiment": 0.236, "narrative": "Government push & childcare", "region_id": "tokyo", "ocr": "都庁 週休3日"}
+{"id": "fdw-276884b504", "sentiment": 0.481, "narrative": "Lifestyle & productivity", "region_id": "sydney", "ocr": null}
+{"id": "fdw-6486c019c6", "sentiment": -0.085, "narrative": "Pay cut & competitiveness fears", "region_id": "seoul", "ocr": null}
+{"id": "fdw-dd95c5b480", "sentiment": 0.526, "narrative": "Lifestyle & productivity", "region_id": "sydney", "ocr": null}
+{"id": "fdw-41d655e068", "sentiment": 0.498, "narrative": "Burnout relief", "region_id": "new-york", "ocr": null}
+{"id": "fdw-5d8ad76497", "sentiment": -0.537, "narrative": "Longer days instead", "region_id": "bangalore", "ocr": null}
+{"id": "fdw-5e7805df31", "sentiment": 0.723, "narrative": "Wellbeing & productivity win", "region_id": "united-kingdom", "ocr": null}
+{"id": "fdw-6827fa2575", "sentiment": -0.429, "narrative": "Economic skepticism", "region_id": "singapore", "ocr": null}
+{"id": "fdw-10f7fb3807", "sentiment": 0.394, "narrative": "Pilot success & work-life balance", "region_id": "germany", "ocr": null}
+{"id": "fdw-0c39ba01ed", "sentiment": 0.605, "narrative": "Pilot success & work-life balance", "region_id": "germany", "ocr": null}
+{"id": "fdw-c64f8a9a64", "sentiment": 0.535, "narrative": "Lifestyle & productivity", "region_id": "sydney", "ocr": null}
+{"id": "fdw-8fb9c359c4", "sentiment": -0.215, "narrative": "Small business pushback", "region_id": "sydney", "ocr": null}
+{"id": "fdw-9726be9eb8", "sentiment": 0.676, "narrative": "Wellbeing & productivity win", "region_id": "united-kingdom", "ocr": "4 DAY WEEK - 1 YEAR ON"}
+{"id": "fdw-014c8ba694", "sentiment": 0.074, "narrative": "Curious / neutral", "region_id": "manila", "ocr": null}
+{"id": "fdw-945545f667", "sentiment": 0.261, "narrative": "Government push & childcare", "region_id": "tokyo", "ocr": null}
+{"id": "fdw-8aaf28ff62", "sentiment": -0.221, "narrative": "Economic skepticism", "region_id": "chicago", "ocr": null}
+{"id": "fdw-bb5d0dcce1", "sentiment": -0.388, "narrative": "Longer days instead", "region_id": "bangalore", "ocr": null}
+{"id": "fdw-41df6f814b", "sentiment": 0.261, "narrative": "Government push & childcare", "region_id": "tokyo", "ocr": null}
+{"id": "fdw-b540e88cd1", "sentiment": 0.605, "narrative": "Work-life balance appeal", "region_id": "delhi", "ocr": null}
+{"id": "fdw-3176f6482b", "sentiment": 0.461, "narrative": "Work-life balance hopes", "region_id": "seoul", "ocr": null}
+{"id": "fdw-a9169dad05", "sentiment": 0.286, "narrative": "Recruitment & retention edge", "region_id": "united-kingdom", "ocr": null}
+{"id": "fdw-3e4e03b47a", "sentiment": 0.295, "narrative": "Would love real 4-day week", "region_id": "bangalore", "ocr": null}
+{"id": "fdw-b492b554d6", "sentiment": -0.263, "narrative": "Pay cut & competitiveness fears", "region_id": "seoul", "ocr": null}
+{"id": "fdw-9d8b42c97e", "sentiment": -0.32, "narrative": "Economic skepticism", "region_id": "bogota", "ocr": null}
+{"id": "fdw-fe2dd45e4a", "sentiment": 0.372, "narrative": "Burnout relief", "region_id": "new-york", "ocr": null}
+{"id": "fdw-18dc0d63b9", "sentiment": -0.182, "narrative": "Economic competitiveness worries", "region_id": "germany", "ocr": null}
+{"id": "fdw-b6a641051a", "sentiment": 0.549, "narrative": "Lifestyle & productivity", "region_id": "sydney", "ocr": "Friday off hits different"}
+{"id": "fdw-950dfa0ba1", "sentiment": 0.225, "narrative": "Burnout relief", "region_id": "new-york", "ocr": null}
+{"id": "fdw-b0a854bd17", "sentiment": 0.453, "narrative": "Work-life balance appeal", "region_id": "netherlands", "ocr": null}
+{"id": "fdw-c51cd14fdf", "sentiment": -0.007, "narrative": "Curious / neutral", "region_id": "jakarta", "ocr": null}
+{"id": "fdw-d8fe4f0840", "sentiment": 0.754, "narrative": "Wellbeing & productivity win", "region_id": "united-kingdom", "ocr": null}
+{"id": "fdw-18710f7665", "sentiment": 0.349, "narrative": "Government push & childcare", "region_id": "tokyo", "ocr": null}
+{"id": "fdw-23187dfcb2", "sentiment": 0.632, "narrative": "Burnout relief", "region_id": "new-york", "ocr": null}
+{"id": "fdw-1c6dfc0ec9", "sentiment": 0.578, "narrative": "Would love real 4-day week", "region_id": "bangalore", "ocr": null}
+{"id": "fdw-d249258052", "sentiment": -0.071, "narrative": "Curious / neutral", "region_id": "vancouver", "ocr": null}
+{"id": "fdw-022f484947", "sentiment": 0.221, "narrative": "Curious / neutral", "region_id": "lagos", "ocr": null}
+{"id": "fdw-3d93284421", "sentiment": 0.325, "narrative": "Burnout relief", "region_id": "new-york", "ocr": null}
+{"id": "fdw-f641f6318b", "sentiment": -0.333, "narrative": "Curious / neutral", "region_id": "paris", "ocr": null}
+{"id": "fdw-913a1bb5c6", "sentiment": 0.73, "narrative": "Work-life balance appeal", "region_id": "chicago", "ocr": null}
+{"id": "fdw-cfc2e621cd", "sentiment": -0.686, "narrative": "Longer days instead", "region_id": "bangalore", "ocr": null}
+{"id": "fdw-ca97f3064e", "sentiment": 0.386, "narrative": "Recruitment & retention edge", "region_id": "united-kingdom", "ocr": null}
+{"id": "fdw-d4aeb64d11", "sentiment": 0.556, "narrative": "Work-life balance hopes", "region_id": "seoul", "ocr": null}
+{"id": "fdw-ef02573fb3", "sentiment": 0.633, "narrative": "Work-life balance appeal", "region_id": "ho-chi-minh-city", "ocr": null}
+{"id": "fdw-8810c5ed0f", "sentiment": 0.626, "narrative": "Lifestyle & productivity", "region_id": "sydney", "ocr": null}
+{"id": "fdw-2a1651ca26", "sentiment": -0.015, "narrative": "Economic competitiveness worries", "region_id": "germany", "ocr": null}
+{"id": "fdw-85bb6d545d", "sentiment": 0.377, "narrative": "Lifestyle & productivity", "region_id": "sydney", "ocr": null}
+{"id": "fdw-54be1ef24b", "sentiment": 0.598, "narrative": "Wellbeing & productivity win", "region_id": "united-kingdom", "ocr": null}
+{"id": "fdw-c5b3130187", "sentiment": -0.056, "narrative": "Pay cut & competitiveness fears", "region_id": "seoul", "ocr": null}
+{"id": "fdw-1ffc55aca2", "sentiment": -0.151, "narrative": "Curious / neutral", "region_id": "mexico-city", "ocr": null}
+{"id": "fdw-543292fd01", "sentiment": -0.645, "narrative": "Economic skepticism", "region_id": "mumbai", "ocr": null}
+{"id": "fdw-a68203cbac", "sentiment": 0.922, "narrative": "Wellbeing & productivity win", "region_id": "united-kingdom", "ocr": null}
+{"id": "fdw-33cafde023", "sentiment": 0.862, "narrative": "Wellbeing & productivity win", "region_id": "united-kingdom", "ocr": "4 DAY WEEK - 1 YEAR ON"}
+{"id": "fdw-a6d87dceba", "sentiment": 0.637, "narrative": "Burnout relief", "region_id": "new-york", "ocr": null}
+{"id": "fdw-ba657f36e9", "sentiment": -0.534, "narrative": "Economic skepticism", "region_id": "singapore", "ocr": null}
+{"id": "fdw-073ba03183", "sentiment": 0.714, "narrative": "Work-life balance appeal", "region_id": "nairobi", "ocr": "FRIDAY = WEEKEND NOW"}
+{"id": "fdw-e583a8c111", "sentiment": 0.67, "narrative": "Wellbeing & productivity win", "region_id": "united-kingdom", "ocr": null}
+{"id": "fdw-89fa66530c", "sentiment": 1.0, "narrative": "Pilot success & work-life balance", "region_id": "germany", "ocr": null}
+{"id": "fdw-8963c0f489", "sentiment": 0.398, "narrative": "Work-life balance hopes", "region_id": "seoul", "ocr": null}
+{"id": "fdw-4fa473cb7a", "sentiment": 0.499, "narrative": "Government push & childcare", "region_id": "tokyo", "ocr": null}
+{"id": "fdw-1b66b98699", "sentiment": 0.414, "narrative": "Lifestyle & productivity", "region_id": "sydney", "ocr": null}
+{"id": "fdw-70c63b0650", "sentiment": 0.214, "narrative": "Curious / neutral", "region_id": "delhi", "ocr": null}
+{"id": "fdw-951882ba71", "sentiment": 0.361, "narrative": "Curious / neutral", "region_id": "sweden", "ocr": null}
+{"id": "fdw-b36c5649d0", "sentiment": 0.746, "narrative": "Would love real 4-day week", "region_id": "bangalore", "ocr": null}
+{"id": "fdw-b7f021c14d", "sentiment": -0.024, "narrative": "Curious / neutral", "region_id": "dubai", "ocr": null}
+{"id": "fdw-0a9c4798af", "sentiment": 0.347, "narrative": "Would love real 4-day week", "region_id": "bangalore", "ocr": null}
+{"id": "fdw-379d0f142d", "sentiment": 0.462, "narrative": "Pilot success & work-life balance", "region_id": "germany", "ocr": null}
+{"id": "fdw-dc8052f364", "sentiment": 0.081, "narrative": "Curious / neutral", "region_id": "texas-us", "ocr": null}
+{"id": "fdw-72094cfd8f", "sentiment": -0.031, "narrative": "Hustle culture skepticism", "region_id": "new-york", "ocr": null}
+{"id": "fdw-b9f770c373", "sentiment": -0.428, "narrative": "Longer days instead", "region_id": "bangalore", "ocr": null}
+{"id": "fdw-1dd173218d", "sentiment": 0.071, "narrative": "Curious / neutral", "region_id": "delhi", "ocr": null}
+{"id": "fdw-40f7f72d9c", "sentiment": -0.312, "narrative": "Small business pushback", "region_id": "sydney", "ocr": null}
+{"id": "fdw-bfdcb5b00c", "sentiment": 0.25, "narrative": "Work-life balance appeal", "region_id": "singapore", "ocr": null}
+{"id": "fdw-d042d82408", "sentiment": 0.144, "narrative": "Curious / neutral", "region_id": "chicago", "ocr": null}
+{"id": "fdw-de572e6134", "sentiment": 0.822, "narrative": "Pilot success & work-life balance", "region_id": "germany", "ocr": null}
+{"id": "fdw-0d773dedf2", "sentiment": 0.73, "narrative": "Lifestyle & productivity", "region_id": "sydney", "ocr": null}
+{"id": "fdw-7b092968e0", "sentiment": 0.383, "narrative": "Government push & childcare", "region_id": "tokyo", "ocr": null}
+{"id": "fdw-9aa762da4f", "sentiment": 1.0, "narrative": "Wellbeing & productivity win", "region_id": "united-kingdom", "ocr": null}
+{"id": "fdw-0d3cca43db", "sentiment": -0.139, "narrative": "Economic skepticism", "region_id": "bangkok", "ocr": null}
+{"id": "fdw-48cf067a5a", "sentiment": -0.259, "narrative": "Pay cut & competitiveness fears", "region_id": "seoul", "ocr": null}
+{"id": "fdw-0f1d792760", "sentiment": 0.561, "narrative": "Recruitment & retention edge", "region_id": "united-kingdom", "ocr": null}
+{"id": "fdw-1fb6589337", "sentiment": -0.491, "narrative": "Culture won't change", "region_id": "tokyo", "ocr": null}
+{"id": "fdw-db731b6e81", "sentiment": 0.216, "narrative": "Burnout relief", "region_id": "new-york", "ocr": null}
+{"id": "fdw-179881ccf1", "sentiment": 0.381, "narrative": "Pilot success & work-life balance", "region_id": "germany", "ocr": "Vier-Tage-Woche: Stress -, Produktivität ="}
+{"id": "fdw-8a4c3af1ae", "sentiment": 0.71, "narrative": "Work-life balance appeal", "region_id": "lagos", "ocr": null}
+{"id": "fdw-5e6d292012", "sentiment": 0.587, "narrative": "Recruitment & retention edge", "region_id": "united-kingdom", "ocr": null}
+{"id": "fdw-a5bc53ef8b", "sentiment": -0.111, "narrative": "Small business pushback", "region_id": "sydney", "ocr": null}
+{"id": "fdw-6041eda563", "sentiment": 0.333, "narrative": "Work-life balance hopes", "region_id": "seoul", "ocr": null}
+{"id": "fdw-af6e3d8804", "sentiment": 0.339, "narrative": "Would love real 4-day week", "region_id": "bangalore", "ocr": null}
+{"id": "fdw-5dca815c19", "sentiment": -0.225, "narrative": "Curious / neutral", "region_id": "toronto", "ocr": null}
+{"id": "fdw-f204ea6aae", "sentiment": 0.672, "narrative": "Wellbeing & productivity win", "region_id": "united-kingdom", "ocr": null}
+{"id": "fdw-562aa1d263", "sentiment": 0.376, "narrative": "Pilot success & work-life balance", "region_id": "germany", "ocr": null}
+{"id": "fdw-8af668163b", "sentiment": -0.183, "narrative": "Economic skepticism", "region_id": "santiago", "ocr": null}
+{"id": "fdw-935a407450", "sentiment": 0.537, "narrative": "Work-life balance appeal", "region_id": "paris", "ocr": null}
+{"id": "fdw-27e50f4133", "sentiment": -0.265, "narrative": "Culture won't change", "region_id": "tokyo", "ocr": null}
+{"id": "fdw-23efeda8a2", "sentiment": 0.658, "narrative": "Work-life balance hopes", "region_id": "seoul", "ocr": null}
+{"id": "fdw-064045b4b7", "sentiment": -0.448, "narrative": "Economic skepticism", "region_id": "cape-town", "ocr": null}
+{"id": "fdw-9d06f7888f", "sentiment": 0.452, "narrative": "Lifestyle & productivity", "region_id": "sydney", "ocr": null}
+{"id": "fdw-a458efb62a", "sentiment": 0.298, "narrative": "Pilot success & work-life balance", "region_id": "germany", "ocr": null}
+{"id": "fdw-56c01fee35", "sentiment": 0.789, "narrative": "Lifestyle & productivity", "region_id": "sydney", "ocr": "Friday off hits different"}
+{"id": "fdw-ab1ea0e3fc", "sentiment": 0.424, "narrative": "Burnout relief", "region_id": "new-york", "ocr": null}
+{"id": "fdw-fc388b4335", "sentiment": -0.403, "narrative": "Economic skepticism", "region_id": "mumbai", "ocr": null}
+{"id": "fdw-0551c8d67e", "sentiment": 0.495, "narrative": "Wellbeing & productivity win", "region_id": "united-kingdom", "ocr": "Me at 10am on a Friday under the 4-day week"}
+{"id": "fdw-884301aff5", "sentiment": -0.34, "narrative": "Culture won't change", "region_id": "tokyo", "ocr": null}
+{"id": "fdw-628bd96b08", "sentiment": -0.9, "narrative": "Longer days instead", "region_id": "bangalore", "ocr": null}
+{"id": "fdw-774fa75a44", "sentiment": -0.33, "narrative": "Hustle culture skepticism", "region_id": "new-york", "ocr": null}
+{"id": "fdw-b21938c7d1", "sentiment": 0.468, "narrative": "Pilot success & work-life balance", "region_id": "germany", "ocr": null}
+{"id": "fdw-d0122133b0", "sentiment": 0.786, "narrative": "Wellbeing & productivity win", "region_id": "united-kingdom", "ocr": null}
+{"id": "fdw-78adce2a5b", "sentiment": -0.179, "narrative": "Doesn't work for all sectors", "region_id": "united-kingdom", "ocr": null}
+{"id": "fdw-f6f37689f7", "sentiment": -0.284, "narrative": "Longer days instead", "region_id": "bangalore", "ocr": null}
+{"id": "fdw-f2daf4f843", "sentiment": 0.541, "narrative": "Work-life balance hopes", "region_id": "seoul", "ocr": null}
+{"id": "fdw-89ba7a292a", "sentiment": 0.062, "narrative": "Curious / neutral", "region_id": "sao-paulo", "ocr": null}
+{"id": "fdw-17696d5738", "sentiment": 0.748, "narrative": "Work-life balance hopes", "region_id": "seoul", "ocr": "주 4.5일제"}
+{"id": "fdw-e4a2e11dfe", "sentiment": 0.765, "narrative": "Burnout relief", "region_id": "new-york", "ocr": null}
+{"id": "fdw-a3eadddf28", "sentiment": 0.743, "narrative": "Wellbeing & productivity win", "region_id": "united-kingdom", "ocr": null}
+{"id": "fdw-1e6ee7efcf", "sentiment": 0.09, "narrative": "Curious / neutral", "region_id": "vancouver", "ocr": null}
+{"id": "fdw-b95b0413c7", "sentiment": -0.305, "narrative": "Culture won't change", "region_id": "tokyo", "ocr": null}
+{"id": "fdw-1ef0a3699a", "sentiment": -0.24, "narrative": "Culture won't change", "region_id": "tokyo", "ocr": null}
+{"id": "fdw-e223d51d00", "sentiment": -0.487, "narrative": "Longer days instead", "region_id": "bangalore", "ocr": null}
+{"id": "fdw-bb9eb07857", "sentiment": -0.337, "narrative": "Longer days instead", "region_id": "bangalore", "ocr": null}
+{"id": "fdw-3632bc6c5b", "sentiment": 0.566, "narrative": "Wellbeing & productivity win", "region_id": "united-kingdom", "ocr": "4 DAY WEEK - 1 YEAR ON"}
+{"id": "fdw-8b9db76474", "sentiment": 0.77, "narrative": "Recruitment & retention edge", "region_id": "united-kingdom", "ocr": null}
+{"id": "fdw-59ff945dc8", "sentiment": 0.284, "narrative": "Lifestyle & productivity", "region_id": "sydney", "ocr": null}
+{"id": "fdw-bbeeb60cc4", "sentiment": 0.753, "narrative": "Lifestyle & productivity", "region_id": "sydney", "ocr": "Friday off hits different"}
+{"id": "fdw-028a0976d0", "sentiment": -0.313, "narrative": "Economic skepticism", "region_id": "bangkok", "ocr": null}
+{"id": "fdw-8afce195dd", "sentiment": -0.297, "narrative": "Economic competitiveness worries", "region_id": "germany", "ocr": null}
+{"id": "fdw-94b21732f5", "sentiment": 0.257, "narrative": "Recruitment & retention edge", "region_id": "united-kingdom", "ocr": null}
+{"id": "fdw-72ce09a4c0", "sentiment": 0.463, "narrative": "Pilot success & work-life balance", "region_id": "germany", "ocr": null}
+{"id": "fdw-76d68878d9", "sentiment": 0.58, "narrative": "Work-life balance appeal", "region_id": "manila", "ocr": "FRIDAY = WEEKEND NOW"}
+{"id": "fdw-8c8e4bf0e7", "sentiment": -0.55, "narrative": "Hustle culture skepticism", "region_id": "new-york", "ocr": null}
+{"id": "fdw-12f9e89620", "sentiment": -0.279, "narrative": "Pay cut & competitiveness fears", "region_id": "seoul", "ocr": null}
+{"id": "fdw-b52ba0c53f", "sentiment": 0.516, "narrative": "Would love real 4-day week", "region_id": "bangalore", "ocr": null}
+{"id": "fdw-36933539cb", "sentiment": 0.351, "narrative": "Pilot success & work-life balance", "region_id": "germany", "ocr": null}
+{"id": "fdw-1fbf479ebe", "sentiment": 0.883, "narrative": "Pilot success & work-life balance", "region_id": "germany", "ocr": null}
+{"id": "fdw-93ac434bf3", "sentiment": 0.527, "narrative": "Work-life balance appeal", "region_id": "singapore", "ocr": null}
+{"id": "fdw-7fb95cfc2b", "sentiment": -0.489, "narrative": "Economic skepticism", "region_id": "buenos-aires", "ocr": null}
+{"id": "fdw-69f5974462", "sentiment": 0.661, "narrative": "Wellbeing & productivity win", "region_id": "united-kingdom", "ocr": null}
+{"id": "fdw-bc2074dc7b", "sentiment": 0.726, "narrative": "Recruitment & retention edge", "region_id": "united-kingdom", "ocr": null}
+{"id": "fdw-9e76556726", "sentiment": 0.754, "narrative": "Work-life balance hopes", "region_id": "seoul", "ocr": null}
+{"id": "fdw-2ce05b219f", "sentiment": -0.298, "narrative": "Culture won't change", "region_id": "tokyo", "ocr": null}
+{"id": "fdw-21d4497f62", "sentiment": 0.634, "narrative": "Work-life balance appeal", "region_id": "nairobi", "ocr": "FRIDAY = WEEKEND NOW"}
+{"id": "fdw-07b7f6d11c", "sentiment": 0.267, "narrative": "Burnout relief", "region_id": "new-york", "ocr": null}
+{"id": "fdw-afb7d977b7", "sentiment": 0.032, "narrative": "Curious / neutral", "region_id": "shanghai", "ocr": null}
+{"id": "fdw-5d2c42c51f", "sentiment": 0.73, "narrative": "Burnout relief", "region_id": "new-york", "ocr": null}
+{"id": "fdw-1d86cf62bd", "sentiment": 0.616, "narrative": "Lifestyle & productivity", "region_id": "sydney", "ocr": null}
+{"id": "fdw-b2dae30587", "sentiment": 0.702, "narrative": "Work-life balance appeal", "region_id": "dubai", "ocr": "FRIDAY = WEEKEND NOW"}
+{"id": "fdw-8b0b3d6e7b", "sentiment": 0.595, "narrative": "Work-life balance hopes", "region_id": "seoul", "ocr": "주 4.5일제"}
+{"id": "fdw-914265ffbf", "sentiment": 0.425, "narrative": "Government push & childcare", "region_id": "tokyo", "ocr": null}
+{"id": "fdw-fd9706a75d", "sentiment": 0.508, "narrative": "Recruitment & retention edge", "region_id": "united-kingdom", "ocr": null}
+{"id": "fdw-8e5971cd90", "sentiment": 0.471, "narrative": "Lifestyle & productivity", "region_id": "sydney", "ocr": null}
+{"id": "fdw-e43a873686", "sentiment": 0.738, "narrative": "Work-life balance appeal", "region_id": "madrid", "ocr": "FRIDAY = WEEKEND NOW"}
+{"id": "fdw-78ab9c1abe", "sentiment": 0.066, "narrative": "Would love real 4-day week", "region_id": "bangalore", "ocr": null}
+{"id": "fdw-d3d51a09c4", "sentiment": 0.381, "narrative": "Recruitment & retention edge", "region_id": "united-kingdom", "ocr": null}
+{"id": "fdw-be8b79e06f", "sentiment": -0.293, "narrative": "Pay cut & competitiveness fears", "region_id": "seoul", "ocr": null}
+{"id": "fdw-6787bb4783", "sentiment": -0.379, "narrative": "Economic skepticism", "region_id": "toronto", "ocr": null}
+{"id": "fdw-9ef8e8e171", "sentiment": 0.534, "narrative": "Work-life balance appeal", "region_id": "lagos", "ocr": null}
+{"id": "fdw-a3c0152dc5", "sentiment": 0.535, "narrative": "Burnout relief", "region_id": "new-york", "ocr": null}
+{"id": "fdw-6e2fc9c17f", "sentiment": 0.575, "narrative": "Pilot success & work-life balance", "region_id": "germany", "ocr": null}
+{"id": "fdw-1ac0b431bb", "sentiment": 0.522, "narrative": "Would love real 4-day week", "region_id": "bangalore", "ocr": null}
+{"id": "fdw-fa5a09129e", "sentiment": 0.465, "narrative": "Work-life balance appeal", "region_id": "bangkok", "ocr": null}
+{"id": "fdw-6b9505aa0b", "sentiment": 0.719, "narrative": "Work-life balance appeal", "region_id": "jakarta", "ocr": null}
+{"id": "fdw-5d1b0d4624", "sentiment": 0.655, "narrative": "Work-life balance appeal", "region_id": "arizona-us", "ocr": null}
+{"id": "fdw-9921ed51fe", "sentiment": -0.488, "narrative": "Longer days instead", "region_id": "bangalore", "ocr": null}
+{"id": "fdw-74cf6dc83c", "sentiment": -0.242, "narrative": "Economic competitiveness worries", "region_id": "germany", "ocr": null}
+{"id": "fdw-1a8e9ea39c", "sentiment": -0.195, "narrative": "Economic competitiveness worries", "region_id": "germany", "ocr": null}
+{"id": "fdw-3ae03af43f", "sentiment": 0.497, "narrative": "Work-life balance appeal", "region_id": "vancouver", "ocr": "FRIDAY = WEEKEND NOW"}
+{"id": "fdw-2582fc2d26", "sentiment": 0.178, "narrative": "Pilot success & work-life balance", "region_id": "germany", "ocr": null}
+{"id": "fdw-0014c46700", "sentiment": 0.313, "narrative": "Work-life balance appeal", "region_id": "delhi", "ocr": null}
+{"id": "fdw-1752044f33", "sentiment": -0.103, "narrative": "Curious / neutral", "region_id": "texas-us", "ocr": null}
+{"id": "fdw-f254b5a281", "sentiment": 0.611, "narrative": "Wellbeing & productivity win", "region_id": "united-kingdom", "ocr": null}
+{"id": "fdw-a2b0a8b5f2", "sentiment": -0.304, "narrative": "Longer days instead", "region_id": "bangalore", "ocr": "4-day week they said... 12 hours a day they meant"}
+{"id": "fdw-da9dffbc82", "sentiment": 0.691, "narrative": "Work-life balance appeal", "region_id": "dubai", "ocr": null}
+{"id": "fdw-61c5d36b75", "sentiment": 0.662, "narrative": "Lifestyle & productivity", "region_id": "sydney", "ocr": "Friday off hits different"}
+{"id": "fdw-67a7ccdc1b", "sentiment": 0.902, "narrative": "Wellbeing & productivity win", "region_id": "united-kingdom", "ocr": null}
+{"id": "fdw-8f55cee64f", "sentiment": 0.586, "narrative": "Recruitment & retention edge", "region_id": "united-kingdom", "ocr": null}
+{"id": "fdw-21d1653c56", "sentiment": -0.078, "narrative": "Longer days instead", "region_id": "bangalore", "ocr": null}
+{"id": "fdw-c08cb9818e", "sentiment": 0.658, "narrative": "Pilot success & work-life balance", "region_id": "germany", "ocr": "Vier-Tage-Woche: Stress -, Produktivität ="}
+{"id": "fdw-70fd702df7", "sentiment": 0.351, "narrative": "Work-life balance hopes", "region_id": "seoul", "ocr": null}
+{"id": "fdw-c4628a99d4", "sentiment": -0.013, "narrative": "Curious / neutral", "region_id": "jakarta", "ocr": null}
+{"id": "fdw-ed595f8293", "sentiment": 0.152, "narrative": "Curious / neutral", "region_id": "hyderabad", "ocr": null}
+{"id": "fdw-6dbd84579d", "sentiment": -0.166, "narrative": "Curious / neutral", "region_id": "mumbai", "ocr": null}
+{"id": "fdw-0211f219c4", "sentiment": 0.032, "narrative": "Pay cut & competitiveness fears", "region_id": "seoul", "ocr": null}
+{"id": "fdw-ef7879085a", "sentiment": -0.613, "narrative": "Economic skepticism", "region_id": "los-angeles", "ocr": null}
+{"id": "fdw-c63f91d650", "sentiment": 0.86, "narrative": "Wellbeing & productivity win", "region_id": "united-kingdom", "ocr": "4 DAY WEEK - 1 YEAR ON"}
+{"id": "fdw-641bce6794", "sentiment": 0.187, "narrative": "Would love real 4-day week", "region_id": "bangalore", "ocr": null}
+{"id": "fdw-1bc0ed1434", "sentiment": 0.329, "narrative": "Government push & childcare", "region_id": "tokyo", "ocr": null}
+{"id": "fdw-eb0fb2c5f8", "sentiment": 0.273, "narrative": "Work-life balance appeal", "region_id": "paris", "ocr": "FRIDAY = WEEKEND NOW"}
+{"id": "fdw-35cb94100e", "sentiment": 0.5, "narrative": "Burnout relief", "region_id": "new-york", "ocr": null}
+{"id": "fdw-8c5253f471", "sentiment": 0.727, "narrative": "Burnout relief", "region_id": "new-york", "ocr": null}
+{"id": "fdw-7c5c49183d", "sentiment": -0.154, "narrative": "Curious / neutral", "region_id": "chicago", "ocr": null}
+{"id": "fdw-942198706c", "sentiment": -0.248, "narrative": "Culture won't change", "region_id": "tokyo", "ocr": null}
+{"id": "fdw-0dc36d5d0c", "sentiment": -0.354, "narrative": "Doesn't work for all sectors", "region_id": "united-kingdom", "ocr": null}
+{"id": "fdw-a827525e22", "sentiment": -0.129, "narrative": "Small business pushback", "region_id": "sydney", "ocr": null}
+{"id": "fdw-829365e07d", "sentiment": 0.425, "narrative": "Work-life balance appeal", "region_id": "manila", "ocr": null}
+{"id": "fdw-fe0797e603", "sentiment": -0.596, "narrative": "Longer days instead", "region_id": "bangalore", "ocr": null}
+{"id": "fdw-6d6323a36e", "sentiment": 0.675, "narrative": "Work-life balance hopes", "region_id": "seoul", "ocr": null}
+{"id": "fdw-5c85da85d3", "sentiment": 0.772, "narrative": "Wellbeing & productivity win", "region_id": "united-kingdom", "ocr": null}
+{"id": "fdw-2a35d95945", "sentiment": -0.011, "narrative": "Curious / neutral", "region_id": "bangkok", "ocr": null}
+{"id": "fdw-a0a7bf52a6", "sentiment": -0.488, "narrative": "Doesn't work for all sectors", "region_id": "united-kingdom", "ocr": null}
+{"id": "fdw-34e6fa1bf7", "sentiment": -0.415, "narrative": "Culture won't change", "region_id": "tokyo", "ocr": null}
+{"id": "fdw-e4613a2087", "sentiment": 0.676, "narrative": "Pilot success & work-life balance", "region_id": "germany", "ocr": null}
+{"id": "fdw-8cf9899d01", "sentiment": -0.184, "narrative": "Economic skepticism", "region_id": "mumbai", "ocr": null}
+{"id": "fdw-716034f5b9", "sentiment": 0.334, "narrative": "Work-life balance appeal", "region_id": "shanghai", "ocr": null}
+{"id": "fdw-f9ee6229e8", "sentiment": 0.388, "narrative": "Lifestyle & productivity", "region_id": "sydney", "ocr": null}
+{"id": "fdw-6be20dfd3f", "sentiment": -0.147, "narrative": "Longer days instead", "region_id": "bangalore", "ocr": "4-day week they said... 12 hours a day they meant"}
+{"id": "fdw-65999bc99d", "sentiment": -0.311, "narrative": "Doesn't work for all sectors", "region_id": "united-kingdom", "ocr": null}
+{"id": "fdw-f78cf1ddaa", "sentiment": 0.457, "narrative": "Work-life balance appeal", "region_id": "vancouver", "ocr": null}
+{"id": "fdw-039ec0eee8", "sentiment": 0.617, "narrative": "Lifestyle & productivity", "region_id": "sydney", "ocr": null}
+{"id": "fdw-3f248c377b", "sentiment": 0.554, "narrative": "Pilot success & work-life balance", "region_id": "germany", "ocr": null}
+{"id": "fdw-52023f5dac", "sentiment": 0.631, "narrative": "Pilot success & work-life balance", "region_id": "germany", "ocr": null}
+{"id": "fdw-ac90895921", "sentiment": 0.376, "narrative": "Burnout relief", "region_id": "new-york", "ocr": null}
+{"id": "fdw-7901482bc4", "sentiment": 0.479, "narrative": "Government push & childcare", "region_id": "tokyo", "ocr": null}
+{"id": "fdw-5ce97d6dc3", "sentiment": -0.34, "narrative": "Culture won't change", "region_id": "tokyo", "ocr": null}
+{"id": "fdw-1a5379c227", "sentiment": 0.75, "narrative": "Work-life balance hopes", "region_id": "seoul", "ocr": null}
+{"id": "fdw-1c2288d913", "sentiment": -0.79, "narrative": "Longer days instead", "region_id": "bangalore", "ocr": null}
+{"id": "fdw-5400e05182", "sentiment": 0.092, "narrative": "Economic skepticism", "region_id": "mexico-city", "ocr": null}
+{"id": "fdw-d9869390ba", "sentiment": 0.662, "narrative": "Burnout relief", "region_id": "new-york", "ocr": null}
+{"id": "fdw-4c4e69ee82", "sentiment": -0.641, "narrative": "Economic competitiveness worries", "region_id": "germany", "ocr": null}
+{"id": "fdw-8a3db748f5", "sentiment": 0.632, "narrative": "Wellbeing & productivity win", "region_id": "united-kingdom", "ocr": null}
+{"id": "fdw-7b8ceddf10", "sentiment": 0.506, "narrative": "Wellbeing & productivity win", "region_id": "united-kingdom", "ocr": null}
+{"id": "fdw-a292dc1fbf", "sentiment": 0.265, "narrative": "Lifestyle & productivity", "region_id": "sydney", "ocr": null}
+{"id": "fdw-848932bbcf", "sentiment": -0.339, "narrative": "Economic skepticism", "region_id": "warsaw", "ocr": null}
+{"id": "fdw-633ab9c619", "sentiment": 0.244, "narrative": "Pilot success & work-life balance", "region_id": "germany", "ocr": null}
+{"id": "fdw-0c7517c503", "sentiment": 0.388, "narrative": "Burnout relief", "region_id": "new-york", "ocr": null}
+{"id": "fdw-e0ea8c554d", "sentiment": 0.472, "narrative": "Wellbeing & productivity win", "region_id": "united-kingdom", "ocr": null}
+{"id": "fdw-86c724be7d", "sentiment": 0.306, "narrative": "Work-life balance hopes", "region_id": "seoul", "ocr": null}
+{"id": "fdw-9d983dbfbb", "sentiment": 0.077, "narrative": "Curious / neutral", "region_id": "taipei", "ocr": null}
+{"id": "fdw-bb5c6c8a9b", "sentiment": -0.301, "narrative": "Curious / neutral", "region_id": "los-angeles", "ocr": null}
+{"id": "fdw-3236fe93c7", "sentiment": 0.405, "narrative": "Lifestyle & productivity", "region_id": "sydney", "ocr": null}
+{"id": "fdw-03a6dcbba5", "sentiment": -0.141, "narrative": "Culture won't change", "region_id": "tokyo", "ocr": null}
+{"id": "fdw-305909f393", "sentiment": -0.505, "narrative": "Culture won't change", "region_id": "tokyo", "ocr": null}
+{"id": "fdw-fe8ecfacb8", "sentiment": 0.612, "narrative": "Recruitment & retention edge", "region_id": "united-kingdom", "ocr": null}
+{"id": "fdw-1547a8b24d", "sentiment": -0.157, "narrative": "Longer days instead", "region_id": "bangalore", "ocr": null}
+{"id": "fdw-6abaf04f41", "sentiment": 0.626, "narrative": "Lifestyle & productivity", "region_id": "sydney", "ocr": null}
+{"id": "fdw-5e0e220e61", "sentiment": 0.512, "narrative": "Wellbeing & productivity win", "region_id": "united-kingdom", "ocr": null}
+{"id": "fdw-5ce75ecbc4", "sentiment": 0.545, "narrative": "Wellbeing & productivity win", "region_id": "united-kingdom", "ocr": "Me at 10am on a Friday under the 4-day week"}
+{"id": "fdw-e4fe20f448", "sentiment": 0.394, "narrative": "Work-life balance hopes", "region_id": "seoul", "ocr": null}
+{"id": "fdw-5a551dcaba", "sentiment": -0.261, "narrative": "Economic competitiveness worries", "region_id": "germany", "ocr": null}
+{"id": "fdw-02f161e63e", "sentiment": -0.648, "narrative": "Longer days instead", "region_id": "bangalore", "ocr": null}
+{"id": "fdw-56f0d91060", "sentiment": -0.317, "narrative": "Economic competitiveness worries", "region_id": "germany", "ocr": null}
+{"id": "fdw-736b087fe9", "sentiment": 0.46, "narrative": "Work-life balance appeal", "region_id": "texas-us", "ocr": null}
+{"id": "fdw-2a5405e735", "sentiment": 0.657, "narrative": "Work-life balance appeal", "region_id": "manila", "ocr": null}
+{"id": "fdw-a0f1275827", "sentiment": -0.439, "narrative": "Longer days instead", "region_id": "bangalore", "ocr": null}
+{"id": "fdw-391cf25eba", "sentiment": 0.262, "narrative": "Burnout relief", "region_id": "new-york", "ocr": null}
+{"id": "fdw-aa90ee817c", "sentiment": 0.303, "narrative": "Government push & childcare", "region_id": "tokyo", "ocr": null}
+{"id": "fdw-6cea6773aa", "sentiment": 0.452, "narrative": "Work-life balance hopes", "region_id": "seoul", "ocr": null}
+{"id": "fdw-dbb5f81ec6", "sentiment": -0.355, "narrative": "Economic skepticism", "region_id": "sao-paulo", "ocr": null}
+{"id": "fdw-4c35aa9334", "sentiment": 0.251, "narrative": "Burnout relief", "region_id": "new-york", "ocr": null}
+{"id": "fdw-565f2ae580", "sentiment": 0.482, "narrative": "Would love real 4-day week", "region_id": "bangalore", "ocr": null}
+{"id": "fdw-898ea3348f", "sentiment": 0.479, "narrative": "Wellbeing & productivity win", "region_id": "united-kingdom", "ocr": null}
+{"id": "fdw-6b9cdcab2d", "sentiment": 0.091, "narrative": "Curious / neutral", "region_id": "paris", "ocr": null}
+{"id": "fdw-c8db5fa7b0", "sentiment": 0.334, "narrative": "Pilot success & work-life balance", "region_id": "germany", "ocr": null}
+{"id": "fdw-8c429821a6", "sentiment": 0.478, "narrative": "Would love real 4-day week", "region_id": "bangalore", "ocr": null}
+{"id": "fdw-672843597c", "sentiment": -0.61, "narrative": "Small business pushback", "region_id": "sydney", "ocr": null}
+{"id": "fdw-babd87b9b0", "sentiment": 0.519, "narrative": "Recruitment & retention edge", "region_id": "united-kingdom", "ocr": null}
+{"id": "fdw-7caa4a8469", "sentiment": 0.653, "narrative": "Work-life balance appeal", "region_id": "chicago", "ocr": "FRIDAY = WEEKEND NOW"}
+{"id": "fdw-3082f39636", "sentiment": 0.17, "narrative": "Economic skepticism", "region_id": "dubai", "ocr": null}
+{"id": "fdw-266ded6dda", "sentiment": 0.265, "narrative": "Burnout relief", "region_id": "new-york", "ocr": null}
+{"id": "fdw-e3066c712f", "sentiment": 0.53, "narrative": "Work-life balance appeal", "region_id": "sweden", "ocr": "FRIDAY = WEEKEND NOW"}
+{"id": "fdw-f7a8699d23", "sentiment": 0.51, "narrative": "Pilot success & work-life balance", "region_id": "germany", "ocr": null}
+{"id": "fdw-0f61540d63", "sentiment": 0.648, "narrative": "Lifestyle & productivity", "region_id": "sydney", "ocr": null}
+{"id": "fdw-a61c516a82", "sentiment": -0.5, "narrative": "Pay cut & competitiveness fears", "region_id": "seoul", "ocr": null}
+{"id": "fdw-fc0f35fc5f", "sentiment": 0.409, "narrative": "Work-life balance hopes", "region_id": "seoul", "ocr": null}
+{"id": "fdw-164f24b2f4", "sentiment": 0.461, "narrative": "Work-life balance appeal", "region_id": "manila", "ocr": null}
+{"id": "fdw-a28801ecc3", "sentiment": 0.381, "narrative": "Recruitment & retention edge", "region_id": "united-kingdom", "ocr": null}
+{"id": "fdw-8ff8616b20", "sentiment": 0.73, "narrative": "Work-life balance hopes", "region_id": "seoul", "ocr": null}
+{"id": "fdw-c03c9efaf8", "sentiment": 0.546, "narrative": "Work-life balance appeal", "region_id": "texas-us", "ocr": null}
+{"id": "fdw-8e50c7d976", "sentiment": 0.547, "narrative": "Would love real 4-day week", "region_id": "bangalore", "ocr": null}
+{"id": "fdw-f6640ed524", "sentiment": 0.219, "narrative": "Government push & childcare", "region_id": "tokyo", "ocr": "都庁 週休3日"}
+{"id": "fdw-46efc2eb48", "sentiment": -0.583, "narrative": "Small business pushback", "region_id": "sydney", "ocr": null}
+{"id": "fdw-9696d02186", "sentiment": 0.338, "narrative": "Government push & childcare", "region_id": "tokyo", "ocr": null}
+{"id": "fdw-5663243d75", "sentiment": 0.442, "narrative": "Burnout relief", "region_id": "new-york", "ocr": null}
+{"id": "fdw-4b68ec07e4", "sentiment": 0.333, "narrative": "Recruitment & retention edge", "region_id": "united-kingdom", "ocr": null}
+{"id": "fdw-c5b9fe6bf0", "sentiment": 0.737, "narrative": "Work-life balance appeal", "region_id": "istanbul", "ocr": "FRIDAY = WEEKEND NOW"}
+{"id": "fdw-9d246706f5", "sentiment": 0.88, "narrative": "Wellbeing & productivity win", "region_id": "united-kingdom", "ocr": null}
+{"id": "fdw-650ef705e3", "sentiment": 0.879, "narrative": "Burnout relief", "region_id": "new-york", "ocr": null}
+{"id": "fdw-6910caee65", "sentiment": 0.337, "narrative": "Work-life balance hopes", "region_id": "seoul", "ocr": null}
+{"id": "fdw-be82947f2f", "sentiment": 0.427, "narrative": "Work-life balance appeal", "region_id": "lagos", "ocr": null}
+{"id": "fdw-a40e3b7df4", "sentiment": 0.254, "narrative": "Government push & childcare", "region_id": "tokyo", "ocr": null}
+{"id": "fdw-1fa3a51522", "sentiment": 0.009, "narrative": "Curious / neutral", "region_id": "dubai", "ocr": null}
+{"id": "fdw-2c4648730c", "sentiment": 0.719, "narrative": "Wellbeing & productivity win", "region_id": "united-kingdom", "ocr": null}
+{"id": "fdw-5e9de54cec", "sentiment": -0.378, "narrative": "Economic skepticism", "region_id": "mexico-city", "ocr": null}
+{"id": "fdw-5488e0f5b4", "sentiment": 0.149, "narrative": "Economic skepticism", "region_id": "sao-paulo", "ocr": null}
+{"id": "fdw-35f4292aae", "sentiment": 0.626, "narrative": "Pilot success & work-life balance", "region_id": "germany", "ocr": null}
+{"id": "fdw-ae8d80f1d8", "sentiment": 0.63, "narrative": "Wellbeing & productivity win", "region_id": "united-kingdom", "ocr": null}
+{"id": "fdw-a3f24f207f", "sentiment": 0.584, "narrative": "Pilot success & work-life balance", "region_id": "germany", "ocr": null}
 {"id": "fdw-d68af510ff", "sentiment": -0.703, "narrative": "Economic skepticism", "region_id": "ireland", "ocr": null}
-{"id": "fdw-be37f5472b", "sentiment": 0.486, "narrative": "Work-life balance appeal", "region_id": "los-angeles", "ocr": null}
-{"id": "fdw-524dc0bd6d", "sentiment": 0.514, "narrative": "Wellbeing & productivity win", "region_id": "united-kingdom", "ocr": null}
-{"id": "fdw-cc2073ce2a", "sentiment": 0.011, "narrative": "Economic skepticism", "region_id": "sao-paulo", "ocr": null}
-{"id": "fdw-efc87fe701", "sentiment": -0.302, "narrative": "Economic skepticism", "region_id": "dubai", "ocr": null}
-{"id": "fdw-dba1105cfb", "sentiment": 0.3, "narrative": "Work-life balance hopes", "region_id": "seoul", "ocr": null}
-{"id": "fdw-317f646341", "sentiment": 0.73, "narrative": "Work-life balance appeal", "region_id": "buenos-aires", "ocr": null}
-{"id": "fdw-416fadd2e3", "sentiment": -0.381, "narrative": "Longer days instead", "region_id": "bangalore", "ocr": null}
-{"id": "fdw-9b5e49189f", "sentiment": 0.609, "narrative": "Burnout relief", "region_id": "new-york", "ocr": null}
-{"id": "fdw-49c91f63f7", "sentiment": -0.44, "narrative": "Longer days instead", "region_id": "bangalore", "ocr": null}
-{"id": "fdw-95540325fc", "sentiment": -0.357, "narrative": "Culture won't change", "region_id": "tokyo", "ocr": null}
-{"id": "fdw-e10457cc08", "sentiment": -0.041, "narrative": "Economic skepticism", "region_id": "arizona-us", "ocr": null}
-{"id": "fdw-d76e3bd9d8", "sentiment": 0.748, "narrative": "Burnout relief", "region_id": "new-york", "ocr": null}
-{"id": "fdw-6b1dabaa22", "sentiment": -0.671, "narrative": "Economic skepticism", "region_id": "johor", "ocr": null}
-{"id": "fdw-0f174b4d9b", "sentiment": 0.451, "narrative": "Work-life balance appeal", "region_id": "kuala-lumpur", "ocr": null}
-{"id": "fdw-7d0aa1ca24", "sentiment": 0.451, "narrative": "Lifestyle & productivity", "region_id": "sydney", "ocr": null}
-{"id": "fdw-c63858bec1", "sentiment": 0.084, "narrative": "Work-life balance appeal", "region_id": "singapore", "ocr": null}
-{"id": "fdw-48c78258b8", "sentiment": 0.383, "narrative": "Pilot success & work-life balance", "region_id": "germany", "ocr": null}
-{"id": "fdw-2872051902", "sentiment": -0.468, "narrative": "Economic skepticism", "region_id": "mexico-city", "ocr": null}
-{"id": "fdw-173cb272c6", "sentiment": -0.609, "narrative": "Longer days instead", "region_id": "bangalore", "ocr": null}
-{"id": "fdw-3e16bf6cac", "sentiment": 0.548, "narrative": "Pilot success & work-life balance", "region_id": "germany", "ocr": null}
-{"id": "fdw-48a1133244", "sentiment": 0.458, "narrative": "Work-life balance appeal", "region_id": "delhi", "ocr": null}
-{"id": "fdw-20b770657c", "sentiment": -0.189, "narrative": "Curious / neutral", "region_id": "chicago", "ocr": null}
-{"id": "fdw-9d20faabdd", "sentiment": 0.404, "narrative": "Work-life balance appeal", "region_id": "johor", "ocr": null}
-{"id": "fdw-28005ec99f", "sentiment": 0.506, "narrative": "Work-life balance appeal", "region_id": "cape-town", "ocr": null}
-{"id": "fdw-a32d69b507", "sentiment": 0.649, "narrative": "Lifestyle & productivity", "region_id": "sydney", "ocr": "Friday off hits different"}
-{"id": "fdw-267df613d6", "sentiment": 0.565, "narrative": "Work-life balance appeal", "region_id": "lagos", "ocr": null}
-{"id": "fdw-1517d812c2", "sentiment": -0.079, "narrative": "Doesn't work for all sectors", "region_id": "united-kingdom", "ocr": null}
-{"id": "fdw-20545ca25c", "sentiment": -0.267, "narrative": "Pay cut & competitiveness fears", "region_id": "seoul", "ocr": null}
-{"id": "fdw-61b518a75c", "sentiment": 0.251, "narrative": "Work-life balance appeal", "region_id": "paris", "ocr": null}
-{"id": "fdw-6ceeb77b8d", "sentiment": 0.319, "narrative": "Work-life balance appeal", "region_id": "kuala-lumpur", "ocr": "FRIDAY = WEEKEND NOW"}
-{"id": "fdw-112ad83e52", "sentiment": 0.223, "narrative": "Work-life balance appeal", "region_id": "ho-chi-minh-city", "ocr": null}
-{"id": "fdw-fd5773f15e", "sentiment": 0.568, "narrative": "Wellbeing & productivity win", "region_id": "united-kingdom", "ocr": null}
-{"id": "fdw-ba62ccac27", "sentiment": -0.075, "narrative": "Curious / neutral", "region_id": "manila", "ocr": null}
-{"id": "fdw-45db787420", "sentiment": 0.764, "narrative": "Burnout relief", "region_id": "new-york", "ocr": null}
-{"id": "fdw-5388855417", "sentiment": -0.552, "narrative": "Longer days instead", "region_id": "bangalore", "ocr": null}
-{"id": "fdw-d1885827b0", "sentiment": 0.475, "narrative": "Government push & childcare", "region_id": "tokyo", "ocr": null}
-{"id": "fdw-30b45d91ea", "sentiment": 0.047, "narrative": "Work-life balance appeal", "region_id": "sao-paulo", "ocr": null}
-{"id": "fdw-5fc67391d1", "sentiment": 0.579, "narrative": "Work-life balance appeal", "region_id": "mumbai", "ocr": null}
-{"id": "fdw-80df5299c6", "sentiment": -0.465, "narrative": "Economic skepticism", "region_id": "nairobi", "ocr": null}
-{"id": "fdw-0777a273a3", "sentiment": 0.069, "narrative": "Curious / neutral", "region_id": "los-angeles", "ocr": null}
-{"id": "fdw-9ceeeef1bc", "sentiment": 0.819, "narrative": "Wellbeing & productivity win", "region_id": "united-kingdom", "ocr": "Me at 10am on a Friday under the 4-day week"}
+{"id": "fdw-4926201699", "sentiment": -0.479, "narrative": "Longer days instead", "region_id": "bangalore", "ocr": null}
+{"id": "fdw-065026f4d4", "sentiment": 0.571, "narrative": "Work-life balance appeal", "region_id": "kuala-lumpur", "ocr": "FRIDAY = WEEKEND NOW"}
+{"id": "fdw-17615c10c8", "sentiment": 0.375, "narrative": "Burnout relief", "region_id": "new-york", "ocr": null}
+{"id": "fdw-2711a9c9ad", "sentiment": 0.704, "narrative": "Pilot success & work-life balance", "region_id": "germany", "ocr": null}
+{"id": "fdw-99096be503", "sentiment": 0.282, "narrative": "Burnout relief", "region_id": "new-york", "ocr": null}
+{"id": "fdw-8fc94866c4", "sentiment": -0.418, "narrative": "Longer days instead", "region_id": "bangalore", "ocr": null}
+{"id": "fdw-335d56b0ad", "sentiment": 0.326, "narrative": "Recruitment & retention edge", "region_id": "united-kingdom", "ocr": null}
+{"id": "fdw-d138c42199", "sentiment": 0.566, "narrative": "Lifestyle & productivity", "region_id": "sydney", "ocr": null}
+{"id": "fdw-1ca6a7c9f4", "sentiment": 0.689, "narrative": "Wellbeing & productivity win", "region_id": "united-kingdom", "ocr": "Me at 10am on a Friday under the 4-day week"}
+{"id": "fdw-f7e151d833", "sentiment": 0.072, "narrative": "Government push & childcare", "region_id": "tokyo", "ocr": "都庁 週休3日"}
+{"id": "fdw-f066c3c823", "sentiment": 0.395, "narrative": "Lifestyle & productivity", "region_id": "sydney", "ocr": null}
+{"id": "fdw-985475ea23", "sentiment": 0.634, "narrative": "Work-life balance appeal", "region_id": "cairo", "ocr": "FRIDAY = WEEKEND NOW"}
+{"id": "fdw-45c06f1ea3", "sentiment": 0.304, "narrative": "Curious / neutral", "region_id": "texas-us", "ocr": null}
+{"id": "fdw-f7d6d587a4", "sentiment": -0.126, "narrative": "Pay cut & competitiveness fears", "region_id": "seoul", "ocr": null}
+{"id": "fdw-449be00141", "sentiment": -0.539, "narrative": "Longer days instead", "region_id": "bangalore", "ocr": null}
+{"id": "fdw-cba144810d", "sentiment": -0.281, "narrative": "Small business pushback", "region_id": "sydney", "ocr": null}
+{"id": "fdw-ca29ce2285", "sentiment": 0.979, "narrative": "Wellbeing & productivity win", "region_id": "united-kingdom", "ocr": null}
+{"id": "fdw-4d0cbe79d1", "sentiment": 0.465, "narrative": "Work-life balance hopes", "region_id": "seoul", "ocr": null}
+{"id": "fdw-d57c700cc4", "sentiment": 0.67, "narrative": "Work-life balance appeal", "region_id": "mexico-city", "ocr": null}
+{"id": "fdw-668bab17f6", "sentiment": 0.606, "narrative": "Work-life balance appeal", "region_id": "los-angeles", "ocr": null}
+{"id": "fdw-035f729da8", "sentiment": -0.342, "narrative": "Curious / neutral", "region_id": "bogota", "ocr": null}
+{"id": "fdw-b14a4d5786", "sentiment": -0.241, "narrative": "Longer days instead", "region_id": "bangalore", "ocr": null}
+{"id": "fdw-0dfc4d7fbc", "sentiment": -0.469, "narrative": "Longer days instead", "region_id": "bangalore", "ocr": null}
+{"id": "fdw-58e153d73f", "sentiment": 0.534, "narrative": "Lifestyle & productivity", "region_id": "sydney", "ocr": null}
+{"id": "fdw-88921e75a4", "sentiment": -0.372, "narrative": "Economic competitiveness worries", "region_id": "germany", "ocr": null}
+{"id": "fdw-aa8f19dc17", "sentiment": 0.567, "narrative": "Lifestyle & productivity", "region_id": "sydney", "ocr": "Friday off hits different"}
+{"id": "fdw-48f52889b4", "sentiment": 0.323, "narrative": "Would love real 4-day week", "region_id": "bangalore", "ocr": null}
+{"id": "fdw-9f448165a2", "sentiment": 0.149, "narrative": "Curious / neutral", "region_id": "paris", "ocr": null}
+{"id": "fdw-865337b529", "sentiment": 0.483, "narrative": "Wellbeing & productivity win", "region_id": "united-kingdom", "ocr": null}
+{"id": "fdw-5b114112c3", "sentiment": 0.372, "narrative": "Wellbeing & productivity win", "region_id": "united-kingdom", "ocr": null}
+{"id": "fdw-229d1d6221", "sentiment": 0.515, "narrative": "Recruitment & retention edge", "region_id": "united-kingdom", "ocr": null}
+{"id": "fdw-410c9a7536", "sentiment": 0.037, "narrative": "Hustle culture skepticism", "region_id": "new-york", "ocr": null}
+{"id": "fdw-a87b2fceb5", "sentiment": 0.498, "narrative": "Work-life balance appeal", "region_id": "cairo", "ocr": null}
+{"id": "fdw-f74d175ea8", "sentiment": 0.821, "narrative": "Work-life balance appeal", "region_id": "sao-paulo", "ocr": "FRIDAY = WEEKEND NOW"}
+{"id": "fdw-8e3ec745e8", "sentiment": -0.302, "narrative": "Culture won't change", "region_id": "tokyo", "ocr": null}
+{"id": "fdw-5357b09939", "sentiment": 0.737, "narrative": "Pilot success & work-life balance", "region_id": "germany", "ocr": null}
+{"id": "fdw-7c6d30d71a", "sentiment": -0.232, "narrative": "Economic skepticism", "region_id": "kuala-lumpur", "ocr": null}
+{"id": "fdw-ad1b535651", "sentiment": 0.573, "narrative": "Work-life balance appeal", "region_id": "texas-us", "ocr": null}
 {"id": "fdw-18d2e948c7", "sentiment": -0.233, "narrative": "Economic skepticism", "region_id": "ireland", "ocr": null}
-{"id": "fdw-ed15daf7a8", "sentiment": -0.002, "narrative": "Curious / neutral", "region_id": "bogota", "ocr": null}
-{"id": "fdw-58a69023c0", "sentiment": -0.299, "narrative": "Culture won't change", "region_id": "tokyo", "ocr": null}
-{"id": "fdw-af7718a513", "sentiment": 0.062, "narrative": "Curious / neutral", "region_id": "toronto", "ocr": null}
-{"id": "fdw-418c0ac5ad", "sentiment": -0.374, "narrative": "Culture won't change", "region_id": "tokyo", "ocr": null}
-{"id": "fdw-43ac0aaae7", "sentiment": 0.607, "narrative": "Pilot success & work-life balance", "region_id": "germany", "ocr": null}
-{"id": "fdw-dd72cb74bb", "sentiment": 0.701, "narrative": "Work-life balance appeal", "region_id": "warsaw", "ocr": null}
-{"id": "fdw-87f22267da", "sentiment": 0.547, "narrative": "Would love real 4-day week", "region_id": "bangalore", "ocr": null}
-{"id": "fdw-7c1a53a5a4", "sentiment": 0.763, "narrative": "Lifestyle & productivity", "region_id": "sydney", "ocr": null}
-{"id": "fdw-a08ae58e22", "sentiment": -0.27, "narrative": "Economic skepticism", "region_id": "istanbul", "ocr": null}
-{"id": "fdw-979f4014fc", "sentiment": -0.11, "narrative": "Curious / neutral", "region_id": "toronto", "ocr": null}
-{"id": "fdw-dc5a83794b", "sentiment": -0.099, "narrative": "Curious / neutral", "region_id": "paris", "ocr": null}
-{"id": "fdw-63f0ee9402", "sentiment": 0.621, "narrative": "Work-life balance appeal", "region_id": "mexico-city", "ocr": null}
-{"id": "fdw-ae23d4e5f7", "sentiment": 0.434, "narrative": "Work-life balance appeal", "region_id": "hyderabad", "ocr": null}
-{"id": "fdw-5033163a32", "sentiment": 0.496, "narrative": "Work-life balance hopes", "region_id": "seoul", "ocr": null}
-{"id": "fdw-4380245e53", "sentiment": 0.924, "narrative": "Wellbeing & productivity win", "region_id": "united-kingdom", "ocr": null}
-{"id": "fdw-531eecee3d", "sentiment": 0.393, "narrative": "Would love real 4-day week", "region_id": "bangalore", "ocr": null}
-{"id": "fdw-68e45718f9", "sentiment": 0.491, "narrative": "Wellbeing & productivity win", "region_id": "united-kingdom", "ocr": "4 DAY WEEK - 1 YEAR ON"}
-{"id": "fdw-0b6348b430", "sentiment": 0.788, "narrative": "Work-life balance appeal", "region_id": "delhi", "ocr": "FRIDAY = WEEKEND NOW"}
-{"id": "fdw-17c47d8109", "sentiment": 0.319, "narrative": "Burnout relief", "region_id": "new-york", "ocr": null}
-{"id": "fdw-50549212d3", "sentiment": -0.037, "narrative": "Curious / neutral", "region_id": "texas-us", "ocr": null}
-{"id": "fdw-7a41de9884", "sentiment": 0.861, "narrative": "Pilot success & work-life balance", "region_id": "germany", "ocr": null}
-{"id": "fdw-9d35fe605e", "sentiment": -0.186, "narrative": "Hustle culture skepticism", "region_id": "new-york", "ocr": null}
+{"id": "fdw-7a5109ec06", "sentiment": 0.606, "narrative": "Lifestyle & productivity", "region_id": "sydney", "ocr": null}
+{"id": "fdw-5b01dcc76e", "sentiment": -0.304, "narrative": "Economic skepticism", "region_id": "cape-town", "ocr": null}
+{"id": "fdw-984866d537", "sentiment": 0.612, "narrative": "Burnout relief", "region_id": "new-york", "ocr": null}
+{"id": "fdw-1c9f853be4", "sentiment": 0.474, "narrative": "Work-life balance appeal", "region_id": "warsaw", "ocr": "FRIDAY = WEEKEND NOW"}
+{"id": "fdw-7aaec15398", "sentiment": 0.496, "narrative": "Government push & childcare", "region_id": "tokyo", "ocr": null}
+{"id": "fdw-1215189992", "sentiment": -0.308, "narrative": "Pay cut & competitiveness fears", "region_id": "seoul", "ocr": null}
+{"id": "fdw-31d16dfaf0", "sentiment": -0.126, "narrative": "Hustle culture skepticism", "region_id": "new-york", "ocr": null}
+{"id": "fdw-3174988296", "sentiment": 0.559, "narrative": "Pilot success & work-life balance", "region_id": "germany", "ocr": null}
+{"id": "fdw-af9506bff3", "sentiment": 0.606, "narrative": "Recruitment & retention edge", "region_id": "united-kingdom", "ocr": null}
+{"id": "fdw-353f1c6f21", "sentiment": -0.445, "narrative": "Doesn't work for all sectors", "region_id": "united-kingdom", "ocr": null}
+{"id": "fdw-37c0f1c587", "sentiment": -0.374, "narrative": "Small business pushback", "region_id": "sydney", "ocr": null}
+{"id": "fdw-0626fd1a04", "sentiment": 0.372, "narrative": "Pilot success & work-life balance", "region_id": "germany", "ocr": null}
+{"id": "fdw-cabc752115", "sentiment": 0.031, "narrative": "Economic skepticism", "region_id": "chicago", "ocr": null}
+{"id": "fdw-c05b5ceaa3", "sentiment": -0.537, "narrative": "Culture won't change", "region_id": "tokyo", "ocr": null}
+{"id": "fdw-a03203d425", "sentiment": -0.284, "narrative": "Curious / neutral", "region_id": "taipei", "ocr": null}
+{"id": "fdw-65d2073ba4", "sentiment": 0.336, "narrative": "Work-life balance appeal", "region_id": "shanghai", "ocr": null}
+{"id": "fdw-f3d012a318", "sentiment": 0.474, "narrative": "Work-life balance hopes", "region_id": "seoul", "ocr": null}
+{"id": "fdw-73a33e82e0", "sentiment": 0.319, "narrative": "Work-life balance appeal", "region_id": "madrid", "ocr": null}
+{"id": "fdw-eb797f15e7", "sentiment": 0.672, "narrative": "Pilot success & work-life balance", "region_id": "germany", "ocr": null}
+{"id": "fdw-04d48517a4", "sentiment": 0.486, "narrative": "Burnout relief", "region_id": "new-york", "ocr": null}
+{"id": "fdw-f8e6d3cfcc", "sentiment": -0.487, "narrative": "Pay cut & competitiveness fears", "region_id": "seoul", "ocr": null}
+{"id": "fdw-b67597a8cb", "sentiment": -0.387, "narrative": "Economic skepticism", "region_id": "toronto", "ocr": null}
+{"id": "fdw-2e3a13ff7f", "sentiment": -0.254, "narrative": "Small business pushback", "region_id": "sydney", "ocr": null}
 {"id": "fdw-75465b68ed", "sentiment": -0.394, "narrative": "Economic skepticism", "region_id": "ireland", "ocr": null}
-{"id": "fdw-ed6bf3997b", "sentiment": 0.033, "narrative": "Curious / neutral", "region_id": "dubai", "ocr": null}
-{"id": "fdw-1da1043fa2", "sentiment": 0.374, "narrative": "Work-life balance appeal", "region_id": "los-angeles", "ocr": null}
-{"id": "fdw-8faa08f82d", "sentiment": 0.033, "narrative": "Pay cut & competitiveness fears", "region_id": "seoul", "ocr": null}
-{"id": "fdw-f6d5bd2fa9", "sentiment": -0.316, "narrative": "Economic skepticism", "region_id": "chicago", "ocr": null}
-{"id": "fdw-62ad17efa3", "sentiment": 0.455, "narrative": "Government push & childcare", "region_id": "tokyo", "ocr": null}
-{"id": "fdw-779c7309cc", "sentiment": 0.025, "narrative": "Curious / neutral", "region_id": "toronto", "ocr": null}
-{"id": "fdw-790bfb22e2", "sentiment": 0.621, "narrative": "Lifestyle & productivity", "region_id": "sydney", "ocr": null}
-{"id": "fdw-2145bf1f7c", "sentiment": 0.799, "narrative": "Would love real 4-day week", "region_id": "bangalore", "ocr": null}
-{"id": "fdw-c03c1eea18", "sentiment": 0.97, "narrative": "Work-life balance appeal", "region_id": "mexico-city", "ocr": null}
-{"id": "fdw-0d1b5694af", "sentiment": -0.081, "narrative": "Curious / neutral", "region_id": "bangkok", "ocr": null}
-{"id": "fdw-20171a1d67", "sentiment": -0.06, "narrative": "Pay cut & competitiveness fears", "region_id": "seoul", "ocr": null}
-{"id": "fdw-f4c9585ce2", "sentiment": 0.708, "narrative": "Work-life balance appeal", "region_id": "hyderabad", "ocr": "FRIDAY = WEEKEND NOW"}
-{"id": "fdw-7c05cac0b3", "sentiment": 0.898, "narrative": "Work-life balance appeal", "region_id": "madrid", "ocr": "FRIDAY = WEEKEND NOW"}
-{"id": "fdw-9d28f7d484", "sentiment": 0.493, "narrative": "Wellbeing & productivity win", "region_id": "united-kingdom", "ocr": null}
-{"id": "fdw-3bd1c07e59", "sentiment": 0.175, "narrative": "Burnout relief", "region_id": "new-york", "ocr": null}
-{"id": "fdw-d20ddfff8a", "sentiment": 0.587, "narrative": "Government push & childcare", "region_id": "tokyo", "ocr": null}
-{"id": "fdw-5d5234d7a8", "sentiment": -0.335, "narrative": "Economic skepticism", "region_id": "ho-chi-minh-city", "ocr": null}
-{"id": "fdw-f602cb00e1", "sentiment": -0.486, "narrative": "Economic skepticism", "region_id": "sweden", "ocr": null}
-{"id": "fdw-bb7ba3cfa4", "sentiment": 0.317, "narrative": "Would love real 4-day week", "region_id": "bangalore", "ocr": null}
-{"id": "fdw-6c63d5f7d3", "sentiment": 0.847, "narrative": "Wellbeing & productivity win", "region_id": "united-kingdom", "ocr": null}
-{"id": "fdw-23d8a7978b", "sentiment": 0.694, "narrative": "Work-life balance appeal", "region_id": "warsaw", "ocr": "FRIDAY = WEEKEND NOW"}
-{"id": "fdw-53887aa44e", "sentiment": 0.049, "narrative": "Curious / neutral", "region_id": "vancouver", "ocr": null}
-{"id": "fdw-f7bc931e80", "sentiment": 0.532, "narrative": "Pilot success & work-life balance", "region_id": "germany", "ocr": null}
-{"id": "fdw-09bc5cdd4b", "sentiment": 0.554, "narrative": "Pilot success & work-life balance", "region_id": "germany", "ocr": null}
-{"id": "fdw-45b28b229c", "sentiment": 0.101, "narrative": "Curious / neutral", "region_id": "texas-us", "ocr": null}
-{"id": "fdw-78e09f4c7e", "sentiment": -0.191, "narrative": "Economic skepticism", "region_id": "auckland", "ocr": null}
-{"id": "fdw-d57cb21b19", "sentiment": 0.433, "narrative": "Work-life balance appeal", "region_id": "manila", "ocr": "FRIDAY = WEEKEND NOW"}
-{"id": "fdw-d1c208acf2", "sentiment": -0.069, "narrative": "Curious / neutral", "region_id": "sao-paulo", "ocr": null}
-{"id": "fdw-217d3ee861", "sentiment": -0.091, "narrative": "Economic skepticism", "region_id": "bogota", "ocr": null}
-{"id": "fdw-7d48319590", "sentiment": 0.342, "narrative": "Curious / neutral", "region_id": "dubai", "ocr": null}
-{"id": "fdw-beeb201dc6", "sentiment": 0.585, "narrative": "Work-life balance appeal", "region_id": "los-angeles", "ocr": null}
-{"id": "fdw-2236fe778a", "sentiment": -0.595, "narrative": "Longer days instead", "region_id": "bangalore", "ocr": null}
-{"id": "fdw-bebfe60a34", "sentiment": 0.56, "narrative": "Work-life balance appeal", "region_id": "paris", "ocr": "FRIDAY = WEEKEND NOW"}
-{"id": "fdw-ad0e852320", "sentiment": -0.59, "narrative": "Small business pushback", "region_id": "sydney", "ocr": null}
-{"id": "fdw-bc634cdd8d", "sentiment": 0.413, "narrative": "Would love real 4-day week", "region_id": "bangalore", "ocr": null}
-{"id": "fdw-36a3268213", "sentiment": 0.615, "narrative": "Work-life balance appeal", "region_id": "sao-paulo", "ocr": "FRIDAY = WEEKEND NOW"}
-{"id": "fdw-b4d4993ab5", "sentiment": 0.944, "narrative": "Wellbeing & productivity win", "region_id": "united-kingdom", "ocr": "Me at 10am on a Friday under the 4-day week"}
-{"id": "fdw-c93cb10d7f", "sentiment": 0.444, "narrative": "Pilot success & work-life balance", "region_id": "germany", "ocr": "Vier-Tage-Woche: Stress -, Produktivität ="}
-{"id": "fdw-bc4a90f8b9", "sentiment": 0.333, "narrative": "Burnout relief", "region_id": "new-york", "ocr": null}
-{"id": "fdw-7732ea3b31", "sentiment": 0.211, "narrative": "Work-life balance appeal", "region_id": "bogota", "ocr": null}
-{"id": "fdw-075a6b4822", "sentiment": 0.682, "narrative": "Work-life balance hopes", "region_id": "seoul", "ocr": null}
-{"id": "fdw-c78df71784", "sentiment": 0.466, "narrative": "Pilot success & work-life balance", "region_id": "germany", "ocr": null}
-{"id": "fdw-26bea1d934", "sentiment": 0.569, "narrative": "Burnout relief", "region_id": "new-york", "ocr": null}
-{"id": "fdw-31cb1161cb", "sentiment": 0.927, "narrative": "Wellbeing & productivity win", "region_id": "united-kingdom", "ocr": null}
-{"id": "fdw-9bb3e92ad1", "sentiment": 0.74, "narrative": "Work-life balance appeal", "region_id": "kuala-lumpur", "ocr": null}
-{"id": "fdw-ca9cf3e144", "sentiment": -0.428, "narrative": "Economic skepticism", "region_id": "cairo", "ocr": null}
-{"id": "fdw-c9c70873f9", "sentiment": 0.606, "narrative": "Work-life balance hopes", "region_id": "seoul", "ocr": null}
-{"id": "fdw-bd42c447d0", "sentiment": 0.362, "narrative": "Work-life balance appeal", "region_id": "sweden", "ocr": null}
-{"id": "fdw-f9acf5fb67", "sentiment": 0.353, "narrative": "Work-life balance appeal", "region_id": "warsaw", "ocr": "FRIDAY = WEEKEND NOW"}
-{"id": "fdw-cd13cdc432", "sentiment": -0.277, "narrative": "Economic skepticism", "region_id": "delhi", "ocr": null}
-{"id": "fdw-09426f0d34", "sentiment": -0.204, "narrative": "Curious / neutral", "region_id": "lagos", "ocr": null}
-{"id": "fdw-ef1355c24c", "sentiment": -0.135, "narrative": "Curious / neutral", "region_id": "ho-chi-minh-city", "ocr": null}
-{"id": "fdw-da20742aef", "sentiment": -0.407, "narrative": "Culture won't change", "region_id": "tokyo", "ocr": null}
-{"id": "fdw-ef046a4bcd", "sentiment": 0.08, "narrative": "Curious / neutral", "region_id": "nairobi", "ocr": null}
-{"id": "fdw-b93fc7039a", "sentiment": 0.212, "narrative": "Curious / neutral", "region_id": "paris", "ocr": null}
-{"id": "fdw-16e0eecf6a", "sentiment": 0.609, "narrative": "Burnout relief", "region_id": "new-york", "ocr": null}
-{"id": "fdw-6ba14341d9", "sentiment": 0.535, "narrative": "Wellbeing & productivity win", "region_id": "united-kingdom", "ocr": null}
-{"id": "fdw-b9da83b405", "sentiment": 0.603, "narrative": "Lifestyle & productivity", "region_id": "sydney", "ocr": null}
-{"id": "fdw-f83a409d3b", "sentiment": 0.441, "narrative": "Work-life balance appeal", "region_id": "dubai", "ocr": null}
-{"id": "fdw-deec02f93b", "sentiment": 0.208, "narrative": "Curious / neutral", "region_id": "cape-town", "ocr": null}
-{"id": "fdw-d1931677ac", "sentiment": 0.536, "narrative": "Pilot success & work-life balance", "region_id": "germany", "ocr": null}
-{"id": "fdw-a1b466856f", "sentiment": 0.116, "narrative": "Curious / neutral", "region_id": "cairo", "ocr": null}
-{"id": "fdw-9550bc6e70", "sentiment": 0.793, "narrative": "Work-life balance hopes", "region_id": "seoul", "ocr": "주 4.5일제"}
-{"id": "fdw-524d6ebc8c", "sentiment": 0.564, "narrative": "Work-life balance appeal", "region_id": "auckland", "ocr": null}
-{"id": "fdw-044924c10d", "sentiment": 0.043, "narrative": "Curious / neutral", "region_id": "delhi", "ocr": null}
-{"id": "fdw-5879a7f164", "sentiment": 0.638, "narrative": "Lifestyle & productivity", "region_id": "sydney", "ocr": null}
-{"id": "fdw-ad26bc2382", "sentiment": -0.54, "narrative": "Economic skepticism", "region_id": "istanbul", "ocr": null}
-{"id": "fdw-7446893536", "sentiment": -0.566, "narrative": "Longer days instead", "region_id": "bangalore", "ocr": "4-day week they said... 12 hours a day they meant"}
-{"id": "fdw-102c51c77a", "sentiment": -0.418, "narrative": "Economic skepticism", "region_id": "ho-chi-minh-city", "ocr": null}
-{"id": "fdw-4ea1f37bb7", "sentiment": 0.212, "narrative": "Work-life balance hopes", "region_id": "seoul", "ocr": null}
-{"id": "fdw-46a64dd459", "sentiment": 0.681, "narrative": "Work-life balance appeal", "region_id": "chicago", "ocr": null}
-{"id": "fdw-33a285ffb1", "sentiment": 0.657, "narrative": "Wellbeing & productivity win", "region_id": "united-kingdom", "ocr": null}
-{"id": "fdw-573befe902", "sentiment": 0.644, "narrative": "Pilot success & work-life balance", "region_id": "germany", "ocr": null}
-{"id": "fdw-7297c29bec", "sentiment": 0.311, "narrative": "Work-life balance appeal", "region_id": "los-angeles", "ocr": "FRIDAY = WEEKEND NOW"}
-{"id": "fdw-89db959169", "sentiment": 0.101, "narrative": "Curious / neutral", "region_id": "arizona-us", "ocr": null}
-{"id": "fdw-14827fb9fc", "sentiment": 0.071, "narrative": "Curious / neutral", "region_id": "manila", "ocr": null}
-{"id": "fdw-52e25c60f7", "sentiment": 0.559, "narrative": "Government push & childcare", "region_id": "tokyo", "ocr": null}
-{"id": "fdw-553546a908", "sentiment": 0.414, "narrative": "Would love real 4-day week", "region_id": "bangalore", "ocr": null}
+{"id": "fdw-0697574cb7", "sentiment": -0.463, "narrative": "Longer days instead", "region_id": "bangalore", "ocr": null}
+{"id": "fdw-62e17cae94", "sentiment": 0.024, "narrative": "Economic skepticism", "region_id": "mexico-city", "ocr": null}
+{"id": "fdw-6c32b25b92", "sentiment": 1.0, "narrative": "Wellbeing & productivity win", "region_id": "united-kingdom", "ocr": null}
+{"id": "fdw-61f79ff1b9", "sentiment": -0.339, "narrative": "Curious / neutral", "region_id": "warsaw", "ocr": null}
+{"id": "fdw-44e6fd5a8c", "sentiment": 0.612, "narrative": "Government push & childcare", "region_id": "tokyo", "ocr": null}
+{"id": "fdw-c7f52e8d1c", "sentiment": -0.51, "narrative": "Longer days instead", "region_id": "bangalore", "ocr": null}
+{"id": "fdw-1d4bde235c", "sentiment": 0.233, "narrative": "Burnout relief", "region_id": "new-york", "ocr": null}
+{"id": "fdw-19a96ca39d", "sentiment": 0.567, "narrative": "Recruitment & retention edge", "region_id": "united-kingdom", "ocr": null}
+{"id": "fdw-2f03ba5f27", "sentiment": 0.425, "narrative": "Burnout relief", "region_id": "new-york", "ocr": null}
+{"id": "fdw-d6f693a366", "sentiment": -0.166, "narrative": "Curious / neutral", "region_id": "istanbul", "ocr": null}
+{"id": "fdw-6b46602179", "sentiment": -0.131, "narrative": "Curious / neutral", "region_id": "jakarta", "ocr": null}
+{"id": "fdw-3f976a81d3", "sentiment": -0.247, "narrative": "Culture won't change", "region_id": "tokyo", "ocr": null}
+{"id": "fdw-12efce1d7a", "sentiment": 0.555, "narrative": "Work-life balance hopes", "region_id": "seoul", "ocr": null}
+{"id": "fdw-8edc60f62f", "sentiment": 0.416, "narrative": "Burnout relief", "region_id": "new-york", "ocr": null}
+{"id": "fdw-1cfa76221e", "sentiment": 0.434, "narrative": "Work-life balance appeal", "region_id": "lagos", "ocr": null}
+{"id": "fdw-56b6c11d1a", "sentiment": 0.585, "narrative": "Burnout relief", "region_id": "new-york", "ocr": null}
+{"id": "fdw-7d10f0dc74", "sentiment": 0.343, "narrative": "Wellbeing & productivity win", "region_id": "united-kingdom", "ocr": null}
+{"id": "fdw-8e3d05b12d", "sentiment": 0.199, "narrative": "Government push & childcare", "region_id": "tokyo", "ocr": null}
+{"id": "fdw-ceeee94c84", "sentiment": -0.362, "narrative": "Longer days instead", "region_id": "bangalore", "ocr": null}
+{"id": "fdw-f0d5053082", "sentiment": -0.162, "narrative": "Economic skepticism", "region_id": "delhi", "ocr": null}
+{"id": "fdw-d08a3f181d", "sentiment": 0.519, "narrative": "Burnout relief", "region_id": "new-york", "ocr": null}
+{"id": "fdw-9bfc78ee47", "sentiment": -0.421, "narrative": "Economic competitiveness worries", "region_id": "germany", "ocr": null}
+{"id": "fdw-65d21646c2", "sentiment": 0.572, "narrative": "Would love real 4-day week", "region_id": "bangalore", "ocr": null}
+{"id": "fdw-ff834ae284", "sentiment": 0.687, "narrative": "Work-life balance hopes", "region_id": "seoul", "ocr": null}
+{"id": "fdw-0df37d1dc2", "sentiment": 0.374, "narrative": "Burnout relief", "region_id": "new-york", "ocr": null}
+{"id": "fdw-313a421aa9", "sentiment": 0.56, "narrative": "Lifestyle & productivity", "region_id": "sydney", "ocr": null}
+{"id": "fdw-587770aefc", "sentiment": 0.379, "narrative": "Lifestyle & productivity", "region_id": "sydney", "ocr": null}
+{"id": "fdw-2e09efc670", "sentiment": 0.426, "narrative": "Work-life balance hopes", "region_id": "seoul", "ocr": null}
+{"id": "fdw-789e802211", "sentiment": 0.248, "narrative": "Work-life balance appeal", "region_id": "bogota", "ocr": null}
+{"id": "fdw-0fb649918d", "sentiment": -0.318, "narrative": "Culture won't change", "region_id": "tokyo", "ocr": null}
+{"id": "fdw-597e5e6539", "sentiment": 0.554, "narrative": "Work-life balance appeal", "region_id": "chicago", "ocr": "FRIDAY = WEEKEND NOW"}
+{"id": "fdw-723e9caa6a", "sentiment": 0.316, "narrative": "Work-life balance appeal", "region_id": "manila", "ocr": "FRIDAY = WEEKEND NOW"}
+{"id": "fdw-ead2fe74f9", "sentiment": -0.403, "narrative": "Economic competitiveness worries", "region_id": "germany", "ocr": null}
+{"id": "fdw-1e46998c5e", "sentiment": 1.0, "narrative": "Wellbeing & productivity win", "region_id": "united-kingdom", "ocr": null}
+{"id": "fdw-eab37666cd", "sentiment": 0.386, "narrative": "Recruitment & retention edge", "region_id": "united-kingdom", "ocr": null}
+{"id": "fdw-66362dfc0c", "sentiment": -0.242, "narrative": "Small business pushback", "region_id": "sydney", "ocr": null}
+{"id": "fdw-2160229cde", "sentiment": 0.029, "narrative": "Economic skepticism", "region_id": "jakarta", "ocr": null}
+{"id": "fdw-372c5355c3", "sentiment": -0.289, "narrative": "Doesn't work for all sectors", "region_id": "united-kingdom", "ocr": null}
+{"id": "fdw-3c4686efa7", "sentiment": 0.508, "narrative": "Recruitment & retention edge", "region_id": "united-kingdom", "ocr": null}
+{"id": "fdw-22ad9d44df", "sentiment": 0.726, "narrative": "Burnout relief", "region_id": "new-york", "ocr": null}
+{"id": "fdw-c2c18b4898", "sentiment": 0.67, "narrative": "Wellbeing & productivity win", "region_id": "united-kingdom", "ocr": null}
+{"id": "fdw-f750cdda6b", "sentiment": -0.083, "narrative": "Culture won't change", "region_id": "tokyo", "ocr": null}
+{"id": "fdw-fc254da56e", "sentiment": 0.593, "narrative": "Burnout relief", "region_id": "new-york", "ocr": null}
+{"id": "fdw-51e18141c9", "sentiment": -0.101, "narrative": "Economic skepticism", "region_id": "mexico-city", "ocr": null}
+{"id": "fdw-2faa97b088", "sentiment": -0.181, "narrative": "Economic competitiveness worries", "region_id": "germany", "ocr": null}
+{"id": "fdw-fe71a9796a", "sentiment": 0.328, "narrative": "Pilot success & work-life balance", "region_id": "germany", "ocr": "Vier-Tage-Woche: Stress -, Produktivität ="}
+{"id": "fdw-d3fc5f246f", "sentiment": -0.632, "narrative": "Longer days instead", "region_id": "bangalore", "ocr": null}
+{"id": "fdw-e085bb75ef", "sentiment": 0.393, "narrative": "Work-life balance hopes", "region_id": "seoul", "ocr": "주 4.5일제"}
+{"id": "fdw-f1c9e5540a", "sentiment": 0.472, "narrative": "Work-life balance appeal", "region_id": "virginia-us", "ocr": null}
+{"id": "fdw-5a29b2b63e", "sentiment": 0.364, "narrative": "Pilot success & work-life balance", "region_id": "germany", "ocr": null}
+{"id": "fdw-3eedc30f4e", "sentiment": 0.788, "narrative": "Wellbeing & productivity win", "region_id": "united-kingdom", "ocr": "Me at 10am on a Friday under the 4-day week"}
+{"id": "fdw-dfeab7835e", "sentiment": 0.63, "narrative": "Burnout relief", "region_id": "new-york", "ocr": null}
+{"id": "fdw-79e909afb5", "sentiment": -0.356, "narrative": "Longer days instead", "region_id": "bangalore", "ocr": null}
+{"id": "fdw-48877fdb7f", "sentiment": -0.228, "narrative": "Small business pushback", "region_id": "sydney", "ocr": null}
+{"id": "fdw-0734d04a31", "sentiment": -0.356, "narrative": "Culture won't change", "region_id": "tokyo", "ocr": null}
+{"id": "fdw-4466970fba", "sentiment": 0.659, "narrative": "Work-life balance hopes", "region_id": "seoul", "ocr": null}
+{"id": "fdw-d52595cf98", "sentiment": 0.677, "narrative": "Wellbeing & productivity win", "region_id": "united-kingdom", "ocr": null}
+{"id": "fdw-6aa5de4122", "sentiment": 0.547, "narrative": "Wellbeing & productivity win", "region_id": "united-kingdom", "ocr": "Me at 10am on a Friday under the 4-day week"}
+{"id": "fdw-02070a9b7c", "sentiment": 0.71, "narrative": "Would love real 4-day week", "region_id": "bangalore", "ocr": null}
+{"id": "fdw-c8d317b8ab", "sentiment": 0.733, "narrative": "Lifestyle & productivity", "region_id": "sydney", "ocr": null}
+{"id": "fdw-c98d34ac4d", "sentiment": 0.496, "narrative": "Government push & childcare", "region_id": "tokyo", "ocr": null}
+{"id": "fdw-51b1fd2eab", "sentiment": 0.026, "narrative": "Government push & childcare", "region_id": "tokyo", "ocr": null}
+{"id": "fdw-60bfee5581", "sentiment": -0.064, "narrative": "Curious / neutral", "region_id": "buenos-aires", "ocr": null}
+{"id": "fdw-9f53a0b6ee", "sentiment": 0.718, "narrative": "Pilot success & work-life balance", "region_id": "germany", "ocr": null}
+{"id": "fdw-ac297a7e9c", "sentiment": 0.631, "narrative": "Pilot success & work-life balance", "region_id": "germany", "ocr": "Vier-Tage-Woche: Stress -, Produktivität ="}
+{"id": "fdw-8015543e96", "sentiment": -0.559, "narrative": "Economic skepticism", "region_id": "los-angeles", "ocr": null}
+{"id": "fdw-85534169b1", "sentiment": 0.733, "narrative": "Pilot success & work-life balance", "region_id": "germany", "ocr": "Vier-Tage-Woche: Stress -, Produktivität ="}
+{"id": "fdw-70004d40da", "sentiment": 0.056, "narrative": "Curious / neutral", "region_id": "santiago", "ocr": null}
+{"id": "fdw-abb2a9203e", "sentiment": 0.522, "narrative": "Work-life balance appeal", "region_id": "bogota", "ocr": "FRIDAY = WEEKEND NOW"}
+{"id": "fdw-458e571d99", "sentiment": 0.511, "narrative": "Work-life balance appeal", "region_id": "texas-us", "ocr": null}
+{"id": "fdw-6a87779474", "sentiment": 0.206, "narrative": "Would love real 4-day week", "region_id": "bangalore", "ocr": null}
+{"id": "fdw-8760cda3ea", "sentiment": 0.588, "narrative": "Would love real 4-day week", "region_id": "bangalore", "ocr": null}
+{"id": "fdw-4ddb26ad08", "sentiment": 0.655, "narrative": "Burnout relief", "region_id": "new-york", "ocr": null}
+{"id": "fdw-6540387493", "sentiment": 0.48, "narrative": "Work-life balance appeal", "region_id": "delhi", "ocr": null}
+{"id": "fdw-8b2bd69799", "sentiment": 0.386, "narrative": "Would love real 4-day week", "region_id": "bangalore", "ocr": null}
+{"id": "fdw-173733bae7", "sentiment": -0.181, "narrative": "Economic skepticism", "region_id": "manila", "ocr": null}
+{"id": "fdw-0a437b339d", "sentiment": 0.009, "narrative": "Curious / neutral", "region_id": "ho-chi-minh-city", "ocr": null}
+{"id": "fdw-6a8213bc04", "sentiment": -0.125, "narrative": "Economic skepticism", "region_id": "cairo", "ocr": null}
+{"id": "fdw-00e918616e", "sentiment": 0.404, "narrative": "Lifestyle & productivity", "region_id": "sydney", "ocr": null}
+{"id": "fdw-776ad0c560", "sentiment": 0.4, "narrative": "Work-life balance appeal", "region_id": "kuala-lumpur", "ocr": null}
+{"id": "fdw-0c0a8a9342", "sentiment": 0.603, "narrative": "Wellbeing & productivity win", "region_id": "united-kingdom", "ocr": null}
+{"id": "fdw-b0ce5fb0c0", "sentiment": 0.485, "narrative": "Recruitment & retention edge", "region_id": "united-kingdom", "ocr": null}
+{"id": "fdw-18b41d2284", "sentiment": -0.178, "narrative": "Economic skepticism", "region_id": "cape-town", "ocr": null}
+{"id": "fdw-2a8def42a4", "sentiment": 0.652, "narrative": "Wellbeing & productivity win", "region_id": "united-kingdom", "ocr": null}
+{"id": "fdw-7690fff20a", "sentiment": -0.347, "narrative": "Economic skepticism", "region_id": "mexico-city", "ocr": null}
+{"id": "fdw-7da4be81f1", "sentiment": -0.371, "narrative": "Economic skepticism", "region_id": "singapore", "ocr": null}
+{"id": "fdw-e31fb5bee6", "sentiment": 0.329, "narrative": "Government push & childcare", "region_id": "tokyo", "ocr": null}
+{"id": "fdw-d08df83390", "sentiment": 0.553, "narrative": "Wellbeing & productivity win", "region_id": "united-kingdom", "ocr": null}
+{"id": "fdw-c975f69afe", "sentiment": 0.103, "narrative": "Curious / neutral", "region_id": "jakarta", "ocr": null}
+{"id": "fdw-b1a7c98fda", "sentiment": 0.046, "narrative": "Work-life balance hopes", "region_id": "seoul", "ocr": null}
+{"id": "fdw-25a47b6434", "sentiment": 0.466, "narrative": "Work-life balance hopes", "region_id": "seoul", "ocr": null}
+{"id": "fdw-cb1f862318", "sentiment": 0.658, "narrative": "Lifestyle & productivity", "region_id": "sydney", "ocr": null}
+{"id": "fdw-9a4a4db6af", "sentiment": 0.411, "narrative": "Work-life balance appeal", "region_id": "dubai", "ocr": null}
+{"id": "fdw-1e3f5c62fa", "sentiment": 0.41, "narrative": "Burnout relief", "region_id": "new-york", "ocr": null}
+{"id": "fdw-de7d6aaeef", "sentiment": 0.073, "narrative": "Curious / neutral", "region_id": "arizona-us", "ocr": null}
+{"id": "fdw-7baa1435a8", "sentiment": 0.351, "narrative": "Work-life balance appeal", "region_id": "bogota", "ocr": null}
+{"id": "fdw-195f0cbe2d", "sentiment": 0.685, "narrative": "Wellbeing & productivity win", "region_id": "united-kingdom", "ocr": null}
+{"id": "fdw-806c9b201e", "sentiment": 0.754, "narrative": "Work-life balance appeal", "region_id": "manila", "ocr": null}
+{"id": "fdw-ccb7bfe8ec", "sentiment": -0.573, "narrative": "Pay cut & competitiveness fears", "region_id": "seoul", "ocr": null}
+{"id": "fdw-50bd0f5c74", "sentiment": 0.601, "narrative": "Lifestyle & productivity", "region_id": "sydney", "ocr": null}
+{"id": "fdw-668e35b4b4", "sentiment": 0.54, "narrative": "Pilot success & work-life balance", "region_id": "germany", "ocr": null}
+{"id": "fdw-80644ed395", "sentiment": 0.68, "narrative": "Wellbeing & productivity win", "region_id": "united-kingdom", "ocr": null}
 {"id": "fdw-da6df5dc8b", "sentiment": 0.143, "narrative": "Curious / neutral", "region_id": "ireland", "ocr": null}
-{"id": "fdw-abe32df2f1", "sentiment": 0.478, "narrative": "Pilot success & work-life balance", "region_id": "germany", "ocr": null}
-{"id": "fdw-3352fd5d11", "sentiment": 0.602, "narrative": "Work-life balance appeal", "region_id": "chicago", "ocr": null}
-{"id": "fdw-d4ebcbdbef", "sentiment": 0.875, "narrative": "Wellbeing & productivity win", "region_id": "united-kingdom", "ocr": null}
-{"id": "fdw-2ee596dc4b", "sentiment": -0.362, "narrative": "Culture won't change", "region_id": "tokyo", "ocr": null}
-{"id": "fdw-e8bad1d73e", "sentiment": 0.51, "narrative": "Burnout relief", "region_id": "new-york", "ocr": null}
-{"id": "fdw-18ebd4a637", "sentiment": 0.567, "narrative": "Work-life balance appeal", "region_id": "los-angeles", "ocr": null}
-{"id": "fdw-40e3c3e13c", "sentiment": 0.426, "narrative": "Work-life balance appeal", "region_id": "santiago", "ocr": null}
-{"id": "fdw-fa994024b6", "sentiment": 0.647, "narrative": "Lifestyle & productivity", "region_id": "sydney", "ocr": null}
-{"id": "fdw-8a9ebf8e4a", "sentiment": -0.061, "narrative": "Curious / neutral", "region_id": "vancouver", "ocr": null}
-{"id": "fdw-b8e452ca86", "sentiment": 0.01, "narrative": "Curious / neutral", "region_id": "singapore", "ocr": null}
-{"id": "fdw-2cefee8ae6", "sentiment": 0.658, "narrative": "Work-life balance appeal", "region_id": "buenos-aires", "ocr": null}
-{"id": "fdw-a6cb5bbb6f", "sentiment": 0.444, "narrative": "Work-life balance hopes", "region_id": "seoul", "ocr": null}
-{"id": "fdw-70a18fc573", "sentiment": 0.45, "narrative": "Work-life balance appeal", "region_id": "madrid", "ocr": null}
-{"id": "fdw-7a1dfcccca", "sentiment": -0.104, "narrative": "Economic skepticism", "region_id": "cairo", "ocr": null}
-{"id": "fdw-e14102ff95", "sentiment": 0.766, "narrative": "Would love real 4-day week", "region_id": "bangalore", "ocr": null}
-{"id": "fdw-794257f7c2", "sentiment": -0.225, "narrative": "Economic skepticism", "region_id": "delhi", "ocr": null}
-{"id": "fdw-177f9bd006", "sentiment": 0.523, "narrative": "Pilot success & work-life balance", "region_id": "germany", "ocr": null}
-{"id": "fdw-b78a8bde45", "sentiment": 0.322, "narrative": "Work-life balance hopes", "region_id": "seoul", "ocr": null}
-{"id": "fdw-55192b971c", "sentiment": 0.575, "narrative": "Wellbeing & productivity win", "region_id": "united-kingdom", "ocr": "4 DAY WEEK - 1 YEAR ON"}
-{"id": "fdw-c99c7e8f44", "sentiment": 0.597, "narrative": "Recruitment & retention edge", "region_id": "united-kingdom", "ocr": null}
-{"id": "fdw-61a12b18f8", "sentiment": -0.068, "narrative": "Curious / neutral", "region_id": "taipei", "ocr": null}
-{"id": "fdw-582a12577b", "sentiment": 0.366, "narrative": "Government push & childcare", "region_id": "tokyo", "ocr": null}
-{"id": "fdw-e763b3a0b2", "sentiment": -0.3, "narrative": "Economic skepticism", "region_id": "mumbai", "ocr": null}
-{"id": "fdw-3b1b762165", "sentiment": -0.444, "narrative": "Hustle culture skepticism", "region_id": "new-york", "ocr": null}
-{"id": "fdw-ab6709eae5", "sentiment": 0.447, "narrative": "Work-life balance appeal", "region_id": "paris", "ocr": "FRIDAY = WEEKEND NOW"}
-{"id": "fdw-0c9b7dd290", "sentiment": 0.464, "narrative": "Pilot success & work-life balance", "region_id": "germany", "ocr": null}
-{"id": "fdw-e9df4c8a64", "sentiment": 0.601, "narrative": "Burnout relief", "region_id": "new-york", "ocr": null}
-{"id": "fdw-7168c6cee9", "sentiment": -0.22, "narrative": "Hustle culture skepticism", "region_id": "new-york", "ocr": null}
-{"id": "fdw-fe503c0810", "sentiment": 0.401, "narrative": "Work-life balance appeal", "region_id": "los-angeles", "ocr": "FRIDAY = WEEKEND NOW"}
-{"id": "fdw-b9174ab062", "sentiment": 0.188, "narrative": "Curious / neutral", "region_id": "hyderabad", "ocr": null}
-{"id": "fdw-a906cd5387", "sentiment": 0.639, "narrative": "Work-life balance appeal", "region_id": "manila", "ocr": null}
-{"id": "fdw-baa85c73a0", "sentiment": -0.521, "narrative": "Small business pushback", "region_id": "sydney", "ocr": null}
-{"id": "fdw-795f590e2f", "sentiment": 0.111, "narrative": "Curious / neutral", "region_id": "chicago", "ocr": null}
-{"id": "fdw-8bad2ba7a9", "sentiment": -0.512, "narrative": "Economic skepticism", "region_id": "mexico-city", "ocr": null}
-{"id": "fdw-968cfd419e", "sentiment": 0.335, "narrative": "Curious / neutral", "region_id": "sao-paulo", "ocr": null}
-{"id": "fdw-2ed95aff78", "sentiment": -0.324, "narrative": "Economic skepticism", "region_id": "toronto", "ocr": null}
-{"id": "fdw-4ed41fd422", "sentiment": 0.725, "narrative": "Pilot success & work-life balance", "region_id": "germany", "ocr": null}
-{"id": "fdw-c081d081f4", "sentiment": -0.338, "narrative": "Doesn't work for all sectors", "region_id": "united-kingdom", "ocr": null}
-{"id": "fdw-70cdde7e4e", "sentiment": 0.277, "narrative": "Government push & childcare", "region_id": "tokyo", "ocr": "都庁 週休3日"}
-{"id": "fdw-13fe1dce84", "sentiment": 0.463, "narrative": "Work-life balance appeal", "region_id": "singapore", "ocr": null}
-{"id": "fdw-79ff4f5a80", "sentiment": 0.583, "narrative": "Lifestyle & productivity", "region_id": "sydney", "ocr": null}
-{"id": "fdw-b07c9cf1f5", "sentiment": 0.437, "narrative": "Would love real 4-day week", "region_id": "bangalore", "ocr": null}
-{"id": "fdw-b467a9f043", "sentiment": 0.153, "narrative": "Curious / neutral", "region_id": "netherlands", "ocr": null}
-{"id": "fdw-6e780dca7d", "sentiment": 0.807, "narrative": "Wellbeing & productivity win", "region_id": "united-kingdom", "ocr": null}
-{"id": "fdw-cba9e011b9", "sentiment": 0.667, "narrative": "Wellbeing & productivity win", "region_id": "united-kingdom", "ocr": null}
-{"id": "fdw-038c67fe5f", "sentiment": 0.373, "narrative": "Work-life balance hopes", "region_id": "seoul", "ocr": null}
-{"id": "fdw-260869994c", "sentiment": 0.154, "narrative": "Curious / neutral", "region_id": "paris", "ocr": null}
-{"id": "fdw-c84afbfb71", "sentiment": -0.005, "narrative": "Curious / neutral", "region_id": "vancouver", "ocr": null}
-{"id": "fdw-f2e5c5fbb2", "sentiment": 0.455, "narrative": "Wellbeing & productivity win", "region_id": "united-kingdom", "ocr": null}
-{"id": "fdw-0ced2f2b43", "sentiment": 0.033, "narrative": "Curious / neutral", "region_id": "netherlands", "ocr": null}
-{"id": "fdw-ca4bf27c85", "sentiment": -0.38, "narrative": "Longer days instead", "region_id": "bangalore", "ocr": null}
-{"id": "fdw-3205c82aba", "sentiment": 0.278, "narrative": "Work-life balance appeal", "region_id": "texas-us", "ocr": null}
-{"id": "fdw-6f156c5785", "sentiment": 0.718, "narrative": "Lifestyle & productivity", "region_id": "sydney", "ocr": null}
-{"id": "fdw-56270ea54a", "sentiment": 0.575, "narrative": "Wellbeing & productivity win", "region_id": "united-kingdom", "ocr": null}
-{"id": "fdw-0ba227aaf7", "sentiment": 0.278, "narrative": "Burnout relief", "region_id": "new-york", "ocr": null}
-{"id": "fdw-0bf3acfd0a", "sentiment": 0.31, "narrative": "Pilot success & work-life balance", "region_id": "germany", "ocr": "Vier-Tage-Woche: Stress -, Produktivität ="}
-{"id": "fdw-b16f9efe1a", "sentiment": -0.11, "narrative": "Curious / neutral", "region_id": "virginia-us", "ocr": null}
-{"id": "fdw-27efcc3505", "sentiment": -0.278, "narrative": "Economic skepticism", "region_id": "shanghai", "ocr": null}
-{"id": "fdw-09dfc8fa3a", "sentiment": 0.727, "narrative": "Work-life balance appeal", "region_id": "mumbai", "ocr": null}
-{"id": "fdw-efbee17476", "sentiment": -0.406, "narrative": "Economic competitiveness worries", "region_id": "germany", "ocr": null}
-{"id": "fdw-01b2a860b2", "sentiment": 0.272, "narrative": "Work-life balance appeal", "region_id": "mexico-city", "ocr": null}
-{"id": "fdw-db2351a1b7", "sentiment": -0.1, "narrative": "Economic skepticism", "region_id": "manila", "ocr": null}
-{"id": "fdw-8df346ac62", "sentiment": -0.519, "narrative": "Longer days instead", "region_id": "bangalore", "ocr": "4-day week they said... 12 hours a day they meant"}
-{"id": "fdw-9c487b5089", "sentiment": 0.691, "narrative": "Work-life balance appeal", "region_id": "sao-paulo", "ocr": null}
-{"id": "fdw-83a132b7b1", "sentiment": -0.277, "narrative": "Economic skepticism", "region_id": "auckland", "ocr": null}
-{"id": "fdw-43d7620ae5", "sentiment": 0.368, "narrative": "Work-life balance hopes", "region_id": "seoul", "ocr": null}
-{"id": "fdw-25e5b24e93", "sentiment": -0.621, "narrative": "Culture won't change", "region_id": "tokyo", "ocr": null}
-{"id": "fdw-8ff4a15953", "sentiment": 0.314, "narrative": "Burnout relief", "region_id": "new-york", "ocr": null}
-{"id": "fdw-5c293e07e5", "sentiment": 0.323, "narrative": "Curious / neutral", "region_id": "bangkok", "ocr": null}
-{"id": "fdw-5a137f3fec", "sentiment": 0.422, "narrative": "Government push & childcare", "region_id": "tokyo", "ocr": null}
-{"id": "fdw-af23b3df93", "sentiment": -0.295, "narrative": "Economic skepticism", "region_id": "dubai", "ocr": null}
-{"id": "fdw-801419d522", "sentiment": -0.151, "narrative": "Curious / neutral", "region_id": "toronto", "ocr": null}
-{"id": "fdw-01d9bf93f0", "sentiment": 0.055, "narrative": "Curious / neutral", "region_id": "shanghai", "ocr": null}
-{"id": "fdw-e6469b3a3c", "sentiment": 0.455, "narrative": "Would love real 4-day week", "region_id": "bangalore", "ocr": null}
-{"id": "fdw-4d195963c2", "sentiment": -0.289, "narrative": "Economic competitiveness worries", "region_id": "germany", "ocr": null}
-{"id": "fdw-6eb206392b", "sentiment": -0.055, "narrative": "Curious / neutral", "region_id": "kuala-lumpur", "ocr": null}
-{"id": "fdw-534598cc99", "sentiment": -0.34, "narrative": "Small business pushback", "region_id": "sydney", "ocr": null}
-{"id": "fdw-88a71c87f9", "sentiment": 0.384, "narrative": "Wellbeing & productivity win", "region_id": "united-kingdom", "ocr": null}
-{"id": "fdw-507e7a92f4", "sentiment": -0.48, "narrative": "Longer days instead", "region_id": "bangalore", "ocr": null}
-{"id": "fdw-a9dc3837d0", "sentiment": -0.282, "narrative": "Small business pushback", "region_id": "sydney", "ocr": null}
-{"id": "fdw-00381a117d", "sentiment": -0.36, "narrative": "Economic skepticism", "region_id": "texas-us", "ocr": null}
-{"id": "fdw-81f4cde4fa", "sentiment": 0.635, "narrative": "Work-life balance appeal", "region_id": "los-angeles", "ocr": "FRIDAY = WEEKEND NOW"}
-{"id": "fdw-1f8f9badc2", "sentiment": 0.497, "narrative": "Burnout relief", "region_id": "new-york", "ocr": null}
-{"id": "fdw-bf1acef807", "sentiment": -0.469, "narrative": "Pay cut & competitiveness fears", "region_id": "seoul", "ocr": null}
-{"id": "fdw-66cc1bb944", "sentiment": 0.087, "narrative": "Curious / neutral", "region_id": "netherlands", "ocr": null}
+{"id": "fdw-d31a17b77b", "sentiment": 0.448, "narrative": "Work-life balance appeal", "region_id": "madrid", "ocr": null}
+{"id": "fdw-df26c652ea", "sentiment": -0.172, "narrative": "Hustle culture skepticism", "region_id": "new-york", "ocr": null}
+{"id": "fdw-ee2f8ced99", "sentiment": -0.344, "narrative": "Economic skepticism", "region_id": "virginia-us", "ocr": null}
+{"id": "fdw-96c876f302", "sentiment": -0.195, "narrative": "Small business pushback", "region_id": "sydney", "ocr": null}
+{"id": "fdw-3d0b0737c0", "sentiment": 0.568, "narrative": "Pilot success & work-life balance", "region_id": "germany", "ocr": null}
+{"id": "fdw-fcfa9d1586", "sentiment": -0.432, "narrative": "Longer days instead", "region_id": "bangalore", "ocr": null}
+{"id": "fdw-b168476e2d", "sentiment": 0.705, "narrative": "Work-life balance appeal", "region_id": "mumbai", "ocr": null}
+{"id": "fdw-900b7d446d", "sentiment": 0.073, "narrative": "Curious / neutral", "region_id": "istanbul", "ocr": null}
+{"id": "fdw-6f29110668", "sentiment": -0.444, "narrative": "Culture won't change", "region_id": "tokyo", "ocr": null}
+{"id": "fdw-d806b76aba", "sentiment": 0.257, "narrative": "Lifestyle & productivity", "region_id": "sydney", "ocr": null}
+{"id": "fdw-e073cab085", "sentiment": 0.69, "narrative": "Burnout relief", "region_id": "new-york", "ocr": null}
+{"id": "fdw-c41b530501", "sentiment": 0.275, "narrative": "Work-life balance hopes", "region_id": "seoul", "ocr": null}
+{"id": "fdw-322a421a22", "sentiment": -0.287, "narrative": "Curious / neutral", "region_id": "lagos", "ocr": null}
+{"id": "fdw-a6cf2c89bf", "sentiment": 0.514, "narrative": "Pilot success & work-life balance", "region_id": "germany", "ocr": null}
+{"id": "fdw-c9aae7ea05", "sentiment": -0.186, "narrative": "Longer days instead", "region_id": "bangalore", "ocr": null}
+{"id": "fdw-83fefb9072", "sentiment": -0.138, "narrative": "Curious / neutral", "region_id": "warsaw", "ocr": null}
+{"id": "fdw-5f57ec6702", "sentiment": 0.299, "narrative": "Government push & childcare", "region_id": "tokyo", "ocr": null}
+{"id": "fdw-9e5c9dd925", "sentiment": 0.299, "narrative": "Burnout relief", "region_id": "new-york", "ocr": null}
+{"id": "fdw-6d4b1ca7b2", "sentiment": 0.289, "narrative": "Would love real 4-day week", "region_id": "bangalore", "ocr": null}
+{"id": "fdw-5e69b37add", "sentiment": 0.571, "narrative": "Wellbeing & productivity win", "region_id": "united-kingdom", "ocr": null}
+{"id": "fdw-63b987135d", "sentiment": 0.575, "narrative": "Wellbeing & productivity win", "region_id": "united-kingdom", "ocr": null}
+{"id": "fdw-25273b0465", "sentiment": 1.0, "narrative": "Wellbeing & productivity win", "region_id": "united-kingdom", "ocr": "Me at 10am on a Friday under the 4-day week"}
+{"id": "fdw-7e74029f5f", "sentiment": -0.262, "narrative": "Culture won't change", "region_id": "tokyo", "ocr": null}
+{"id": "fdw-c6bd05750d", "sentiment": -0.174, "narrative": "Pay cut & competitiveness fears", "region_id": "seoul", "ocr": null}
+{"id": "fdw-6f834028d7", "sentiment": 0.366, "narrative": "Work-life balance appeal", "region_id": "paris", "ocr": null}
+{"id": "fdw-792e47244c", "sentiment": -0.113, "narrative": "Hustle culture skepticism", "region_id": "new-york", "ocr": null}
+{"id": "fdw-ce50de6716", "sentiment": -0.496, "narrative": "Culture won't change", "region_id": "tokyo", "ocr": null}
+{"id": "fdw-414aeef603", "sentiment": 0.349, "narrative": "Pilot success & work-life balance", "region_id": "germany", "ocr": null}
+{"id": "fdw-9aaea7301b", "sentiment": 0.432, "narrative": "Work-life balance appeal", "region_id": "santiago", "ocr": null}
+{"id": "fdw-3e10dfe0f8", "sentiment": 0.779, "narrative": "Pilot success & work-life balance", "region_id": "germany", "ocr": "Vier-Tage-Woche: Stress -, Produktivität ="}
+{"id": "fdw-b43f3e2cfd", "sentiment": -0.115, "narrative": "Doesn't work for all sectors", "region_id": "united-kingdom", "ocr": null}
+{"id": "fdw-b9332e547f", "sentiment": -0.37, "narrative": "Economic skepticism", "region_id": "los-angeles", "ocr": null}
+{"id": "fdw-9f58a15748", "sentiment": -0.611, "narrative": "Longer days instead", "region_id": "bangalore", "ocr": null}
+{"id": "fdw-392931ce3c", "sentiment": 0.332, "narrative": "Work-life balance hopes", "region_id": "seoul", "ocr": null}
+{"id": "fdw-fcbcebd085", "sentiment": 0.6, "narrative": "Lifestyle & productivity", "region_id": "sydney", "ocr": null}
+{"id": "fdw-b063e3dadd", "sentiment": -0.474, "narrative": "Economic skepticism", "region_id": "nairobi", "ocr": null}
+{"id": "fdw-0dd02d672e", "sentiment": -0.188, "narrative": "Pay cut & competitiveness fears", "region_id": "seoul", "ocr": null}
+{"id": "fdw-b6407170ae", "sentiment": 0.497, "narrative": "Work-life balance appeal", "region_id": "taipei", "ocr": null}
+{"id": "fdw-5b121d0f56", "sentiment": -0.574, "narrative": "Longer days instead", "region_id": "bangalore", "ocr": "4-day week they said... 12 hours a day they meant"}
+{"id": "fdw-dd53cf8c87", "sentiment": -0.17, "narrative": "Curious / neutral", "region_id": "manila", "ocr": null}
+{"id": "fdw-bf14195e25", "sentiment": 1.0, "narrative": "Wellbeing & productivity win", "region_id": "united-kingdom", "ocr": null}
+{"id": "fdw-6d4f7b1077", "sentiment": -0.222, "narrative": "Economic skepticism", "region_id": "bangkok", "ocr": null}
+{"id": "fdw-6b5f100233", "sentiment": -0.638, "narrative": "Doesn't work for all sectors", "region_id": "united-kingdom", "ocr": null}
+{"id": "fdw-050f8c64dd", "sentiment": 0.681, "narrative": "Burnout relief", "region_id": "new-york", "ocr": null}
+{"id": "fdw-3d3ef4802a", "sentiment": -0.259, "narrative": "Longer days instead", "region_id": "bangalore", "ocr": null}
+{"id": "fdw-85009cc491", "sentiment": 0.127, "narrative": "Economic competitiveness worries", "region_id": "germany", "ocr": null}
+{"id": "fdw-618a7c1377", "sentiment": -0.241, "narrative": "Economic skepticism", "region_id": "kuala-lumpur", "ocr": null}
+{"id": "fdw-ff9f088ee1", "sentiment": 0.664, "narrative": "Lifestyle & productivity", "region_id": "sydney", "ocr": "Friday off hits different"}
+{"id": "fdw-56ccebb805", "sentiment": 0.669, "narrative": "Wellbeing & productivity win", "region_id": "united-kingdom", "ocr": null}
+{"id": "fdw-7f21204ca9", "sentiment": 0.215, "narrative": "Would love real 4-day week", "region_id": "bangalore", "ocr": null}
+{"id": "fdw-3d4d5ddea6", "sentiment": 0.419, "narrative": "Pilot success & work-life balance", "region_id": "germany", "ocr": null}
+{"id": "fdw-3c6abdd008", "sentiment": 0.695, "narrative": "Lifestyle & productivity", "region_id": "sydney", "ocr": "Friday off hits different"}
+{"id": "fdw-4a8604943c", "sentiment": 0.457, "narrative": "Work-life balance appeal", "region_id": "los-angeles", "ocr": null}
+{"id": "fdw-d736231f00", "sentiment": 0.121, "narrative": "Burnout relief", "region_id": "new-york", "ocr": null}
+{"id": "fdw-95e476e937", "sentiment": 0.662, "narrative": "Work-life balance appeal", "region_id": "bogota", "ocr": null}
+{"id": "fdw-372e404e4c", "sentiment": 0.514, "narrative": "Wellbeing & productivity win", "region_id": "united-kingdom", "ocr": null}
+{"id": "fdw-39209ff8b9", "sentiment": 0.42, "narrative": "Pilot success & work-life balance", "region_id": "germany", "ocr": null}
+{"id": "fdw-7fe7b63134", "sentiment": -0.554, "narrative": "Longer days instead", "region_id": "bangalore", "ocr": null}
+{"id": "fdw-7352981cab", "sentiment": -0.682, "narrative": "Longer days instead", "region_id": "bangalore", "ocr": null}
+{"id": "fdw-6e99a50635", "sentiment": 0.62, "narrative": "Burnout relief", "region_id": "new-york", "ocr": null}
+{"id": "fdw-cb37906b26", "sentiment": 0.365, "narrative": "Curious / neutral", "region_id": "hyderabad", "ocr": null}
+{"id": "fdw-5c231321c0", "sentiment": -0.567, "narrative": "Pay cut & competitiveness fears", "region_id": "seoul", "ocr": null}
+{"id": "fdw-7399c873d3", "sentiment": 0.482, "narrative": "Government push & childcare", "region_id": "tokyo", "ocr": "都庁 週休3日"}
+{"id": "fdw-3eba431b68", "sentiment": -0.406, "narrative": "Economic competitiveness worries", "region_id": "germany", "ocr": null}
+{"id": "fdw-2871047189", "sentiment": 0.684, "narrative": "Burnout relief", "region_id": "new-york", "ocr": null}
+{"id": "fdw-1aa403e6c1", "sentiment": 0.951, "narrative": "Wellbeing & productivity win", "region_id": "united-kingdom", "ocr": null}
+{"id": "fdw-02b86e2298", "sentiment": 0.545, "narrative": "Work-life balance appeal", "region_id": "buenos-aires", "ocr": null}
+{"id": "fdw-ffd7064577", "sentiment": -0.132, "narrative": "Curious / neutral", "region_id": "taipei", "ocr": null}
+{"id": "fdw-2a91dbb4d7", "sentiment": -0.522, "narrative": "Doesn't work for all sectors", "region_id": "united-kingdom", "ocr": null}
+{"id": "fdw-744606c193", "sentiment": 0.453, "narrative": "Lifestyle & productivity", "region_id": "sydney", "ocr": null}
+{"id": "fdw-85b965c762", "sentiment": -0.062, "narrative": "Economic skepticism", "region_id": "madrid", "ocr": null}
+{"id": "fdw-5c8ef2faa0", "sentiment": -0.174, "narrative": "Culture won't change", "region_id": "tokyo", "ocr": null}
+{"id": "fdw-78711ef350", "sentiment": 0.329, "narrative": "Work-life balance hopes", "region_id": "seoul", "ocr": null}
+{"id": "fdw-04d14889b8", "sentiment": 0.686, "narrative": "Work-life balance appeal", "region_id": "los-angeles", "ocr": null}
+{"id": "fdw-e270f35cb4", "sentiment": 0.575, "narrative": "Would love real 4-day week", "region_id": "bangalore", "ocr": null}
+{"id": "fdw-91d526e03f", "sentiment": 0.67, "narrative": "Work-life balance appeal", "region_id": "singapore", "ocr": null}
+{"id": "fdw-76cf6f0471", "sentiment": -0.514, "narrative": "Longer days instead", "region_id": "bangalore", "ocr": null}
+{"id": "fdw-86296841de", "sentiment": 0.458, "narrative": "Work-life balance appeal", "region_id": "hyderabad", "ocr": null}
+{"id": "fdw-e3f49c2245", "sentiment": -0.512, "narrative": "Culture won't change", "region_id": "tokyo", "ocr": null}
+{"id": "fdw-78a5c6d89f", "sentiment": -0.546, "narrative": "Longer days instead", "region_id": "bangalore", "ocr": null}
+{"id": "fdw-a8273bd1f9", "sentiment": 0.097, "narrative": "Burnout relief", "region_id": "new-york", "ocr": null}
+{"id": "fdw-524dc0bd6d", "sentiment": -0.199, "narrative": "Doesn't work for all sectors", "region_id": "united-kingdom", "ocr": null}
+{"id": "fdw-8ad5a1eb18", "sentiment": -0.318, "narrative": "Small business pushback", "region_id": "sydney", "ocr": null}
+{"id": "fdw-4ce1d17e03", "sentiment": 0.518, "narrative": "Pilot success & work-life balance", "region_id": "germany", "ocr": null}
+{"id": "fdw-0638bbdbba", "sentiment": -0.218, "narrative": "Economic skepticism", "region_id": "jakarta", "ocr": null}
+{"id": "fdw-253c1d7822", "sentiment": 0.325, "narrative": "Lifestyle & productivity", "region_id": "sydney", "ocr": "Friday off hits different"}
+{"id": "fdw-68e45718f9", "sentiment": -0.286, "narrative": "Doesn't work for all sectors", "region_id": "united-kingdom", "ocr": null}
+{"id": "fdw-9ceeeef1bc", "sentiment": 0.568, "narrative": "Wellbeing & productivity win", "region_id": "united-kingdom", "ocr": null}
+{"id": "fdw-1517d812c2", "sentiment": 0.491, "narrative": "Wellbeing & productivity win", "region_id": "united-kingdom", "ocr": "4 DAY WEEK - 1 YEAR ON"}
+{"id": "fdw-336332eb7c", "sentiment": 0.655, "narrative": "Lifestyle & productivity", "region_id": "sydney", "ocr": null}
+{"id": "fdw-9d3d169e6d", "sentiment": 0.221, "narrative": "Work-life balance hopes", "region_id": "seoul", "ocr": null}
+{"id": "fdw-fd5773f15e", "sentiment": 0.638, "narrative": "Recruitment & retention edge", "region_id": "united-kingdom", "ocr": null}
+{"id": "fdw-f877ff2758", "sentiment": 0.406, "narrative": "Work-life balance appeal", "region_id": "ho-chi-minh-city", "ocr": null}
+{"id": "fdw-a9a93976af", "sentiment": 0.369, "narrative": "Pilot success & work-life balance", "region_id": "germany", "ocr": "Vier-Tage-Woche: Stress -, Produktivität ="}
+{"id": "fdw-e3a800efcc", "sentiment": 0.347, "narrative": "Work-life balance appeal", "region_id": "kuala-lumpur", "ocr": null}
+{"id": "fdw-c8b9f1bae0", "sentiment": -0.376, "narrative": "Economic competitiveness worries", "region_id": "germany", "ocr": null}
+{"id": "fdw-467ae0dc10", "sentiment": -0.351, "narrative": "Pay cut & competitiveness fears", "region_id": "seoul", "ocr": null}
+{"id": "fdw-03fe56450d", "sentiment": -0.563, "narrative": "Culture won't change", "region_id": "tokyo", "ocr": null}
+{"id": "fdw-27cf5d052c", "sentiment": 0.481, "narrative": "Work-life balance appeal", "region_id": "delhi", "ocr": null}
+{"id": "fdw-934dcd73e2", "sentiment": -0.332, "narrative": "Curious / neutral", "region_id": "taipei", "ocr": null}
+{"id": "fdw-9ad204e839", "sentiment": 0.686, "narrative": "Burnout relief", "region_id": "new-york", "ocr": null}
+{"id": "fdw-19c02224b7", "sentiment": -0.263, "narrative": "Longer days instead", "region_id": "bangalore", "ocr": null}
+{"id": "fdw-6c63d5f7d3", "sentiment": 0.505, "narrative": "Recruitment & retention edge", "region_id": "united-kingdom", "ocr": null}
+{"id": "fdw-1d3f7620b3", "sentiment": 0.635, "narrative": "Government push & childcare", "region_id": "tokyo", "ocr": null}
+{"id": "fdw-39d8998477", "sentiment": 0.269, "narrative": "Work-life balance appeal", "region_id": "dubai", "ocr": null}
+{"id": "fdw-ad9e17af68", "sentiment": 0.57, "narrative": "Work-life balance appeal", "region_id": "kuala-lumpur", "ocr": null}
+{"id": "fdw-0bdf4a5c86", "sentiment": 0.491, "narrative": "Lifestyle & productivity", "region_id": "sydney", "ocr": null}
+{"id": "fdw-a37bdfe493", "sentiment": -0.367, "narrative": "Small business pushback", "region_id": "sydney", "ocr": null}
+{"id": "fdw-4eaa811c75", "sentiment": 0.705, "narrative": "Pilot success & work-life balance", "region_id": "germany", "ocr": "Vier-Tage-Woche: Stress -, Produktivität ="}
+{"id": "fdw-40feb5342e", "sentiment": 0.415, "narrative": "Would love real 4-day week", "region_id": "bangalore", "ocr": null}
+{"id": "fdw-aefa3bb93f", "sentiment": 0.749, "narrative": "Burnout relief", "region_id": "new-york", "ocr": null}
+{"id": "fdw-9d28f7d484", "sentiment": 0.604, "narrative": "Wellbeing & productivity win", "region_id": "united-kingdom", "ocr": null}
+{"id": "fdw-7a9baef7a0", "sentiment": 0.579, "narrative": "Pilot success & work-life balance", "region_id": "germany", "ocr": null}
+{"id": "fdw-b539d90185", "sentiment": 0.602, "narrative": "Lifestyle & productivity", "region_id": "sydney", "ocr": null}
+{"id": "fdw-5d735dd4a8", "sentiment": -0.231, "narrative": "Pay cut & competitiveness fears", "region_id": "seoul", "ocr": null}
+{"id": "fdw-2c5c6444ba", "sentiment": 0.218, "narrative": "Government push & childcare", "region_id": "tokyo", "ocr": "都庁 週休3日"}
+{"id": "fdw-1a5b312bfb", "sentiment": 0.591, "narrative": "Government push & childcare", "region_id": "tokyo", "ocr": "都庁 週休3日"}
+{"id": "fdw-56df27aa9d", "sentiment": 0.599, "narrative": "Work-life balance appeal", "region_id": "singapore", "ocr": null}
+{"id": "fdw-4380245e53", "sentiment": 0.587, "narrative": "Wellbeing & productivity win", "region_id": "united-kingdom", "ocr": null}
+{"id": "fdw-12872c65e6", "sentiment": -0.015, "narrative": "Pay cut & competitiveness fears", "region_id": "seoul", "ocr": null}
+{"id": "fdw-2c3f9b1f26", "sentiment": 0.304, "narrative": "Burnout relief", "region_id": "new-york", "ocr": null}
+{"id": "fdw-0e348697ea", "sentiment": 0.72, "narrative": "Burnout relief", "region_id": "new-york", "ocr": null}
+{"id": "fdw-77a34b29a7", "sentiment": 0.491, "narrative": "Burnout relief", "region_id": "new-york", "ocr": null}
+{"id": "fdw-ad5542d493", "sentiment": -0.35, "narrative": "Longer days instead", "region_id": "bangalore", "ocr": null}
+{"id": "fdw-2a92c2e15a", "sentiment": -0.389, "narrative": "Economic skepticism", "region_id": "delhi", "ocr": null}
+{"id": "fdw-b4d4993ab5", "sentiment": 0.775, "narrative": "Wellbeing & productivity win", "region_id": "united-kingdom", "ocr": null}
+{"id": "fdw-c064c8169c", "sentiment": -0.357, "narrative": "Hustle culture skepticism", "region_id": "new-york", "ocr": null}
+{"id": "fdw-707da3cb3a", "sentiment": 0.629, "narrative": "Pilot success & work-life balance", "region_id": "germany", "ocr": "Vier-Tage-Woche: Stress -, Produktivität ="}
+{"id": "fdw-7f0e70e182", "sentiment": 0.559, "narrative": "Burnout relief", "region_id": "new-york", "ocr": null}
+{"id": "fdw-86f2b111e4", "sentiment": -0.017, "narrative": "Curious / neutral", "region_id": "texas-us", "ocr": null}
+{"id": "fdw-c99c7e8f44", "sentiment": -0.034, "narrative": "Doesn't work for all sectors", "region_id": "united-kingdom", "ocr": null}
+{"id": "fdw-6964d948bb", "sentiment": 0.227, "narrative": "Curious / neutral", "region_id": "mumbai", "ocr": null}
+{"id": "fdw-55192b971c", "sentiment": 0.641, "narrative": "Wellbeing & productivity win", "region_id": "united-kingdom", "ocr": null}
+{"id": "fdw-1447acbd76", "sentiment": 0.422, "narrative": "Lifestyle & productivity", "region_id": "sydney", "ocr": null}
+{"id": "fdw-5ade86c5e9", "sentiment": -0.587, "narrative": "Culture won't change", "region_id": "tokyo", "ocr": null}
+{"id": "fdw-1d7a95edd7", "sentiment": 0.404, "narrative": "Work-life balance appeal", "region_id": "sao-paulo", "ocr": null}
+{"id": "fdw-b29a3aa7e0", "sentiment": -0.429, "narrative": "Longer days instead", "region_id": "bangalore", "ocr": null}
+{"id": "fdw-8401c8af57", "sentiment": 0.111, "narrative": "Curious / neutral", "region_id": "cape-town", "ocr": null}
+{"id": "fdw-40ed8f21e6", "sentiment": 0.367, "narrative": "Work-life balance appeal", "region_id": "mexico-city", "ocr": "FRIDAY = WEEKEND NOW"}
+{"id": "fdw-10a4181b50", "sentiment": 0.761, "narrative": "Work-life balance appeal", "region_id": "nairobi", "ocr": "FRIDAY = WEEKEND NOW"}
+{"id": "fdw-98d9df053f", "sentiment": 0.183, "narrative": "Curious / neutral", "region_id": "chicago", "ocr": null}
+{"id": "fdw-d6c5f54097", "sentiment": 0.115, "narrative": "Longer days instead", "region_id": "bangalore", "ocr": null}
+{"id": "fdw-b9e0654f28", "sentiment": -0.043, "narrative": "Curious / neutral", "region_id": "delhi", "ocr": null}
+{"id": "fdw-0c37a3f62c", "sentiment": 0.752, "narrative": "Burnout relief", "region_id": "new-york", "ocr": null}
+{"id": "fdw-7e5f42f8ca", "sentiment": 0.119, "narrative": "Work-life balance hopes", "region_id": "seoul", "ocr": null}
+{"id": "fdw-6ba14341d9", "sentiment": 0.829, "narrative": "Wellbeing & productivity win", "region_id": "united-kingdom", "ocr": "4 DAY WEEK - 1 YEAR ON"}
+{"id": "fdw-1d0b77209d", "sentiment": 0.097, "narrative": "Government push & childcare", "region_id": "tokyo", "ocr": null}
+{"id": "fdw-54549ed75e", "sentiment": -0.34, "narrative": "Economic skepticism", "region_id": "johor", "ocr": null}
+{"id": "fdw-31cb1161cb", "sentiment": 0.696, "narrative": "Wellbeing & productivity win", "region_id": "united-kingdom", "ocr": null}
+{"id": "fdw-f8d0bd7f03", "sentiment": -0.255, "narrative": "Pay cut & competitiveness fears", "region_id": "seoul", "ocr": null}
+{"id": "fdw-33a285ffb1", "sentiment": 0.448, "narrative": "Wellbeing & productivity win", "region_id": "united-kingdom", "ocr": null}
+{"id": "fdw-739f13dc78", "sentiment": 0.134, "narrative": "Curious / neutral", "region_id": "hyderabad", "ocr": null}
+{"id": "fdw-a13116bb1e", "sentiment": 0.591, "narrative": "Lifestyle & productivity", "region_id": "sydney", "ocr": null}
+{"id": "fdw-7f1ccc9d3b", "sentiment": -0.156, "narrative": "Curious / neutral", "region_id": "toronto", "ocr": null}
+{"id": "fdw-7fef855bd6", "sentiment": -0.38, "narrative": "Economic competitiveness worries", "region_id": "germany", "ocr": null}
+{"id": "fdw-cdf67f8be8", "sentiment": -0.407, "narrative": "Economic competitiveness worries", "region_id": "germany", "ocr": null}
+{"id": "fdw-0df768b925", "sentiment": 0.324, "narrative": "Would love real 4-day week", "region_id": "bangalore", "ocr": null}
+{"id": "fdw-c425218af1", "sentiment": -0.222, "narrative": "Economic skepticism", "region_id": "los-angeles", "ocr": null}
+{"id": "fdw-0c98595c57", "sentiment": 0.115, "narrative": "Curious / neutral", "region_id": "bogota", "ocr": null}
+{"id": "fdw-bd4781c2f7", "sentiment": 0.335, "narrative": "Would love real 4-day week", "region_id": "bangalore", "ocr": null}
+{"id": "fdw-b905d62051", "sentiment": 0.584, "narrative": "Would love real 4-day week", "region_id": "bangalore", "ocr": null}
+{"id": "fdw-49b6e5590b", "sentiment": 0.684, "narrative": "Would love real 4-day week", "region_id": "bangalore", "ocr": null}
+{"id": "fdw-63f0de5c1d", "sentiment": -0.328, "narrative": "Economic competitiveness worries", "region_id": "germany", "ocr": null}
+{"id": "fdw-aeb4ef688f", "sentiment": 0.233, "narrative": "Work-life balance appeal", "region_id": "santiago", "ocr": null}
+{"id": "fdw-7a0e711312", "sentiment": 0.105, "narrative": "Curious / neutral", "region_id": "hyderabad", "ocr": null}
+{"id": "fdw-1b495c853f", "sentiment": -0.254, "narrative": "Curious / neutral", "region_id": "ho-chi-minh-city", "ocr": null}
+{"id": "fdw-9c387e7804", "sentiment": -0.165, "narrative": "Economic skepticism", "region_id": "toronto", "ocr": null}
+{"id": "fdw-ef638d0bd8", "sentiment": 0.401, "narrative": "Work-life balance hopes", "region_id": "seoul", "ocr": null}
+{"id": "fdw-cba9e011b9", "sentiment": 0.388, "narrative": "Recruitment & retention edge", "region_id": "united-kingdom", "ocr": null}
+{"id": "fdw-dd97c1301b", "sentiment": -0.178, "narrative": "Economic skepticism", "region_id": "cape-town", "ocr": null}
+{"id": "fdw-84a4d74890", "sentiment": -0.3, "narrative": "Economic skepticism", "region_id": "los-angeles", "ocr": null}
+{"id": "fdw-d952a1fefb", "sentiment": 0.389, "narrative": "Work-life balance appeal", "region_id": "dubai", "ocr": null}
+{"id": "fdw-3efdb1997d", "sentiment": 0.726, "narrative": "Lifestyle & productivity", "region_id": "sydney", "ocr": null}
+{"id": "fdw-ad9127349b", "sentiment": 0.246, "narrative": "Work-life balance appeal", "region_id": "bogota", "ocr": null}
+{"id": "fdw-6c468e96b9", "sentiment": 0.493, "narrative": "Work-life balance appeal", "region_id": "manila", "ocr": "FRIDAY = WEEKEND NOW"}
+{"id": "fdw-4967fe59c6", "sentiment": -0.359, "narrative": "Culture won't change", "region_id": "tokyo", "ocr": null}
+{"id": "fdw-76ba26997f", "sentiment": 0.597, "narrative": "Lifestyle & productivity", "region_id": "sydney", "ocr": null}
+{"id": "fdw-c529dbe9af", "sentiment": 0.68, "narrative": "Pilot success & work-life balance", "region_id": "germany", "ocr": null}
+{"id": "fdw-85bee31d2f", "sentiment": 0.609, "narrative": "Burnout relief", "region_id": "new-york", "ocr": null}
+{"id": "fdw-6008bd7f9a", "sentiment": -0.14, "narrative": "Curious / neutral", "region_id": "sao-paulo", "ocr": null}
+{"id": "fdw-6e780dca7d", "sentiment": 0.819, "narrative": "Wellbeing & productivity win", "region_id": "united-kingdom", "ocr": null}
+{"id": "fdw-d4ebcbdbef", "sentiment": 0.363, "narrative": "Recruitment & retention edge", "region_id": "united-kingdom", "ocr": null}
+{"id": "fdw-2b2cac8985", "sentiment": -0.537, "narrative": "Culture won't change", "region_id": "tokyo", "ocr": null}
+{"id": "fdw-df85a5a0f8", "sentiment": 0.839, "narrative": "Burnout relief", "region_id": "new-york", "ocr": null}
+{"id": "fdw-c5b50b89c9", "sentiment": 0.841, "narrative": "Burnout relief", "region_id": "new-york", "ocr": null}
+{"id": "fdw-8e6402af03", "sentiment": 0.46, "narrative": "Burnout relief", "region_id": "new-york", "ocr": null}
+{"id": "fdw-c459b89446", "sentiment": -0.088, "narrative": "Culture won't change", "region_id": "tokyo", "ocr": null}
+{"id": "fdw-01ac18a0e2", "sentiment": 0.381, "narrative": "Pilot success & work-life balance", "region_id": "germany", "ocr": "Vier-Tage-Woche: Stress -, Produktivität ="}
+{"id": "fdw-1238a5f588", "sentiment": 0.692, "narrative": "Work-life balance appeal", "region_id": "lagos", "ocr": "FRIDAY = WEEKEND NOW"}
+{"id": "fdw-d76190fcd9", "sentiment": -0.106, "narrative": "Small business pushback", "region_id": "sydney", "ocr": null}
+{"id": "fdw-46ccb9a5ac", "sentiment": 0.278, "narrative": "Work-life balance appeal", "region_id": "sweden", "ocr": "FRIDAY = WEEKEND NOW"}
+{"id": "fdw-c081d081f4", "sentiment": -0.414, "narrative": "Doesn't work for all sectors", "region_id": "united-kingdom", "ocr": null}
+{"id": "fdw-b8c8a46082", "sentiment": -0.116, "narrative": "Pay cut & competitiveness fears", "region_id": "seoul", "ocr": null}
 {"id": "fdw-76061291fd", "sentiment": 0.611, "narrative": "Wellbeing & productivity win", "region_id": "united-kingdom", "ocr": null}
-{"id": "fdw-f0cfc9595e", "sentiment": -0.256, "narrative": "Hustle culture skepticism", "region_id": "new-york", "ocr": null}
-{"id": "fdw-57826f77a7", "sentiment": 0.321, "narrative": "Work-life balance appeal", "region_id": "buenos-aires", "ocr": null}
-{"id": "fdw-eaddeb3c0a", "sentiment": -0.382, "narrative": "Economic skepticism", "region_id": "istanbul", "ocr": null}
-{"id": "fdw-aec033dfa8", "sentiment": 0.369, "narrative": "Work-life balance appeal", "region_id": "singapore", "ocr": null}
-{"id": "fdw-8f56e149e3", "sentiment": -0.018, "narrative": "Economic skepticism", "region_id": "sao-paulo", "ocr": null}
-{"id": "fdw-0f34c8e6cf", "sentiment": -0.482, "narrative": "Economic competitiveness worries", "region_id": "germany", "ocr": null}
-{"id": "fdw-2b0c8865ce", "sentiment": 0.935, "narrative": "Work-life balance appeal", "region_id": "mexico-city", "ocr": "FRIDAY = WEEKEND NOW"}
-{"id": "fdw-d2979cce4e", "sentiment": -0.221, "narrative": "Curious / neutral", "region_id": "taipei", "ocr": null}
-{"id": "fdw-bb2eba6d3b", "sentiment": 0.198, "narrative": "Recruitment & retention edge", "region_id": "united-kingdom", "ocr": null}
-{"id": "fdw-7f05e137ca", "sentiment": 0.467, "narrative": "Work-life balance appeal", "region_id": "los-angeles", "ocr": null}
-{"id": "fdw-b704f461c7", "sentiment": 0.227, "narrative": "Curious / neutral", "region_id": "chicago", "ocr": null}
-{"id": "fdw-447d4b5ab8", "sentiment": 0.407, "narrative": "Burnout relief", "region_id": "new-york", "ocr": null}
-{"id": "fdw-65ff6f42dd", "sentiment": 0.137, "narrative": "Curious / neutral", "region_id": "texas-us", "ocr": null}
-{"id": "fdw-e5d0b4ed3b", "sentiment": 0.017, "narrative": "Curious / neutral", "region_id": "shanghai", "ocr": null}
-{"id": "fdw-15de44881c", "sentiment": 0.006, "narrative": "Economic skepticism", "region_id": "kuala-lumpur", "ocr": null}
-{"id": "fdw-9b34dec834", "sentiment": -0.152, "narrative": "Economic competitiveness worries", "region_id": "germany", "ocr": null}
-{"id": "fdw-b203424f89", "sentiment": 0.412, "narrative": "Government push & childcare", "region_id": "tokyo", "ocr": null}
-{"id": "fdw-d172854481", "sentiment": 0.552, "narrative": "Work-life balance hopes", "region_id": "seoul", "ocr": null}
-{"id": "fdw-db96f7a397", "sentiment": 0.419, "narrative": "Wellbeing & productivity win", "region_id": "united-kingdom", "ocr": null}
-{"id": "fdw-9b6be6df3f", "sentiment": -0.396, "narrative": "Economic skepticism", "region_id": "dubai", "ocr": null}
-{"id": "fdw-1e2520f781", "sentiment": -0.36, "narrative": "Economic skepticism", "region_id": "singapore", "ocr": null}
-{"id": "fdw-328a8ac806", "sentiment": -0.345, "narrative": "Longer days instead", "region_id": "bangalore", "ocr": null}
-{"id": "fdw-38ab2da54f", "sentiment": 0.455, "narrative": "Work-life balance appeal", "region_id": "warsaw", "ocr": null}
-{"id": "fdw-1912d6e5aa", "sentiment": 0.478, "narrative": "Lifestyle & productivity", "region_id": "sydney", "ocr": null}
-{"id": "fdw-8babaf2323", "sentiment": -0.44, "narrative": "Culture won't change", "region_id": "tokyo", "ocr": null}
-{"id": "fdw-7e7d2b6145", "sentiment": -0.577, "narrative": "Economic skepticism", "region_id": "nairobi", "ocr": null}
-{"id": "fdw-563f811aa4", "sentiment": 0.327, "narrative": "Burnout relief", "region_id": "new-york", "ocr": null}
-{"id": "fdw-e7f1021a1e", "sentiment": 0.597, "narrative": "Recruitment & retention edge", "region_id": "united-kingdom", "ocr": null}
-{"id": "fdw-6737098fea", "sentiment": 0.229, "narrative": "Recruitment & retention edge", "region_id": "united-kingdom", "ocr": null}
-{"id": "fdw-7307d3fa39", "sentiment": 0.683, "narrative": "Pilot success & work-life balance", "region_id": "germany", "ocr": null}
-{"id": "fdw-95ab5e75ad", "sentiment": -0.299, "narrative": "Economic skepticism", "region_id": "manila", "ocr": null}
-{"id": "fdw-31b795d8f7", "sentiment": 0.564, "narrative": "Would love real 4-day week", "region_id": "bangalore", "ocr": null}
-{"id": "fdw-cd667870c8", "sentiment": 0.552, "narrative": "Lifestyle & productivity", "region_id": "sydney", "ocr": null}
-{"id": "fdw-6ef041c512", "sentiment": 0.588, "narrative": "Work-life balance appeal", "region_id": "los-angeles", "ocr": "FRIDAY = WEEKEND NOW"}
-{"id": "fdw-3ff53ea29b", "sentiment": 0.763, "narrative": "Wellbeing & productivity win", "region_id": "united-kingdom", "ocr": null}
-{"id": "fdw-1cafded4c4", "sentiment": -0.117, "narrative": "Economic skepticism", "region_id": "mumbai", "ocr": null}
-{"id": "fdw-cc90d4fb20", "sentiment": -0.429, "narrative": "Longer days instead", "region_id": "bangalore", "ocr": null}
-{"id": "fdw-1195eba4f2", "sentiment": 0.134, "narrative": "Curious / neutral", "region_id": "cape-town", "ocr": null}
-{"id": "fdw-5cb76a5431", "sentiment": 0.537, "narrative": "Pilot success & work-life balance", "region_id": "germany", "ocr": null}
-{"id": "fdw-9a11764c95", "sentiment": -0.094, "narrative": "Curious / neutral", "region_id": "paris", "ocr": null}
-{"id": "fdw-3afae2e0f2", "sentiment": -0.36, "narrative": "Economic skepticism", "region_id": "ho-chi-minh-city", "ocr": null}
-{"id": "fdw-83e5e48375", "sentiment": -0.151, "narrative": "Curious / neutral", "region_id": "lagos", "ocr": null}
-{"id": "fdw-f822d70bbf", "sentiment": -0.256, "narrative": "Culture won't change", "region_id": "tokyo", "ocr": null}
-{"id": "fdw-8930e84d4a", "sentiment": 0.622, "narrative": "Pilot success & work-life balance", "region_id": "germany", "ocr": "Vier-Tage-Woche: Stress -, Produktivität ="}
-{"id": "fdw-142e633206", "sentiment": 0.58, "narrative": "Work-life balance appeal", "region_id": "sao-paulo", "ocr": null}
-{"id": "fdw-9976d730c2", "sentiment": -0.36, "narrative": "Pay cut & competitiveness fears", "region_id": "seoul", "ocr": null}
-{"id": "fdw-f38c429e58", "sentiment": -0.028, "narrative": "Hustle culture skepticism", "region_id": "new-york", "ocr": null}
-{"id": "fdw-5cf788990d", "sentiment": 0.229, "narrative": "Work-life balance appeal", "region_id": "dubai", "ocr": null}
-{"id": "fdw-5f1b645ac5", "sentiment": -0.026, "narrative": "Curious / neutral", "region_id": "jakarta", "ocr": null}
-{"id": "fdw-ee3585a420", "sentiment": 0.099, "narrative": "Curious / neutral", "region_id": "hyderabad", "ocr": null}
-{"id": "fdw-c51173b013", "sentiment": 0.341, "narrative": "Burnout relief", "region_id": "new-york", "ocr": null}
-{"id": "fdw-769ac92680", "sentiment": 0.744, "narrative": "Recruitment & retention edge", "region_id": "united-kingdom", "ocr": null}
-{"id": "fdw-6190c0af23", "sentiment": 0.688, "narrative": "Work-life balance appeal", "region_id": "toronto", "ocr": null}
-{"id": "fdw-022f420963", "sentiment": 0.739, "narrative": "Pilot success & work-life balance", "region_id": "germany", "ocr": null}
-{"id": "fdw-3105a96f05", "sentiment": 0.57, "narrative": "Lifestyle & productivity", "region_id": "sydney", "ocr": "Friday off hits different"}
-{"id": "fdw-28c4b1cd23", "sentiment": -0.281, "narrative": "Culture won't change", "region_id": "tokyo", "ocr": null}
-{"id": "fdw-47cb15ab29", "sentiment": 1.0, "narrative": "Wellbeing & productivity win", "region_id": "united-kingdom", "ocr": null}
-{"id": "fdw-d08c91af6a", "sentiment": 0.462, "narrative": "Pilot success & work-life balance", "region_id": "germany", "ocr": null}
-{"id": "fdw-35dc82b04f", "sentiment": -0.199, "narrative": "Economic skepticism", "region_id": "sao-paulo", "ocr": null}
-{"id": "fdw-51a21411e5", "sentiment": 0.864, "narrative": "Work-life balance appeal", "region_id": "texas-us", "ocr": "FRIDAY = WEEKEND NOW"}
-{"id": "fdw-a615f1fc3d", "sentiment": 0.547, "narrative": "Work-life balance hopes", "region_id": "seoul", "ocr": null}
-{"id": "fdw-b5fb8b8855", "sentiment": 0.623, "narrative": "Burnout relief", "region_id": "new-york", "ocr": null}
-{"id": "fdw-a92c8583c3", "sentiment": -0.413, "narrative": "Doesn't work for all sectors", "region_id": "united-kingdom", "ocr": null}
-{"id": "fdw-1eb0449add", "sentiment": -0.147, "narrative": "Economic skepticism", "region_id": "paris", "ocr": null}
-{"id": "fdw-30d5d3a85c", "sentiment": 0.444, "narrative": "Work-life balance appeal", "region_id": "mexico-city", "ocr": null}
-{"id": "fdw-c4314e4673", "sentiment": 0.529, "narrative": "Work-life balance hopes", "region_id": "seoul", "ocr": null}
-{"id": "fdw-7242bcfb2d", "sentiment": 0.568, "narrative": "Work-life balance appeal", "region_id": "netherlands", "ocr": null}
-{"id": "fdw-2fea749020", "sentiment": 0.546, "narrative": "Would love real 4-day week", "region_id": "bangalore", "ocr": null}
-{"id": "fdw-cb47bd2739", "sentiment": 0.456, "narrative": "Government push & childcare", "region_id": "tokyo", "ocr": "都庁 週休3日"}
-{"id": "fdw-6551f01250", "sentiment": 0.199, "narrative": "Curious / neutral", "region_id": "vancouver", "ocr": null}
-{"id": "fdw-0965c2712a", "sentiment": 0.308, "narrative": "Burnout relief", "region_id": "new-york", "ocr": null}
-{"id": "fdw-357bd6cc7c", "sentiment": 0.565, "narrative": "Wellbeing & productivity win", "region_id": "united-kingdom", "ocr": null}
-{"id": "fdw-a0bcee15b9", "sentiment": 0.473, "narrative": "Work-life balance appeal", "region_id": "los-angeles", "ocr": "FRIDAY = WEEKEND NOW"}
-{"id": "fdw-a3cf7dc34c", "sentiment": 0.921, "narrative": "Work-life balance appeal", "region_id": "chicago", "ocr": "FRIDAY = WEEKEND NOW"}
-{"id": "fdw-98b358ebf5", "sentiment": 0.007, "narrative": "Curious / neutral", "region_id": "bogota", "ocr": null}
-{"id": "fdw-99d7aa359e", "sentiment": 0.014, "narrative": "Curious / neutral", "region_id": "mumbai", "ocr": null}
-{"id": "fdw-516495a3ca", "sentiment": -0.394, "narrative": "Economic skepticism", "region_id": "cairo", "ocr": null}
-{"id": "fdw-a3727104d2", "sentiment": 0.535, "narrative": "Wellbeing & productivity win", "region_id": "united-kingdom", "ocr": null}
-{"id": "fdw-d38addb091", "sentiment": -0.214, "narrative": "Economic skepticism", "region_id": "bangkok", "ocr": null}
-{"id": "fdw-2a6752f34e", "sentiment": -0.081, "narrative": "Curious / neutral", "region_id": "dubai", "ocr": null}
-{"id": "fdw-1b89d4bace", "sentiment": 0.196, "narrative": "Curious / neutral", "region_id": "manila", "ocr": null}
-{"id": "fdw-c621dfa80f", "sentiment": 0.535, "narrative": "Pilot success & work-life balance", "region_id": "germany", "ocr": null}
-{"id": "fdw-da96f2992f", "sentiment": 0.492, "narrative": "Burnout relief", "region_id": "new-york", "ocr": null}
-{"id": "fdw-50f3df2c2d", "sentiment": -0.029, "narrative": "Curious / neutral", "region_id": "toronto", "ocr": null}
-{"id": "fdw-e6375bece4", "sentiment": -0.042, "narrative": "Economic skepticism", "region_id": "johor", "ocr": null}
-{"id": "fdw-682d9215af", "sentiment": 0.258, "narrative": "Government push & childcare", "region_id": "tokyo", "ocr": null}
-{"id": "fdw-cce206d756", "sentiment": 0.498, "narrative": "Work-life balance hopes", "region_id": "seoul", "ocr": null}
-{"id": "fdw-90233480a0", "sentiment": 0.261, "narrative": "Curious / neutral", "region_id": "mexico-city", "ocr": null}
-{"id": "fdw-6e52c8bffe", "sentiment": 0.611, "narrative": "Work-life balance appeal", "region_id": "jakarta", "ocr": null}
-{"id": "fdw-ff911987ad", "sentiment": 0.329, "narrative": "Work-life balance appeal", "region_id": "auckland", "ocr": null}
-{"id": "fdw-ab4f0d86fa", "sentiment": 0.99, "narrative": "Work-life balance appeal", "region_id": "chicago", "ocr": null}
-{"id": "fdw-0c27ab4e5e", "sentiment": -0.386, "narrative": "Small business pushback", "region_id": "sydney", "ocr": null}
-{"id": "fdw-7fc8954649", "sentiment": -0.038, "narrative": "Economic skepticism", "region_id": "madrid", "ocr": null}
-{"id": "fdw-d7652d990c", "sentiment": -0.066, "narrative": "Curious / neutral", "region_id": "singapore", "ocr": null}
-{"id": "fdw-e8fbfa8af8", "sentiment": 0.535, "narrative": "Wellbeing & productivity win", "region_id": "united-kingdom", "ocr": null}
-{"id": "fdw-ff5da1bef8", "sentiment": -0.139, "narrative": "Economic skepticism", "region_id": "buenos-aires", "ocr": null}
-{"id": "fdw-3ce0a4c87c", "sentiment": 0.79, "narrative": "Pilot success & work-life balance", "region_id": "germany", "ocr": null}
-{"id": "fdw-5c2c1d5be7", "sentiment": 0.226, "narrative": "Would love real 4-day week", "region_id": "bangalore", "ocr": null}
-{"id": "fdw-c33de713e1", "sentiment": -0.175, "narrative": "Economic skepticism", "region_id": "nairobi", "ocr": null}
-{"id": "fdw-a2a86dcbf3", "sentiment": -0.206, "narrative": "Longer days instead", "region_id": "bangalore", "ocr": "4-day week they said... 12 hours a day they meant"}
-{"id": "fdw-6a5b04ec82", "sentiment": 0.61, "narrative": "Government push & childcare", "region_id": "tokyo", "ocr": null}
-{"id": "fdw-7f91af85fe", "sentiment": 0.714, "narrative": "Work-life balance appeal", "region_id": "mumbai", "ocr": null}
-{"id": "fdw-589d5e5631", "sentiment": 0.524, "narrative": "Work-life balance appeal", "region_id": "taipei", "ocr": null}
-{"id": "fdw-623277efd0", "sentiment": 0.402, "narrative": "Work-life balance appeal", "region_id": "cape-town", "ocr": null}
-{"id": "fdw-2b21bee78a", "sentiment": -0.363, "narrative": "Doesn't work for all sectors", "region_id": "united-kingdom", "ocr": null}
-{"id": "fdw-ef726ae7bc", "sentiment": 0.555, "narrative": "Work-life balance hopes", "region_id": "seoul", "ocr": null}
-{"id": "fdw-39207b7d9a", "sentiment": -0.189, "narrative": "Economic skepticism", "region_id": "dubai", "ocr": null}
-{"id": "fdw-6bdc37da8a", "sentiment": 0.386, "narrative": "Government push & childcare", "region_id": "tokyo", "ocr": null}
-{"id": "fdw-bd97f15884", "sentiment": -0.175, "narrative": "Economic skepticism", "region_id": "warsaw", "ocr": null}
-{"id": "fdw-9ff71125a5", "sentiment": 0.572, "narrative": "Work-life balance appeal", "region_id": "los-angeles", "ocr": null}
-{"id": "fdw-476552a2e4", "sentiment": -0.418, "narrative": "Economic skepticism", "region_id": "sao-paulo", "ocr": null}
-{"id": "fdw-37411e4f47", "sentiment": -0.343, "narrative": "Economic skepticism", "region_id": "shanghai", "ocr": null}
-{"id": "fdw-7881a59713", "sentiment": 0.284, "narrative": "Curious / neutral", "region_id": "lagos", "ocr": null}
-{"id": "fdw-e0492429b3", "sentiment": -0.041, "narrative": "Work-life balance appeal", "region_id": "bangkok", "ocr": "FRIDAY = WEEKEND NOW"}
-{"id": "fdw-cfc6b39380", "sentiment": 0.418, "narrative": "Burnout relief", "region_id": "new-york", "ocr": null}
-{"id": "fdw-a68167114d", "sentiment": 0.245, "narrative": "Would love real 4-day week", "region_id": "bangalore", "ocr": null}
-{"id": "fdw-57da70016f", "sentiment": 0.726, "narrative": "Burnout relief", "region_id": "new-york", "ocr": null}
-{"id": "fdw-76eced3902", "sentiment": 0.597, "narrative": "Pilot success & work-life balance", "region_id": "germany", "ocr": null}
-{"id": "fdw-ffcefc2ee9", "sentiment": -0.187, "narrative": "Curious / neutral", "region_id": "buenos-aires", "ocr": null}
-{"id": "fdw-23669b49fc", "sentiment": -0.11, "narrative": "Doesn't work for all sectors", "region_id": "united-kingdom", "ocr": null}
-{"id": "fdw-16da9ae9af", "sentiment": 0.649, "narrative": "Pilot success & work-life balance", "region_id": "germany", "ocr": null}
-{"id": "fdw-7a687578aa", "sentiment": 0.819, "narrative": "Lifestyle & productivity", "region_id": "sydney", "ocr": null}
-{"id": "fdw-cadb1f7f33", "sentiment": 0.626, "narrative": "Work-life balance appeal", "region_id": "paris", "ocr": null}
-{"id": "fdw-180660d3ef", "sentiment": 0.526, "narrative": "Work-life balance appeal", "region_id": "singapore", "ocr": null}
-{"id": "fdw-63e1d55780", "sentiment": 0.296, "narrative": "Would love real 4-day week", "region_id": "bangalore", "ocr": null}
-{"id": "fdw-049905f522", "sentiment": -0.124, "narrative": "Economic skepticism", "region_id": "netherlands", "ocr": null}
-{"id": "fdw-06070fd11e", "sentiment": -0.253, "narrative": "Pay cut & competitiveness fears", "region_id": "seoul", "ocr": null}
-{"id": "fdw-d01d4b9dfc", "sentiment": 0.706, "narrative": "Wellbeing & productivity win", "region_id": "united-kingdom", "ocr": "Me at 10am on a Friday under the 4-day week"}
-{"id": "fdw-ba3cf30292", "sentiment": 0.372, "narrative": "Work-life balance appeal", "region_id": "sao-paulo", "ocr": null}
-{"id": "fdw-0025601ee1", "sentiment": -0.51, "narrative": "Longer days instead", "region_id": "bangalore", "ocr": null}
-{"id": "fdw-8178212468", "sentiment": -0.283, "narrative": "Doesn't work for all sectors", "region_id": "united-kingdom", "ocr": null}
-{"id": "fdw-01055f8aa8", "sentiment": 0.554, "narrative": "Work-life balance appeal", "region_id": "bangkok", "ocr": "FRIDAY = WEEKEND NOW"}
-{"id": "fdw-5460916f5b", "sentiment": 0.106, "narrative": "Curious / neutral", "region_id": "paris", "ocr": null}
-{"id": "fdw-4daaeda5a8", "sentiment": -0.4, "narrative": "Economic skepticism", "region_id": "dubai", "ocr": null}
-{"id": "fdw-4e7ba6ca25", "sentiment": -0.384, "narrative": "Curious / neutral", "region_id": "taipei", "ocr": null}
-{"id": "fdw-5d559fcd06", "sentiment": 0.485, "narrative": "Work-life balance appeal", "region_id": "istanbul", "ocr": "FRIDAY = WEEKEND NOW"}
-{"id": "fdw-2ef4cd70fb", "sentiment": 0.419, "narrative": "Work-life balance appeal", "region_id": "arizona-us", "ocr": null}
-{"id": "fdw-88d6065052", "sentiment": 0.418, "narrative": "Burnout relief", "region_id": "new-york", "ocr": null}
-{"id": "fdw-ddc351fb37", "sentiment": 0.416, "narrative": "Lifestyle & productivity", "region_id": "sydney", "ocr": null}
-{"id": "fdw-a7ea172700", "sentiment": 0.229, "narrative": "Burnout relief", "region_id": "new-york", "ocr": null}
-{"id": "fdw-33743fc896", "sentiment": 0.34, "narrative": "Work-life balance appeal", "region_id": "nairobi", "ocr": "FRIDAY = WEEKEND NOW"}
-{"id": "fdw-65624a7670", "sentiment": 0.7, "narrative": "Wellbeing & productivity win", "region_id": "united-kingdom", "ocr": null}
-{"id": "fdw-e6a83fe695", "sentiment": -0.389, "narrative": "Culture won't change", "region_id": "tokyo", "ocr": null}
-{"id": "fdw-8cfd6d47aa", "sentiment": -0.539, "narrative": "Culture won't change", "region_id": "tokyo", "ocr": null}
-{"id": "fdw-d88f6e24d7", "sentiment": -0.264, "narrative": "Economic skepticism", "region_id": "manila", "ocr": null}
-{"id": "fdw-2c3ea1447b", "sentiment": -0.216, "narrative": "Economic competitiveness worries", "region_id": "germany", "ocr": null}
+{"id": "fdw-a5fbf6b3a6", "sentiment": -0.392, "narrative": "Economic competitiveness worries", "region_id": "germany", "ocr": null}
+{"id": "fdw-718102e5a0", "sentiment": -0.384, "narrative": "Longer days instead", "region_id": "bangalore", "ocr": "4-day week they said... 12 hours a day they meant"}
+{"id": "fdw-180029bda6", "sentiment": 0.232, "narrative": "Burnout relief", "region_id": "new-york", "ocr": null}
+{"id": "fdw-8483aec31c", "sentiment": 0.027, "narrative": "Hustle culture skepticism", "region_id": "new-york", "ocr": null}
+{"id": "fdw-dc8e215664", "sentiment": -0.478, "narrative": "Culture won't change", "region_id": "tokyo", "ocr": null}
+{"id": "fdw-51c91c69cf", "sentiment": -0.64, "narrative": "Economic competitiveness worries", "region_id": "germany", "ocr": null}
+{"id": "fdw-75acd88865", "sentiment": 0.458, "narrative": "Work-life balance appeal", "region_id": "nairobi", "ocr": null}
+{"id": "fdw-fcdc221efa", "sentiment": -0.062, "narrative": "Pay cut & competitiveness fears", "region_id": "seoul", "ocr": null}
+{"id": "fdw-6823ccac9e", "sentiment": -0.517, "narrative": "Small business pushback", "region_id": "sydney", "ocr": null}
+{"id": "fdw-ac7119692b", "sentiment": -0.072, "narrative": "Government push & childcare", "region_id": "tokyo", "ocr": null}
+{"id": "fdw-63c4547a1e", "sentiment": 0.373, "narrative": "Work-life balance appeal", "region_id": "buenos-aires", "ocr": null}
+{"id": "fdw-4095686901", "sentiment": 0.528, "narrative": "Lifestyle & productivity", "region_id": "sydney", "ocr": null}
+{"id": "fdw-62da137803", "sentiment": 0.444, "narrative": "Work-life balance hopes", "region_id": "seoul", "ocr": "주 4.5일제"}
+{"id": "fdw-d7b2d423d6", "sentiment": 0.069, "narrative": "Curious / neutral", "region_id": "delhi", "ocr": null}
+{"id": "fdw-56270ea54a", "sentiment": 0.575, "narrative": "Wellbeing & productivity win", "region_id": "united-kingdom", "ocr": null}
+{"id": "fdw-00ca8bf41c", "sentiment": -0.773, "narrative": "Longer days instead", "region_id": "bangalore", "ocr": null}
+{"id": "fdw-3e00ecaf5a", "sentiment": 0.691, "narrative": "Pilot success & work-life balance", "region_id": "germany", "ocr": null}
+{"id": "fdw-dc9334ab9a", "sentiment": 0.616, "narrative": "Burnout relief", "region_id": "new-york", "ocr": null}
+{"id": "fdw-f2e5c5fbb2", "sentiment": 0.608, "narrative": "Wellbeing & productivity win", "region_id": "united-kingdom", "ocr": null}
+{"id": "fdw-88a71c87f9", "sentiment": 1.0, "narrative": "Wellbeing & productivity win", "region_id": "united-kingdom", "ocr": null}
+{"id": "fdw-dd6a27ec79", "sentiment": -0.48, "narrative": "Small business pushback", "region_id": "sydney", "ocr": null}
+{"id": "fdw-75b0caa063", "sentiment": -0.166, "narrative": "Economic skepticism", "region_id": "virginia-us", "ocr": null}
+{"id": "fdw-bb2eba6d3b", "sentiment": 1.0, "narrative": "Wellbeing & productivity win", "region_id": "united-kingdom", "ocr": "Me at 10am on a Friday under the 4-day week"}
+{"id": "fdw-a9e24fb341", "sentiment": 0.707, "narrative": "Burnout relief", "region_id": "new-york", "ocr": null}
+{"id": "fdw-fb6a8340c0", "sentiment": 0.541, "narrative": "Government push & childcare", "region_id": "tokyo", "ocr": "都庁 週休3日"}
+{"id": "fdw-588351eb9c", "sentiment": -0.232, "narrative": "Economic skepticism", "region_id": "paris", "ocr": null}
+{"id": "fdw-4b29f8213f", "sentiment": 0.439, "narrative": "Government push & childcare", "region_id": "tokyo", "ocr": null}
+{"id": "fdw-06ce9aff1d", "sentiment": -0.263, "narrative": "Economic competitiveness worries", "region_id": "germany", "ocr": null}
+{"id": "fdw-cd47b4ac5a", "sentiment": 0.277, "narrative": "Government push & childcare", "region_id": "tokyo", "ocr": null}
+{"id": "fdw-d6998f0181", "sentiment": 0.928, "narrative": "Work-life balance appeal", "region_id": "sao-paulo", "ocr": null}
+{"id": "fdw-c47a1ec830", "sentiment": 0.377, "narrative": "Pilot success & work-life balance", "region_id": "germany", "ocr": "Vier-Tage-Woche: Stress -, Produktivität ="}
+{"id": "fdw-e040b735a1", "sentiment": 0.648, "narrative": "Work-life balance hopes", "region_id": "seoul", "ocr": null}
+{"id": "fdw-267e4953b0", "sentiment": 0.957, "narrative": "Work-life balance appeal", "region_id": "manila", "ocr": "FRIDAY = WEEKEND NOW"}
+{"id": "fdw-12ce34aff3", "sentiment": -0.175, "narrative": "Curious / neutral", "region_id": "sweden", "ocr": null}
+{"id": "fdw-0c2d9697d6", "sentiment": -0.463, "narrative": "Economic skepticism", "region_id": "bangkok", "ocr": null}
+{"id": "fdw-cc9cd36863", "sentiment": 0.583, "narrative": "Work-life balance appeal", "region_id": "los-angeles", "ocr": "FRIDAY = WEEKEND NOW"}
+{"id": "fdw-e0bbcc810a", "sentiment": 0.451, "narrative": "Work-life balance appeal", "region_id": "netherlands", "ocr": "FRIDAY = WEEKEND NOW"}
+{"id": "fdw-e7f1021a1e", "sentiment": 0.786, "narrative": "Wellbeing & productivity win", "region_id": "united-kingdom", "ocr": null}
+{"id": "fdw-c7c8bc50a7", "sentiment": 0.31, "narrative": "Lifestyle & productivity", "region_id": "sydney", "ocr": null}
+{"id": "fdw-8eeda98cef", "sentiment": 0.563, "narrative": "Burnout relief", "region_id": "new-york", "ocr": null}
+{"id": "fdw-8c2d5d0aab", "sentiment": -0.277, "narrative": "Longer days instead", "region_id": "bangalore", "ocr": null}
+{"id": "fdw-6737098fea", "sentiment": 0.868, "narrative": "Wellbeing & productivity win", "region_id": "united-kingdom", "ocr": null}
+{"id": "fdw-4dbaa9c38e", "sentiment": 0.46, "narrative": "Work-life balance appeal", "region_id": "mexico-city", "ocr": null}
+{"id": "fdw-fc9b22ac4e", "sentiment": -0.149, "narrative": "Economic skepticism", "region_id": "madrid", "ocr": null}
+{"id": "fdw-77d1d395d1", "sentiment": -0.315, "narrative": "Pay cut & competitiveness fears", "region_id": "seoul", "ocr": null}
+{"id": "fdw-3ff53ea29b", "sentiment": 0.419, "narrative": "Wellbeing & productivity win", "region_id": "united-kingdom", "ocr": "4 DAY WEEK - 1 YEAR ON"}
+{"id": "fdw-20e61293ad", "sentiment": -0.517, "narrative": "Longer days instead", "region_id": "bangalore", "ocr": null}
+{"id": "fdw-e245d2b8a6", "sentiment": -0.099, "narrative": "Curious / neutral", "region_id": "mumbai", "ocr": null}
+{"id": "fdw-809ca752a8", "sentiment": 0.557, "narrative": "Lifestyle & productivity", "region_id": "sydney", "ocr": null}
+{"id": "fdw-ec8c000d27", "sentiment": 0.352, "narrative": "Work-life balance appeal", "region_id": "delhi", "ocr": null}
+{"id": "fdw-b53dd3426c", "sentiment": 0.355, "narrative": "Lifestyle & productivity", "region_id": "sydney", "ocr": null}
+{"id": "fdw-db96f7a397", "sentiment": 0.4, "narrative": "Recruitment & retention edge", "region_id": "united-kingdom", "ocr": null}
+{"id": "fdw-844c35e278", "sentiment": 0.714, "narrative": "Pilot success & work-life balance", "region_id": "germany", "ocr": null}
+{"id": "fdw-49c91f63f7", "sentiment": -0.609, "narrative": "Longer days instead", "region_id": "bangalore", "ocr": null}
+{"id": "fdw-4650607eb5", "sentiment": 0.392, "narrative": "Curious / neutral", "region_id": "sao-paulo", "ocr": null}
+{"id": "fdw-716b6d0bd9", "sentiment": 0.593, "narrative": "Work-life balance appeal", "region_id": "jakarta", "ocr": null}
+{"id": "fdw-47cb15ab29", "sentiment": 0.683, "narrative": "Recruitment & retention edge", "region_id": "united-kingdom", "ocr": null}
+{"id": "fdw-f5d6d50b87", "sentiment": 0.409, "narrative": "Government push & childcare", "region_id": "tokyo", "ocr": null}
+{"id": "fdw-64a3e2a562", "sentiment": 0.665, "narrative": "Work-life balance appeal", "region_id": "singapore", "ocr": "FRIDAY = WEEKEND NOW"}
+{"id": "fdw-d15241826a", "sentiment": 0.395, "narrative": "Pilot success & work-life balance", "region_id": "germany", "ocr": null}
+{"id": "fdw-022f9182e4", "sentiment": -0.017, "narrative": "Curious / neutral", "region_id": "shanghai", "ocr": null}
+{"id": "fdw-3a99c6f59d", "sentiment": 0.339, "narrative": "Burnout relief", "region_id": "new-york", "ocr": null}
+{"id": "fdw-769ac92680", "sentiment": 0.869, "narrative": "Wellbeing & productivity win", "region_id": "united-kingdom", "ocr": null}
+{"id": "fdw-9216489689", "sentiment": 0.553, "narrative": "Work-life balance hopes", "region_id": "seoul", "ocr": null}
+{"id": "fdw-a92c8583c3", "sentiment": 0.616, "narrative": "Wellbeing & productivity win", "region_id": "united-kingdom", "ocr": "4 DAY WEEK - 1 YEAR ON"}
+{"id": "fdw-dee4cb310e", "sentiment": 0.153, "narrative": "Burnout relief", "region_id": "new-york", "ocr": null}
+{"id": "fdw-416fadd2e3", "sentiment": -0.552, "narrative": "Longer days instead", "region_id": "bangalore", "ocr": null}
+{"id": "fdw-267483d1aa", "sentiment": -0.588, "narrative": "Small business pushback", "region_id": "sydney", "ocr": null}
+{"id": "fdw-203c2cc65c", "sentiment": 0.895, "narrative": "Pilot success & work-life balance", "region_id": "germany", "ocr": null}
+{"id": "fdw-c536cb76bb", "sentiment": -0.26, "narrative": "Curious / neutral", "region_id": "paris", "ocr": null}
+{"id": "fdw-baa02de7a2", "sentiment": 0.68, "narrative": "Work-life balance appeal", "region_id": "delhi", "ocr": null}
+{"id": "fdw-159600702a", "sentiment": 0.41, "narrative": "Would love real 4-day week", "region_id": "bangalore", "ocr": null}
+{"id": "fdw-113f08f1c5", "sentiment": -0.252, "narrative": "Culture won't change", "region_id": "tokyo", "ocr": null}
+{"id": "fdw-82456d72b2", "sentiment": -0.043, "narrative": "Economic skepticism", "region_id": "toronto", "ocr": null}
+{"id": "fdw-357bd6cc7c", "sentiment": 0.576, "narrative": "Recruitment & retention edge", "region_id": "united-kingdom", "ocr": null}
+{"id": "fdw-0b670d6532", "sentiment": 0.412, "narrative": "Lifestyle & productivity", "region_id": "sydney", "ocr": null}
 {"id": "fdw-bcdee0d60e", "sentiment": 0.216, "narrative": "Work-life balance appeal", "region_id": "ireland", "ocr": null}
-{"id": "fdw-03d839976d", "sentiment": -0.042, "narrative": "Pay cut & competitiveness fears", "region_id": "seoul", "ocr": null}
-{"id": "fdw-b6885843a6", "sentiment": -0.257, "narrative": "Economic skepticism", "region_id": "warsaw", "ocr": null}
-{"id": "fdw-c455823869", "sentiment": -0.25, "narrative": "Culture won't change", "region_id": "tokyo", "ocr": null}
-{"id": "fdw-9d2909fd96", "sentiment": 0.579, "narrative": "Work-life balance appeal", "region_id": "buenos-aires", "ocr": null}
-{"id": "fdw-227dabdbdb", "sentiment": 0.169, "narrative": "Curious / neutral", "region_id": "cape-town", "ocr": null}
-{"id": "fdw-14a891194a", "sentiment": 0.265, "narrative": "Recruitment & retention edge", "region_id": "united-kingdom", "ocr": null}
-{"id": "fdw-d90df67953", "sentiment": 0.315, "narrative": "Work-life balance appeal", "region_id": "sweden", "ocr": null}
-{"id": "fdw-bb651ec6e8", "sentiment": 1.0, "narrative": "Burnout relief", "region_id": "new-york", "ocr": null}
-{"id": "fdw-15ad550375", "sentiment": -0.284, "narrative": "Pay cut & competitiveness fears", "region_id": "seoul", "ocr": null}
-{"id": "fdw-9446df8be5", "sentiment": -0.788, "narrative": "Longer days instead", "region_id": "bangalore", "ocr": null}
-{"id": "fdw-3b8babe94d", "sentiment": 0.603, "narrative": "Wellbeing & productivity win", "region_id": "united-kingdom", "ocr": null}
-{"id": "fdw-65ce96df99", "sentiment": -0.025, "narrative": "Curious / neutral", "region_id": "mexico-city", "ocr": null}
-{"id": "fdw-7515759faf", "sentiment": 0.543, "narrative": "Work-life balance appeal", "region_id": "jakarta", "ocr": null}
-{"id": "fdw-60b652b1c2", "sentiment": 0.634, "narrative": "Work-life balance appeal", "region_id": "mumbai", "ocr": "FRIDAY = WEEKEND NOW"}
-{"id": "fdw-a8b4d0be29", "sentiment": 0.442, "narrative": "Work-life balance appeal", "region_id": "sao-paulo", "ocr": null}
-{"id": "fdw-7298509a8f", "sentiment": 0.491, "narrative": "Would love real 4-day week", "region_id": "bangalore", "ocr": null}
-{"id": "fdw-3f874dd340", "sentiment": -0.737, "narrative": "Economic competitiveness worries", "region_id": "germany", "ocr": null}
-{"id": "fdw-79e9ca857a", "sentiment": -0.43, "narrative": "Economic skepticism", "region_id": "toronto", "ocr": null}
-{"id": "fdw-81ea27c2c1", "sentiment": -0.241, "narrative": "Hustle culture skepticism", "region_id": "new-york", "ocr": null}
-{"id": "fdw-04cdb5317b", "sentiment": 0.573, "narrative": "Work-life balance appeal", "region_id": "bogota", "ocr": null}
-{"id": "fdw-7a7f1388af", "sentiment": 0.653, "narrative": "Work-life balance appeal", "region_id": "madrid", "ocr": null}
-{"id": "fdw-6256078a21", "sentiment": 0.654, "narrative": "Lifestyle & productivity", "region_id": "sydney", "ocr": null}
-{"id": "fdw-e4000c59c1", "sentiment": 0.414, "narrative": "Work-life balance appeal", "region_id": "dubai", "ocr": null}
-{"id": "fdw-01390e836b", "sentiment": -0.079, "narrative": "Curious / neutral", "region_id": "madrid", "ocr": null}
-{"id": "fdw-ccf63c050c", "sentiment": -0.169, "narrative": "Economic skepticism", "region_id": "cape-town", "ocr": null}
-{"id": "fdw-9a264411aa", "sentiment": 0.192, "narrative": "Government push & childcare", "region_id": "tokyo", "ocr": null}
-{"id": "fdw-41d4ba6145", "sentiment": -0.246, "narrative": "Economic skepticism", "region_id": "toronto", "ocr": null}
-{"id": "fdw-e82bacf49c", "sentiment": 0.456, "narrative": "Would love real 4-day week", "region_id": "bangalore", "ocr": null}
-{"id": "fdw-040380d49b", "sentiment": 0.304, "narrative": "Government push & childcare", "region_id": "tokyo", "ocr": null}
-{"id": "fdw-666c7fadb8", "sentiment": 0.136, "narrative": "Burnout relief", "region_id": "new-york", "ocr": null}
-{"id": "fdw-76e8ecfe51", "sentiment": 0.619, "narrative": "Work-life balance hopes", "region_id": "seoul", "ocr": null}
-{"id": "fdw-5760a0f1a5", "sentiment": 0.767, "narrative": "Recruitment & retention edge", "region_id": "united-kingdom", "ocr": null}
-{"id": "fdw-fb37f315e5", "sentiment": 0.664, "narrative": "Burnout relief", "region_id": "new-york", "ocr": null}
-{"id": "fdw-925e398846", "sentiment": -0.463, "narrative": "Pay cut & competitiveness fears", "region_id": "seoul", "ocr": null}
-{"id": "fdw-794e07ac24", "sentiment": -0.425, "narrative": "Economic skepticism", "region_id": "delhi", "ocr": null}
-{"id": "fdw-f50622b1b4", "sentiment": 0.43, "narrative": "Work-life balance appeal", "region_id": "hyderabad", "ocr": null}
-{"id": "fdw-37fe93b425", "sentiment": -0.456, "narrative": "Economic skepticism", "region_id": "istanbul", "ocr": null}
-{"id": "fdw-f9e47dee31", "sentiment": -0.163, "narrative": "Curious / neutral", "region_id": "dubai", "ocr": null}
-{"id": "fdw-747e52e611", "sentiment": 0.775, "narrative": "Recruitment & retention edge", "region_id": "united-kingdom", "ocr": null}
-{"id": "fdw-2be967cded", "sentiment": -0.287, "narrative": "Economic skepticism", "region_id": "paris", "ocr": null}
-{"id": "fdw-e17f3982bb", "sentiment": -0.272, "narrative": "Economic competitiveness worries", "region_id": "germany", "ocr": null}
-{"id": "fdw-cf6afae301", "sentiment": 0.156, "narrative": "Curious / neutral", "region_id": "virginia-us", "ocr": null}
-{"id": "fdw-3c4228b679", "sentiment": 0.363, "narrative": "Work-life balance appeal", "region_id": "sao-paulo", "ocr": null}
-{"id": "fdw-fbbb26ec01", "sentiment": 0.672, "narrative": "Work-life balance appeal", "region_id": "mumbai", "ocr": null}
-{"id": "fdw-29c980d3b4", "sentiment": 0.645, "narrative": "Work-life balance appeal", "region_id": "netherlands", "ocr": null}
-{"id": "fdw-2a9777e18f", "sentiment": 0.613, "narrative": "Lifestyle & productivity", "region_id": "sydney", "ocr": null}
-{"id": "fdw-2a57e0bbd7", "sentiment": 0.043, "narrative": "Curious / neutral", "region_id": "manila", "ocr": null}
-{"id": "fdw-c349f27ba8", "sentiment": -0.311, "narrative": "Small business pushback", "region_id": "sydney", "ocr": null}
-{"id": "fdw-a8ee0af67b", "sentiment": -0.016, "narrative": "Curious / neutral", "region_id": "jakarta", "ocr": null}
-{"id": "fdw-65de624e8e", "sentiment": -0.647, "narrative": "Economic competitiveness worries", "region_id": "germany", "ocr": null}
-{"id": "fdw-d980d01825", "sentiment": 0.128, "narrative": "Curious / neutral", "region_id": "warsaw", "ocr": null}
-{"id": "fdw-3ad636743e", "sentiment": -0.094, "narrative": "Curious / neutral", "region_id": "hyderabad", "ocr": null}
-{"id": "fdw-6c8989ede2", "sentiment": -0.569, "narrative": "Longer days instead", "region_id": "bangalore", "ocr": null}
-{"id": "fdw-1abf552078", "sentiment": 0.24, "narrative": "Curious / neutral", "region_id": "bangkok", "ocr": null}
-{"id": "fdw-a006883217", "sentiment": -0.173, "narrative": "Economic skepticism", "region_id": "sao-paulo", "ocr": null}
-{"id": "fdw-e10b81859d", "sentiment": 0.361, "narrative": "Lifestyle & productivity", "region_id": "sydney", "ocr": null}
-{"id": "fdw-63d81bd824", "sentiment": 0.327, "narrative": "Work-life balance hopes", "region_id": "seoul", "ocr": null}
-{"id": "fdw-4e32244266", "sentiment": 0.28, "narrative": "Work-life balance appeal", "region_id": "netherlands", "ocr": null}
-{"id": "fdw-18123ff6e0", "sentiment": -0.247, "narrative": "Economic skepticism", "region_id": "texas-us", "ocr": null}
-{"id": "fdw-26f57f5827", "sentiment": -0.395, "narrative": "Economic skepticism", "region_id": "paris", "ocr": null}
-{"id": "fdw-46790011c6", "sentiment": -0.096, "narrative": "Curious / neutral", "region_id": "los-angeles", "ocr": null}
+{"id": "fdw-343cdef641", "sentiment": -0.127, "narrative": "Pay cut & competitiveness fears", "region_id": "seoul", "ocr": null}
+{"id": "fdw-b27b59f4d2", "sentiment": 0.049, "narrative": "Hustle culture skepticism", "region_id": "new-york", "ocr": null}
+{"id": "fdw-30e5d588b6", "sentiment": 0.428, "narrative": "Pilot success & work-life balance", "region_id": "germany", "ocr": null}
+{"id": "fdw-3c4bb63111", "sentiment": 0.499, "narrative": "Work-life balance hopes", "region_id": "seoul", "ocr": null}
+{"id": "fdw-d92fbf3eff", "sentiment": 0.457, "narrative": "Work-life balance appeal", "region_id": "shanghai", "ocr": "FRIDAY = WEEKEND NOW"}
+{"id": "fdw-f405270600", "sentiment": -0.217, "narrative": "Curious / neutral", "region_id": "santiago", "ocr": null}
+{"id": "fdw-425c2784df", "sentiment": 0.358, "narrative": "Lifestyle & productivity", "region_id": "sydney", "ocr": null}
+{"id": "fdw-ce8ed80ac7", "sentiment": -0.301, "narrative": "Hustle culture skepticism", "region_id": "new-york", "ocr": null}
+{"id": "fdw-45fde2f216", "sentiment": 0.225, "narrative": "Lifestyle & productivity", "region_id": "sydney", "ocr": "Friday off hits different"}
+{"id": "fdw-a2b9692f54", "sentiment": -0.127, "narrative": "Curious / neutral", "region_id": "mexico-city", "ocr": null}
+{"id": "fdw-3c63324a75", "sentiment": -0.032, "narrative": "Economic skepticism", "region_id": "arizona-us", "ocr": null}
+{"id": "fdw-5388855417", "sentiment": 0.393, "narrative": "Would love real 4-day week", "region_id": "bangalore", "ocr": null}
+{"id": "fdw-16ce707021", "sentiment": 0.44, "narrative": "Pilot success & work-life balance", "region_id": "germany", "ocr": "Vier-Tage-Woche: Stress -, Produktivität ="}
+{"id": "fdw-23669b49fc", "sentiment": 0.796, "narrative": "Wellbeing & productivity win", "region_id": "united-kingdom", "ocr": null}
+{"id": "fdw-a3727104d2", "sentiment": 0.78, "narrative": "Wellbeing & productivity win", "region_id": "united-kingdom", "ocr": null}
+{"id": "fdw-1a4a991bca", "sentiment": -0.505, "narrative": "Economic competitiveness worries", "region_id": "germany", "ocr": null}
+{"id": "fdw-33e61e6b7c", "sentiment": 0.005, "narrative": "Pay cut & competitiveness fears", "region_id": "seoul", "ocr": null}
+{"id": "fdw-612da39565", "sentiment": 0.688, "narrative": "Work-life balance appeal", "region_id": "jakarta", "ocr": null}
+{"id": "fdw-173cb272c6", "sentiment": -0.702, "narrative": "Longer days instead", "region_id": "bangalore", "ocr": null}
+{"id": "fdw-b5e8703021", "sentiment": 0.138, "narrative": "Curious / neutral", "region_id": "lagos", "ocr": null}
+{"id": "fdw-7e701b9407", "sentiment": 0.461, "narrative": "Burnout relief", "region_id": "new-york", "ocr": null}
+{"id": "fdw-5d38114ecd", "sentiment": 0.261, "narrative": "Government push & childcare", "region_id": "tokyo", "ocr": null}
+{"id": "fdw-2b21bee78a", "sentiment": 0.411, "narrative": "Recruitment & retention edge", "region_id": "united-kingdom", "ocr": null}
+{"id": "fdw-e722e40775", "sentiment": 0.696, "narrative": "Burnout relief", "region_id": "new-york", "ocr": null}
+{"id": "fdw-e8fbfa8af8", "sentiment": -0.376, "narrative": "Doesn't work for all sectors", "region_id": "united-kingdom", "ocr": null}
+{"id": "fdw-a0828dd6ee", "sentiment": 0.432, "narrative": "Government push & childcare", "region_id": "tokyo", "ocr": null}
+{"id": "fdw-4b13eedac8", "sentiment": 0.724, "narrative": "Work-life balance appeal", "region_id": "texas-us", "ocr": null}
+{"id": "fdw-e4b0423ddf", "sentiment": -0.511, "narrative": "Economic skepticism", "region_id": "warsaw", "ocr": null}
+{"id": "fdw-4969f59827", "sentiment": 0.298, "narrative": "Pilot success & work-life balance", "region_id": "germany", "ocr": null}
+{"id": "fdw-b13783228b", "sentiment": 0.02, "narrative": "Curious / neutral", "region_id": "cairo", "ocr": null}
+{"id": "fdw-8178212468", "sentiment": 0.831, "narrative": "Wellbeing & productivity win", "region_id": "united-kingdom", "ocr": "4 DAY WEEK - 1 YEAR ON"}
+{"id": "fdw-f08c5ea4ee", "sentiment": 0.387, "narrative": "Work-life balance hopes", "region_id": "seoul", "ocr": "주 4.5일제"}
+{"id": "fdw-25773c1470", "sentiment": -0.71, "narrative": "Culture won't change", "region_id": "tokyo", "ocr": null}
+{"id": "fdw-2145bf1f7c", "sentiment": -0.456, "narrative": "Longer days instead", "region_id": "bangalore", "ocr": "4-day week they said... 12 hours a day they meant"}
+{"id": "fdw-f97ff9a2bd", "sentiment": -0.003, "narrative": "Curious / neutral", "region_id": "warsaw", "ocr": null}
+{"id": "fdw-8a230fcaf5", "sentiment": 0.267, "narrative": "Burnout relief", "region_id": "new-york", "ocr": null}
+{"id": "fdw-2333b61d2f", "sentiment": 0.584, "narrative": "Work-life balance appeal", "region_id": "los-angeles", "ocr": "FRIDAY = WEEKEND NOW"}
+{"id": "fdw-14a891194a", "sentiment": 0.975, "narrative": "Wellbeing & productivity win", "region_id": "united-kingdom", "ocr": null}
+{"id": "fdw-ba8d78aae8", "sentiment": 0.551, "narrative": "Work-life balance appeal", "region_id": "auckland", "ocr": null}
+{"id": "fdw-1ecbc2b206", "sentiment": 0.871, "narrative": "Lifestyle & productivity", "region_id": "sydney", "ocr": "Friday off hits different"}
+{"id": "fdw-12795c8b5d", "sentiment": 0.601, "narrative": "Work-life balance hopes", "region_id": "seoul", "ocr": "주 4.5일제"}
+{"id": "fdw-3ab5081c5a", "sentiment": 0.432, "narrative": "Pilot success & work-life balance", "region_id": "germany", "ocr": null}
+{"id": "fdw-6e249a1cd4", "sentiment": -0.534, "narrative": "Economic skepticism", "region_id": "mexico-city", "ocr": null}
+{"id": "fdw-fb783239c2", "sentiment": -0.072, "narrative": "Economic skepticism", "region_id": "virginia-us", "ocr": null}
+{"id": "fdw-87f22267da", "sentiment": -0.148, "narrative": "Longer days instead", "region_id": "bangalore", "ocr": "4-day week they said... 12 hours a day they meant"}
+{"id": "fdw-7cb7c4de46", "sentiment": 0.765, "narrative": "Burnout relief", "region_id": "new-york", "ocr": null}
+{"id": "fdw-531eecee3d", "sentiment": -0.538, "narrative": "Longer days instead", "region_id": "bangalore", "ocr": "4-day week they said... 12 hours a day they meant"}
+{"id": "fdw-b4c2a778ec", "sentiment": -0.332, "narrative": "Economic skepticism", "region_id": "taipei", "ocr": null}
+{"id": "fdw-cd64514804", "sentiment": -0.579, "narrative": "Economic skepticism", "region_id": "sao-paulo", "ocr": null}
+{"id": "fdw-1ccc89f1c0", "sentiment": -0.105, "narrative": "Hustle culture skepticism", "region_id": "new-york", "ocr": null}
+{"id": "fdw-6f97e1a7ab", "sentiment": 0.44, "narrative": "Pilot success & work-life balance", "region_id": "germany", "ocr": null}
+{"id": "fdw-d01d4b9dfc", "sentiment": 0.494, "narrative": "Wellbeing & productivity win", "region_id": "united-kingdom", "ocr": "Me at 10am on a Friday under the 4-day week"}
+{"id": "fdw-0e5725e210", "sentiment": 0.744, "narrative": "Pilot success & work-life balance", "region_id": "germany", "ocr": null}
+{"id": "fdw-0d1f7ea512", "sentiment": -0.424, "narrative": "Economic skepticism", "region_id": "cairo", "ocr": null}
+{"id": "fdw-3b8babe94d", "sentiment": -0.134, "narrative": "Doesn't work for all sectors", "region_id": "united-kingdom", "ocr": null}
+{"id": "fdw-65624a7670", "sentiment": 0.634, "narrative": "Wellbeing & productivity win", "region_id": "united-kingdom", "ocr": null}
+{"id": "fdw-c2a46ad96e", "sentiment": -0.581, "narrative": "Culture won't change", "region_id": "tokyo", "ocr": null}
+{"id": "fdw-e7a8ebdc5c", "sentiment": -0.493, "narrative": "Small business pushback", "region_id": "sydney", "ocr": null}
+{"id": "fdw-b1a8daf691", "sentiment": 0.258, "narrative": "Work-life balance hopes", "region_id": "seoul", "ocr": null}
+{"id": "fdw-747e52e611", "sentiment": 0.975, "narrative": "Wellbeing & productivity win", "region_id": "united-kingdom", "ocr": "4 DAY WEEK - 1 YEAR ON"}
+{"id": "fdw-609d122b9b", "sentiment": -0.671, "narrative": "Economic competitiveness worries", "region_id": "germany", "ocr": null}
+{"id": "fdw-9e61001baa", "sentiment": 0.571, "narrative": "Lifestyle & productivity", "region_id": "sydney", "ocr": null}
+{"id": "fdw-bb7ba3cfa4", "sentiment": -0.118, "narrative": "Longer days instead", "region_id": "bangalore", "ocr": null}
+{"id": "fdw-e978373aa1", "sentiment": -0.333, "narrative": "Economic competitiveness worries", "region_id": "germany", "ocr": null}
+{"id": "fdw-72ed871c86", "sentiment": -0.268, "narrative": "Pay cut & competitiveness fears", "region_id": "seoul", "ocr": null}
+{"id": "fdw-2564f0244e", "sentiment": 0.396, "narrative": "Pilot success & work-life balance", "region_id": "germany", "ocr": null}
+{"id": "fdw-e15c0228d5", "sentiment": 0.326, "narrative": "Burnout relief", "region_id": "new-york", "ocr": null}
 {"id": "fdw-af8e1ee68f", "sentiment": 0.401, "narrative": "Recruitment & retention edge", "region_id": "united-kingdom", "ocr": null}
-{"id": "fdw-5b60dd3522", "sentiment": -0.23, "narrative": "Economic skepticism", "region_id": "manila", "ocr": null}
-{"id": "fdw-8f8f030e98", "sentiment": 0.631, "narrative": "Pilot success & work-life balance", "region_id": "germany", "ocr": null}
-{"id": "fdw-121fa6880b", "sentiment": -0.274, "narrative": "Pay cut & competitiveness fears", "region_id": "seoul", "ocr": null}
-{"id": "fdw-639a7c9ad6", "sentiment": 0.315, "narrative": "Work-life balance appeal", "region_id": "mexico-city", "ocr": null}
-{"id": "fdw-2f89aa44ad", "sentiment": 0.904, "narrative": "Pilot success & work-life balance", "region_id": "germany", "ocr": null}
-{"id": "fdw-fc7aee109b", "sentiment": 0.308, "narrative": "Government push & childcare", "region_id": "tokyo", "ocr": "都庁 週休3日"}
-{"id": "fdw-e1062e40be", "sentiment": 0.407, "narrative": "Burnout relief", "region_id": "new-york", "ocr": null}
-{"id": "fdw-69a79c4eb5", "sentiment": -0.29, "narrative": "Longer days instead", "region_id": "bangalore", "ocr": null}
+{"id": "fdw-de1a4a8b75", "sentiment": 0.933, "narrative": "Lifestyle & productivity", "region_id": "sydney", "ocr": null}
+{"id": "fdw-adede1346c", "sentiment": 0.597, "narrative": "Work-life balance appeal", "region_id": "paris", "ocr": null}
+{"id": "fdw-4f66ec5a3f", "sentiment": -0.072, "narrative": "Curious / neutral", "region_id": "virginia-us", "ocr": null}
+{"id": "fdw-9a75977db5", "sentiment": 0.725, "narrative": "Work-life balance appeal", "region_id": "lagos", "ocr": null}
+{"id": "fdw-bc634cdd8d", "sentiment": 0.349, "narrative": "Would love real 4-day week", "region_id": "bangalore", "ocr": null}
+{"id": "fdw-31f36c0180", "sentiment": 0.565, "narrative": "Work-life balance appeal", "region_id": "mumbai", "ocr": null}
+{"id": "fdw-704b457af5", "sentiment": -0.18, "narrative": "Economic skepticism", "region_id": "arizona-us", "ocr": null}
+{"id": "fdw-6d6a234258", "sentiment": 0.504, "narrative": "Burnout relief", "region_id": "new-york", "ocr": null}
+{"id": "fdw-860d5e97b1", "sentiment": 0.57, "narrative": "Government push & childcare", "region_id": "tokyo", "ocr": "都庁 週休3日"}
+{"id": "fdw-3452b709b2", "sentiment": 0.561, "narrative": "Burnout relief", "region_id": "new-york", "ocr": null}
+{"id": "fdw-4a3d124b24", "sentiment": 0.679, "narrative": "Lifestyle & productivity", "region_id": "sydney", "ocr": null}
+{"id": "fdw-5760a0f1a5", "sentiment": 0.326, "narrative": "Wellbeing & productivity win", "region_id": "united-kingdom", "ocr": null}
 {"id": "fdw-093b5d1d20", "sentiment": 0.711, "narrative": "Wellbeing & productivity win", "region_id": "united-kingdom", "ocr": "4 DAY WEEK - 1 YEAR ON"}
-{"id": "fdw-795178240b", "sentiment": 0.608, "narrative": "Work-life balance appeal", "region_id": "virginia-us", "ocr": null}
-{"id": "fdw-2edb263003", "sentiment": -0.204, "narrative": "Economic skepticism", "region_id": "delhi", "ocr": null}
-{"id": "fdw-45e0c01ec8", "sentiment": 0.063, "narrative": "Work-life balance appeal", "region_id": "toronto", "ocr": null}
+{"id": "fdw-89b1246c71", "sentiment": 0.253, "narrative": "Government push & childcare", "region_id": "tokyo", "ocr": null}
+{"id": "fdw-f5d826ca5c", "sentiment": -0.151, "narrative": "Curious / neutral", "region_id": "los-angeles", "ocr": null}
+{"id": "fdw-299997f1ba", "sentiment": -0.364, "narrative": "Culture won't change", "region_id": "tokyo", "ocr": null}
+{"id": "fdw-39997b47be", "sentiment": 0.083, "narrative": "Work-life balance appeal", "region_id": "madrid", "ocr": null}

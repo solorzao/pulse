@@ -1,26 +1,188 @@
 @import "tailwindcss";
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
-}
-
 @theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+  --color-ground: #05070b;
+  --color-panel: #0d1117;
+  --color-panel2: #151a21;
+  --color-note: #121821;
+  --color-line: #222932;
+  --color-line2: #2c3540;
+  --color-track: #1d242c;
+  --color-ink: #e8ecf1;
+  --color-ink2: #c9cfd8;
+  --color-muted: #9aa4b2;
+  --color-soft: #b8c1cc;
+  --color-neg: #ff8a3d;
+  --color-neu: #a7b0bd;
+  --color-pos: #4c9bff;
+  --color-accent: #c8f25a;
+  --font-sans: var(--font-plex-sans), system-ui, sans-serif;
+  --font-mono: var(--font-plex-mono), ui-monospace, monospace;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+html,
+body {
+  background: #05070b;
+  color: #e8ecf1;
+}
+body {
+  font-family: var(--font-plex-sans), system-ui, sans-serif;
+  font-size: 14px;
+  line-height: 1.45;
+}
+a {
+  color: #7db6ff;
+}
+a:hover {
+  color: #a9ceff;
+}
+::selection {
+  background: rgba(200, 242, 90, 0.35);
+}
+* {
+  scrollbar-width: thin;
+  scrollbar-color: #2c3540 transparent;
+}
+
+/* ---- Globe hotspots (HTML layer) ---------------------------------------- */
+.pulse-hot {
+  position: relative;
+  width: 0;
+  height: 0;
+  cursor: pointer;
+}
+.pulse-hot__glow {
+  position: absolute;
+  left: calc(var(--r) / -1);
+  top: calc(var(--r) / -1);
+  width: calc(var(--r) * 2);
+  height: calc(var(--r) * 2);
+  border-radius: 50%;
+  background: radial-gradient(circle, var(--c) 0%, var(--c) 12%, color-mix(in srgb, var(--c) 45%, transparent) 38%, var(--c0) 72%);
+  mix-blend-mode: screen;
+  animation: pulse-breathe 3.2s ease-in-out infinite;
+}
+.pulse-hot__core {
+  position: absolute;
+  left: -3px;
+  top: -3px;
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: #fff;
+  box-shadow: 0 0 8px var(--c);
+}
+.pulse-hot__sel {
+  position: absolute;
+  left: -15px;
+  top: -15px;
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  border: 1px dashed rgba(255, 255, 255, 0.75);
+  animation: spin 12s linear infinite;
+}
+.pulse-hot__sel::before {
+  content: "";
+  position: absolute;
+  inset: 6px;
+  border-radius: 50%;
+  border: 1.6px solid #fff;
+}
+.pulse-hot__label {
+  position: absolute;
+  left: 14px;
+  top: -26px;
+  white-space: nowrap;
+  font-size: 12px;
+  font-weight: 600;
+  color: #e8ecf1;
+  text-shadow: 0 1px 6px #000, 0 0 2px #000;
+  pointer-events: none;
+}
+.pulse-hot__label b {
+  font-family: var(--font-plex-mono), monospace;
+  font-weight: 500;
+  color: #c9cfd8;
+}
+.pulse-hot:hover .pulse-hot__glow {
+  filter: brightness(1.35);
+}
+
+.pulse-node {
+  position: relative;
+  width: 0;
+  height: 0;
+}
+.pulse-node__dot {
+  position: absolute;
+  left: -6px;
+  top: -6px;
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  background: #c8f25a;
+  border: 2px solid #05070b;
+  box-shadow: 0 0 14px rgba(200, 242, 90, 0.8);
+}
+.pulse-node.is-first .pulse-node__dot {
+  box-shadow: 0 0 0 4px rgba(200, 242, 90, 0.25), 0 0 18px rgba(200, 242, 90, 0.9);
+}
+.pulse-node__label {
+  position: absolute;
+  left: 10px;
+  top: -24px;
+  white-space: nowrap;
+  font-size: 12px;
+  font-weight: 600;
+  color: #e8ecf1;
+  text-shadow: 0 1px 6px #000, 0 0 2px #000;
+}
+
+@keyframes pulse-breathe {
+  0%,
+  100% {
+    transform: scale(0.92);
+    opacity: 0.85;
+  }
+  50% {
+    transform: scale(1.08);
+    opacity: 1;
+  }
+}
+@keyframes spin {
+  to {
+    transform: rotate(360deg);
   }
 }
 
-body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+/* ---- misc ---------------------------------------------------------------- */
+.striped-tile {
+  background: repeating-linear-gradient(135deg, #161c24 0 8px, #11161d 8px 16px);
+}
+.live-dot {
+  animation: live 1.6s ease-in-out infinite;
+}
+@keyframes live {
+  50% {
+    opacity: 0.35;
+  }
+}
+.fade-in {
+  animation: fade-in 0.35s ease-out both;
+}
+@keyframes fade-in {
+  from {
+    opacity: 0;
+    transform: translateY(6px);
+  }
+}
+.drawer-in {
+  animation: drawer-in 0.35s cubic-bezier(0.2, 0.8, 0.2, 1) both;
+}
+@keyframes drawer-in {
+  from {
+    transform: translateX(24px);
+    opacity: 0;
+  }
 }
