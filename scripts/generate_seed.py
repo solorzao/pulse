@@ -593,7 +593,7 @@ def make_post(rng, topic, rid, rname, nar, ts, idx):
         translated = True
     if not translated:
         pre = rng.choice(PREFIXES)
-        if pre and text.split(" ", 1)[0] in LOWERABLE:
+        if pre in ("Honestly, ", "Ok so ", "Lol ") and text.split(" ", 1)[0] in LOWERABLE:
             text = text[0].lower() + text[1:]
         text = pre + text
     s_mean = nar["s"]
