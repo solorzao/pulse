@@ -50,7 +50,7 @@ export function AskBar({
         </label>
         <button
           type="submit"
-          disabled={busy || !value.trim()}
+          disabled={busy}
           className="h-12 rounded-[10px] bg-accent px-5 font-semibold text-ground transition hover:brightness-110 disabled:opacity-50"
         >
           {busy ? "Thinking…" : "Ask Pulse"}

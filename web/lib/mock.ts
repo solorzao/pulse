@@ -356,7 +356,8 @@ export function mockAsk(req: AskRequest): AskResponse {
     };
   }
 
-  if (q.includes("jakarta") || q.includes("singapore") || q.includes("scooter") || req.topic === "electric-scooters") {
+  const mentionsIreland = q.includes("ireland");
+  if (!mentionsIreland && (q.includes("jakarta") || q.includes("singapore") || q.includes("scooter") || req.topic === "electric-scooters")) {
     const j = mockRegion("electric-scooters", "jakarta");
     const s = mockRegion("electric-scooters", "singapore");
     return {
@@ -385,8 +386,12 @@ export function mockAsk(req: AskRequest): AskResponse {
   }
 
   // Default: region-focused answer (Ireland unless a region is selected)
-  const topic = req.topic ?? "ai-datacenters";
-  const regionId = req.region_id ?? (topic === "ai-datacenters" ? "ireland" : regionsFor(topic)[0].id);
+  const topic = mentionsIreland ? "ai-datacenters" : req.topic ?? "ai-datacenters";
+  const regionId = mentionsIreland
+    ? "ireland"
+    : req.region_id && regionsFor(topic).some((r) => r.id === req.region_id)
+      ? req.region_id
+      : topic === "ai-datacenters" ? "ireland" : regionsFor(topic)[0].id;
   const r = mockRegion(topic, regionId);
   const top = r.narratives[0];
   const tone = r.score >= 8 ? "positive" : r.score <= -8 ? "negative" : "mixed";
