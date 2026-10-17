@@ -22,7 +22,7 @@ ANTHROPIC_API_KEY="${ANTHROPIC_API_KEY:-}"
 
 SUB_ID="$(az account show --query id -o tsv)"
 # ACR names are global + alphanumeric. Default is stable per subscription (same name on every re-run).
-ACR_NAME="${ACR_NAME:-pulseacr$(printf '%s' "$SUB_ID" | sha1sum | cut -c1-8)}"
+ACR_NAME="${ACR_NAME:-pulseacr$(printf '%s' "${SUB_ID//-/}" | cut -c1-8)}"
 
 REPO_ROOT="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
 TAG="${TAG:-$(git -C "$REPO_ROOT" rev-parse --short HEAD 2>/dev/null || date +%Y%m%d%H%M%S)}"
@@ -100,7 +100,7 @@ if ! az containerapp show -n "$APP" -g "$RG" -o none 2>/dev/null; then
     --user-assigned "$UAI_ID" --registry-server "$ACR_SERVER" --registry-identity "$UAI_ID" \
     --ingress external --target-port 8000 \
     --min-replicas 1 --max-replicas 2 --cpu 0.5 --memory 1Gi \
-    "${SECRET_ARGS[@]}" \
+    ${SECRET_ARGS[@]+"${SECRET_ARGS[@]}"} \
     --env-vars "${ENV_VARS[@]}" \
     -o none
 else

@@ -24,7 +24,7 @@ jobs:
       - run: pip install -r requirements.txt pytest httpx
       - name: pytest
         # exit code 5 = no tests collected; don't fail the build for that
-        run: pytest -q || [ $? -eq 5 ]
+        run: python -m pytest -q || [ $? -eq 5 ]
 
   web:
     runs-on: ubuntu-latest

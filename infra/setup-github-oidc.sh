@@ -23,7 +23,7 @@ fi
 
 SUB_ID="$(az account show --query id -o tsv)"
 TENANT_ID="$(az account show --query tenantId -o tsv)"
-ACR_NAME="${ACR_NAME:-pulseacr$(printf '%s' "$SUB_ID" | sha1sum | cut -c1-8)}"
+ACR_NAME="${ACR_NAME:-pulseacr$(printf '%s' "${SUB_ID//-/}" | cut -c1-8)}"
 RG_ID="$(az group show -n "$RG" --query id -o tsv)"
 ACR_ID="$(az acr show -n "$ACR_NAME" -g "$RG" --query id -o tsv)"
 
