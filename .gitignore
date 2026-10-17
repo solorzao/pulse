@@ -1,0 +1,25 @@
+# Node / Next.js
+node_modules/
+.next/
+out/
+.vercel/
+*.tsbuildinfo
+npm-debug.log*
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Env / secrets (seed/ data IS committed)
+.env*
+!.env.example
+
+# OS / editors
+.DS_Store
+.idea/
+.vscode/

@@ -1,0 +1,12 @@
+{
+  "id": "wave-hands-challenge",
+  "name": "\"Wave Hands\" dance challenge",
+  "steps": [
+    {"region_id": "seoul", "hours": 0, "note": "Origin: K-pop trainee posts a 15s routine on TikTok; 2M views in the first hour.", "count": 1840},
+    {"region_id": "manila", "hours": 2, "note": "Filipino dance crews duet it; jeepney and mall-food-court versions go viral.", "count": 3120},
+    {"region_id": "jakarta", "hours": 4, "note": "Remixed to a dangdut beat; office-worker versions dominate the For You page.", "count": 4410},
+    {"region_id": "los-angeles", "hours": 5, "note": "US creators and a few celebrities pick it up; Venice Beach group takes trend mainstream.", "count": 5230},
+    {"region_id": "sao-paulo", "hours": 6, "note": "Funk remix and football-team locker-room versions; fastest growth of any region.", "count": 6080}
+  ],
+  "arcs": [["seoul", "manila"], ["manila", "jakarta"], ["jakarta", "los-angeles"], ["los-angeles", "sao-paulo"]]
+}

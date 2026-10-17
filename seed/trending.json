@@ -1,0 +1,10 @@
+[
+  {"id": "wave-hands-challenge", "name": "\"Wave Hands\" dance challenge", "category": "Culture", "regions": ["seoul", "manila", "jakarta", "los-angeles", "sao-paulo"], "format": "Short video (TikTok / Reels)", "velocity": 3, "sentiment": 0.72, "count": 20680},
+  {"id": "heatwave-southern-europe", "name": "October heatwave in southern Europe", "category": "News", "regions": ["madrid", "paris", "istanbul"], "format": "News + photo threads", "velocity": 2, "sentiment": -0.48, "count": 9340},
+  {"id": "cat-in-boardroom", "name": "Cat interrupts board meeting", "category": "Meme", "regions": ["united-kingdom", "new-york", "toronto", "sydney"], "format": "Image macro / reaction meme", "velocity": 2, "sentiment": 0.61, "count": 12750},
+  {"id": "open-weights-model-drop", "name": "Surprise open-weights model release", "category": "Tech", "regions": ["shanghai", "taipei", "germany", "new-york"], "format": "Threads + benchmark screenshots", "velocity": 3, "sentiment": 0.34, "count": 8120},
+  {"id": "metro-fare-hike", "name": "Metro fare hike protests", "category": "News", "regions": ["mexico-city", "bogota", "santiago"], "format": "Protest photos + livestreams", "velocity": 1, "sentiment": -0.57, "count": 6410},
+  {"id": "phone-battery-gate", "name": "Flagship phone battery-drain complaints", "category": "Tech", "regions": ["seoul", "tokyo", "united-kingdom", "los-angeles"], "format": "Screenshots + review videos", "velocity": -1, "sentiment": -0.38, "count": 7290},
+  {"id": "street-food-ranking", "name": "\"Rank your street food\" meme", "category": "Meme", "regions": ["bangkok", "ho-chi-minh-city", "mumbai", "lagos", "mexico-city"], "format": "Tier-list images", "velocity": 1, "sentiment": 0.55, "count": 10930},
+  {"id": "film-festival-standing-ovation", "name": "Film festival 12-minute standing ovation", "category": "Culture", "regions": ["paris", "buenos-aires", "seoul"], "format": "Clips + reaction posts", "velocity": -2, "sentiment": 0.47, "count": 4880}
+]

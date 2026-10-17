@@ -1,0 +1,31 @@
+[
+ {
+  "id": "ai-datacenters",
+  "name": "AI datacenters",
+  "keywords": [
+   "datacenter",
+   "data center",
+   "ai",
+   "grid",
+   "power"
+  ]
+ },
+ {
+  "id": "electric-scooters",
+  "name": "Electric scooters",
+  "keywords": [
+   "scooter",
+   "e-scooter",
+   "battery"
+  ]
+ },
+ {
+  "id": "four-day-week",
+  "name": "Four-day work week",
+  "keywords": [
+   "four-day",
+   "4-day",
+   "work week"
+  ]
+ }
+]

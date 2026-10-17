@@ -1,0 +1,5 @@
+[
+  {"id": "ai-datacenters", "name": "AI Datacenters", "keywords": ["data center", "data centre", "datacenter", "hyperscale", "AI infrastructure", "server farm", "grid connection", "GPU cluster"]},
+  {"id": "electric-scooters", "name": "Electric Scooters", "keywords": ["e-scooter", "electric scooter", "e-bike", "electric motorbike", "scooter share", "battery swap", "micromobility"]},
+  {"id": "four-day-week", "name": "Four-Day Work Week", "keywords": ["four-day week", "4 day week", "4DW", "32-hour week", "compressed hours", "work-life balance", "reduced hours"]}
+]

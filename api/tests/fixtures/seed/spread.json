@@ -1,0 +1,54 @@
+{
+ "id": "dance-challenge",
+ "name": "Dance challenge",
+ "steps": [
+  {
+   "region_id": "seoul",
+   "hours": 0,
+   "note": "Origin",
+   "count": 1200
+  },
+  {
+   "region_id": "manila",
+   "hours": 2,
+   "note": "Picked up",
+   "count": 800
+  },
+  {
+   "region_id": "jakarta",
+   "hours": 4,
+   "note": "Remixes",
+   "count": 900
+  },
+  {
+   "region_id": "los-angeles",
+   "hours": 5,
+   "note": "Creators",
+   "count": 1500
+  },
+  {
+   "region_id": "sao-paulo",
+   "hours": 6,
+   "note": "Peaks",
+   "count": 2000
+  }
+ ],
+ "arcs": [
+  [
+   "seoul",
+   "manila"
+  ],
+  [
+   "manila",
+   "jakarta"
+  ],
+  [
+   "jakarta",
+   "los-angeles"
+  ],
+  [
+   "los-angeles",
+   "sao-paulo"
+  ]
+ ]
+}
